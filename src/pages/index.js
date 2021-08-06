@@ -32,7 +32,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>BFI IMAX Films</title>
       <h1 style={headingStyles}>
        BFI IMAX Films
       </h1>
