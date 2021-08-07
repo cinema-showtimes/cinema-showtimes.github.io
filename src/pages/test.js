@@ -31,12 +31,12 @@ const IndexPage = ({ data }) => {
   )
 }
 
-export const query = graphql`
-query MyQueryTest {
-    restApi {
-        film
-    }
-  }
-`
+// export const query = graphql`
+// query MyQueryTest {
+//     restApi {
+//         film
+//     }
+//   }
+// `
 
 export default IndexPage

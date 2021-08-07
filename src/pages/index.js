@@ -1,51 +1,31 @@
 import * as React from "react"
 import { graphql } from "gatsby"
-
-// styles
-const pageStyles = {
-  color: "#232129",
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
-const headingStyles = {
-  marginTop: 0,
-  marginBottom: 5,
-  maxWidth: 320,
-}
-const th = {
-  paddingTop: "12px",
-  paddingBottom: "12px",
-  textAlign: "left",
-  backgroundColor: "#04AA6D",
-  color: "white"
-}
-
-const table = {
-  width: "100%"
-}
-
-
-
+import "/src/styles/main.scss"
 
 // markup
 const IndexPage = ({ data }) => {
 
 
   return (
-    <main style={pageStyles}>
+    <main>
       <title>BFI IMAX Films</title>
-      <h1 style={headingStyles}>
-       BFI IMAX Films
+      <h1>
+        BFI IMAX Films
       </h1>
       {data.allFilmsYaml.edges.map(item => (
-        <table style={table} key={item.node.id}>
-          <tr>
-            <th colSpan="2" style={th}>{item.node.title}</th>
-          </tr>
-          {item.node.showtimes.map(showtime => (
+        <table key={item.node.id}>
+          <thead>
             <tr>
-              <td>Date</td><td><a href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + showtime.bookingid}>{showtime.time}</a></td>
+              <th colSpan="2">{item.node.title}</th>
             </tr>
-          ))}
+          </thead>
+          <tbody>
+            {item.node.showtimes.map(showtime => (
+              <tr key={showtime.bookingid}>
+                <td>Date</td><td><a target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + showtime.bookingid}>{showtime.time}</a></td>
+              </tr>
+            ))}
+          </tbody>
         </table>
       ))
       }
@@ -68,8 +48,5 @@ query MyQuery {
     }
   }
 }
-
-
 `
-
 export default IndexPage
