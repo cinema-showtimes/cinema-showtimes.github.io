@@ -46,10 +46,7 @@ const IndexPage = ({ data }) => {
               <td>Date</td><td><a href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + showtime.bookingid}>{showtime.time}</a></td>
             </tr>
           ))}
-
-
         </table>
-
       ))
       }
     </main>

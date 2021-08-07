@@ -25,5 +25,13 @@ module.exports = {
                 path: `./src/data/`,
             },
         },
+        {
+            resolve: 'gatsby-source-rest-api',
+            options: {
+              endpoints: [
+                "https://crimson-thunder-0139.arsenalhistory.workers.dev/"
+              ],
+            },
+          },
     ]
 }
