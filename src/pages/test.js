@@ -25,7 +25,7 @@ const IndexPage = ({ data }) => {
       <h1 style={headingStyles}>
        BFI IMAX Films
       </h1>
-      {data.restApi.film}
+      {/* {data.restApi.film} */}
 
     </main>
   )
