@@ -79,13 +79,15 @@ h1 {
 
   .poster {
     @include for-tablet-portrait-up {
-    float:left;
+      float:left;
     }
-    img{
+
+    img {
       border-radius: 16px;
       height: 192px;
+
       @include for-tablet-portrait-up {
-      height: 384px;
+        height: 384px;
       }
     }
     
