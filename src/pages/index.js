@@ -13,20 +13,24 @@ const IndexPage = ({ data }) => {
         BFI IMAX Films
       </h1>
       {data.allFilmsYaml.edges.map(item => (
-        <table key={item.node.id}>
-          <thead>
-            <tr>
-              <th colSpan="2">{item.node.title}</th>
-            </tr>
-          </thead>
-          <tbody>
+        <div key={item.node.id} className="movie-card">
+          <div className="poster">
+            <img src="https://via.placeholder.com/256x384" />
+          </div>
+          <div>
+            <div class="title"><h2>{item.node.title}</h2></div>
             {item.node.showtimes.map(showtime => (
-              <tr key={showtime.bookingid}>
-                <td>Date</td><td><a target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + showtime.bookingid}>{showtime.time}</a></td>
-              </tr>
+              <div key={showtime}>
+                <div>{showtime.date}</div>
+                <div>
+                  {showtime.times.map(time => (
+                    <a target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + time.bookingid}>{time.time}</a>
+                  ))}
+                </div>
+              </div>
             ))}
-          </tbody>
-        </table>
+          </div>
+        </div>
       ))
       }
     </main>
@@ -41,8 +45,11 @@ query MyQuery {
 				id
         title
         showtimes {
-          time
-          bookingid
+          date
+          times {
+            time
+            bookingid
+          }          
         }
       }
     }
