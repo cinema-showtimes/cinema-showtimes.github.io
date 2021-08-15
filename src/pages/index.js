@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import "/src/styles/main.scss"
 import Heading from "/src/components/heading"
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'
-import 'react-tabs/style/react-tabs.scss';
+//import 'react-tabs/style/react-tabs.scss';
 
 // markup
 const IndexPage = ({ data }) => {
