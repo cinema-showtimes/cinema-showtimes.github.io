@@ -23,17 +23,22 @@ const IndexPage = ({ data }) => {
 
 
             <div className="title"><h2>{item.node.title}</h2></div>
+            <ul className="categories">
+              {item.node.genres.map(genre => (
+                  <li key={genre.genre.id}>{genre.genre}</li>
+                ))}
+            </ul>
             <Tabs>
               <TabList>
                 {item.node.showtimes.map(showtime => (
-                    <Tab key={showtime.id}>{showtime.date}</Tab>
+                  <Tab key={showtime.id}>{showtime.date}</Tab>
                 ))}
               </TabList>
 
               {item.node.showtimes.map(showtime => (
                 <TabPanel key={showtime.id}>
                   {showtime.times.map(time => (
-                  <a key={time.bookingid} target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + time.bookingid}>{time.time}</a>
+                    <a key={time.bookingid} target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + time.bookingid}>{time.time}</a>
                   ))}
                 </TabPanel>
               ))}
@@ -54,6 +59,9 @@ query MyQuery {
       node {
 				id
         title
+        genres {
+					genre
+        }
         showtimes {
           date
           times {

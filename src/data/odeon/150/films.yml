@@ -5,6 +5,8 @@
   genres:
    - id: "1"
      genre: "Action"
+   - id: "2"
+     genre: "Documentary"
   showtimes :
    - date : "Thu 26 Aug"
      times :
