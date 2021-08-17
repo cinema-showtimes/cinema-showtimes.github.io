@@ -86,12 +86,22 @@ h1 {
   padding-inline-start: 0px;
   li {
   display: inline-block;
-  padding: 0px 10px 0px 10px;
-  
+  padding: 0px 15px 5px 15px;
   }
 }
 
-.react-tabs__tab--selected {
-  border-bottom: 4px solid $secondary-color;
-  padding-bottom: 3px;
+
+
+.react-tabs__tab{
+  color: #A5A3EA;
+
+  &.react-tabs__tab--selected {
+    border-bottom: 4px solid $secondary-color;
+    color: #DBDAFB;
+  }
+
+}
+
+.react-tabs__tab-panel--selected {
+  margin-top: 20px;
 }
