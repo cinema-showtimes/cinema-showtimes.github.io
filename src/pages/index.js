@@ -23,6 +23,7 @@ const IndexPage = ({ data }) => {
 
 
             <div className="title"><h2>{item.node.title}</h2></div>
+            <div className="length">{item.node.length}</div>
             <ul className="categories">
               {item.node.genres.map(genre => (
                   <li key={genre.genre.id}>{genre.genre}</li>
@@ -59,6 +60,7 @@ query MyQuery {
       node {
 				id
         title
+        length
         genres {
 					genre
         }
