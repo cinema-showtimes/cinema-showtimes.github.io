@@ -24,6 +24,7 @@ main {
     padding: 48px;
   }
 
+
   div {
     font-weight: 600;
     line-height: 24px;
@@ -35,11 +36,31 @@ main {
       margin-top: 16px;
     }
 
-    .length {
+    .classification {
       font-size: 16px;
       font-weight: normal;
       color: #dbdafb;
       margin-top: 15px;
+
+
+      .length {
+        margin-left: 10px;
+      }
+
+      .rating {
+        height: 30px;
+        width: 30px;
+        background-color: #EE7817;
+        border-radius: 50%;
+        display: inline-block;
+        padding: 2px 3px 2px 0px;
+        border: 2px solid #fff;
+        font-size: 20px;
+        text-align: center;
+        line-height: 28px;
+        letter-spacing: -0.1em;
+      }
+
     }
   }
 

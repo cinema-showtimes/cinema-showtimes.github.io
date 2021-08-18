@@ -18,7 +18,10 @@ const IndexPage = ({ data }) => {
           </div>
           <div className="right-panel">
             <h2 className="title">{item.node.title}</h2>
-            <div className="length">{item.node.length}</div>
+            <div className="classification">
+              <span class="rating">12</span>
+              <span class="length">{item.node.length}</span>
+            </div>
             <ul className="categories">
               {item.node.genres.map(genre => (
                 <li key={genre.genre.id}>{genre.genre}</li>
