@@ -1,4 +1,6 @@
+@import 'reset.scss';
 @import 'breakpoints.scss';
+@import 'headings.scss';
 @import 'variables.scss';
 
 
@@ -9,7 +11,7 @@ body {
 }
 
 main {
-  margin: 10px;
+  margin: 24px;
 }
 
 h1 {
@@ -36,22 +38,9 @@ h1 {
       margin: 10px 10px 0px 10px;
     }
 
-
-
     .title {
       margin-top: 16px;
 
-      h2 {
-        font-size: 32px;
-        line-height: 40px;
-        margin: 0;
-        @include for-tablet-portrait-up {
-          margin: 0px 0px 0px 10px;
-          font-size: 40px;
-        }
-  
-
-    }
     }
 
     .length {
@@ -94,6 +83,7 @@ h1 {
 
   .categories {
     padding: 0;
+    margin-top: 27px;
 
     li {
       display: inline-block;
@@ -104,7 +94,15 @@ h1 {
       text-decoration: none;
       border: 2px solid $secondary-color;
       margin-right: 10px;
+      line-height: 16px;
+      font-size: 12px;
     }
+  }
+
+  .synopsis {
+    margin-top: 26px;
+    font-size: 14px;
+    font-weight: normal;
   }
 
 }
@@ -112,14 +110,20 @@ h1 {
 .react-tabs__tab-list {
   
   list-style-type: none;
-  padding-inline-start: 0px;
+  margin-top: 28px;
   li {
   display: inline-block;
   padding: 0px 15px 5px 15px;
   }
 }
 
+.react-tabs {
+  margin-top: 15px;
+}
 
+.react-tabs__tab-panel {
+  margin-top: 28px;
+}
 
 .react-tabs__tab{
   color: #A5A3EA;

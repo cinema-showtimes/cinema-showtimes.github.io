@@ -29,6 +29,9 @@ const IndexPage = ({ data }) => {
                   <li key={genre.genre.id}>{genre.genre}</li>
                 ))}
             </ul>
+            <div class="synopsis">
+              {item.node.synopsis}
+            </div>
             <Tabs>
               <TabList>
                 {item.node.showtimes.map(showtime => (
@@ -61,6 +64,7 @@ query MyQuery {
 				id
         title
         length
+        synopsis
         genres {
 					genre
         }
