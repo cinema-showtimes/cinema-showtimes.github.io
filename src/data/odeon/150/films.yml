@@ -1,8 +1,8 @@
-- title : "IMAX Exclusive: Halsey presents If I Can’t Have"
+- title : "Free Guy"
   id : HO00001975
   rating: "12"
   length: "1h 55m"
-  synopsis : "When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story -- one that he can rewrite himself. In a world where there's no limits, he's determined to save the day his way before it's too late, and maybe find a little romance with the coder who conceived him."
+  synopsis : "When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story -- one that he can rewrite himself."
   genres:
    - id: "1"
      genre: "Action"

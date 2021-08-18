@@ -14,12 +14,6 @@ main {
   margin: 24px;
 }
 
-h1 {
-  margin: 0 0 5px 0;
-  max-width: 320;
-    
-}
-
 .movie-card {
   padding: 24px;
   background: #33324D;
@@ -35,7 +29,7 @@ h1 {
     font-weight: 600;
     line-height: 24px;
     @include for-tablet-portrait-up {
-      margin: 10px 10px 0px 10px;
+      margin: 28px 10px 0px 10px;
     }
 
     .title {
@@ -122,7 +116,7 @@ h1 {
   margin-top: 15px;
 }
 
-.react-tabs__tab-panel {
+.react-tabs__tab-panel--selected {
   margin-top: 28px;
 }
 
@@ -135,7 +129,7 @@ h1 {
   }
 
   &.react-tabs__tab-panel--selected {
-    margin-top: 20px;
+    margin-top: 28px;
   }
 }
 
