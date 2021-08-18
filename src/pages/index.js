@@ -10,17 +10,14 @@ const IndexPage = ({ data }) => {
 
   return (
     <main>
-      <title>BFI IMAX Films</title>
-
       <Heading title="BFI IMAX Films" />
-
       {data.allFilmsYaml.edges.map(item => (
         <div key={item.node.id} className="movie-card">
-          <div className="poster">
+          <div className="left-panel">
             <img src="https://via.placeholder.com/256x384" />
           </div>
-          <div>
-            <div className="title"><h2>{item.node.title}</h2></div>
+          <div className="right-panel">
+            <h2 className="title">{item.node.title}</h2>
             <div className="length">{item.node.length}</div>
             <ul className="categories">
               {item.node.genres.map(genre => (
@@ -45,7 +42,6 @@ const IndexPage = ({ data }) => {
                 </TabPanel>
               ))}
             </Tabs>
-
           </div>
         </div>
       ))
