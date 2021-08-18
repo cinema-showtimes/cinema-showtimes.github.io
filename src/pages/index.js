@@ -20,14 +20,12 @@ const IndexPage = ({ data }) => {
             <img src="https://via.placeholder.com/256x384" />
           </div>
           <div>
-
-
             <div className="title"><h2>{item.node.title}</h2></div>
             <div className="length">{item.node.length}</div>
             <ul className="categories">
               {item.node.genres.map(genre => (
-                  <li key={genre.genre.id}>{genre.genre}</li>
-                ))}
+                <li key={genre.genre.id}>{genre.genre}</li>
+              ))}
             </ul>
             <div class="synopsis">
               {item.node.synopsis}
