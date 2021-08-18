@@ -2,6 +2,8 @@ import * as  React from "react"
 import { graphql } from "gatsby"
 import "/src/styles/main.scss"
 import Heading from "/src/components/heading"
+import FilmPoster from "/src/components/film-poster"
+import MovieCard from "/src/components/movie-card"
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'
 //import 'react-tabs/style/react-tabs.scss';
 
@@ -12,41 +14,15 @@ const IndexPage = ({ data }) => {
     <main>
       <Heading title="BFI IMAX Films" />
       {data.allFilmsYaml.edges.map(item => (
-        <div key={item.node.id} className="movie-card">
-          <div className="left-panel">
-            <img src="https://via.placeholder.com/256x384" />
-          </div>
-          <div className="right-panel">
-            <h2 className="title">{item.node.title}</h2>
-            <div className="classification">
-              <span class="rating">12</span>
-              <span class="length">{item.node.length}</span>
-            </div>
-            <ul className="categories">
-              {item.node.genres.map(genre => (
-                <li key={genre.genre.id}>{genre.genre}</li>
-              ))}
-            </ul>
-            <div class="synopsis">
-              {item.node.synopsis}
-            </div>
-            <Tabs>
-              <TabList>
-                {item.node.showtimes.map(showtime => (
-                  <Tab key={showtime.id}>{showtime.date}</Tab>
-                ))}
-              </TabList>
-
-              {item.node.showtimes.map(showtime => (
-                <TabPanel key={showtime.id}>
-                  {showtime.times.map(time => (
-                    <a key={time.bookingid} target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + time.bookingid}>{time.time}</a>
-                  ))}
-                </TabPanel>
-              ))}
-            </Tabs>
-          </div>
-        </div>
+        <MovieCard 
+          id={item.node.id}
+          title={item.node.title} 
+          length={item.node.length} 
+          props={item.node}
+          synopsis={item.node.synopsis}
+          genres={item.node.genres}
+          showtimes={item.node.showtimes} 
+        />
       ))
       }
     </main>
