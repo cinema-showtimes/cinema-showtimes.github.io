@@ -2,9 +2,7 @@ import * as  React from "react"
 import { graphql } from "gatsby"
 import "/src/styles/main.scss"
 import Heading from "/src/components/heading"
-import FilmPoster from "/src/components/film-poster"
 import MovieCard from "/src/components/movie-card"
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'
 //import 'react-tabs/style/react-tabs.scss';
 
 // markup
@@ -22,6 +20,7 @@ const IndexPage = ({ data }) => {
           synopsis={item.node.synopsis}
           genres={item.node.genres}
           showtimes={item.node.showtimes} 
+          rating={item.node.rating}
         />
       ))
       }
@@ -38,6 +37,7 @@ query MyQuery {
         title
         length
         synopsis
+        rating
         genres {
 					genre
         }
