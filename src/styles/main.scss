@@ -51,7 +51,6 @@ main {
       .rating {
         height: 30px;
         width: 30px;
-        background-color: #EE7817;
         border-radius: 50%;
         display: inline-block;
         padding: 2px 3px 2px 0px;
@@ -60,6 +59,32 @@ main {
         text-align: center;
         line-height: 28px;
         letter-spacing: -0.1em;
+        color: #fff;
+
+        &.rU {
+          background-color: rgb(10, 199, 0);
+        }
+
+        &.r12A {
+          background-color: rgb(255, 125, 19);
+        }
+
+        &.r12 {
+          background-color: #EE7817;
+        }
+
+        &.r15 {
+          background-color: rgb(251, 79, 147);        
+        }
+
+        &.r18 {
+          background-color: rgb(220, 10, 10);      
+        }
+
+        &.rTBC {
+          background-color: #000;     
+        }
+       
       }
 
     }
@@ -145,3 +170,4 @@ main {
     color: #dbdafb;
   }
 }
+
