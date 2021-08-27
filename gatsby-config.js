@@ -1,12 +1,12 @@
 module.exports = {
     siteMetadata: {
         siteUrl: `https://www.yourdomain.tld`,
-        cinemas : {
+        cinemas: {
             odeon: {
-                bookingUrl : "https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId="
+                bookingUrl: "https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId="
             },
-            cineworld : {
-                bookingUrl : ""
+            cineworld: {
+                bookingUrl: ""
             }
         }
     },
@@ -25,14 +25,16 @@ module.exports = {
                 path: `./src/data/`,
             },
         },
-        // {
-        //     resolve: 'gatsby-source-rest-api',
-        //     options: {
-        //       endpoints: [
-        //         "https://crimson-thunder-0139.arsenalhistory.workers.dev/"
-        //       ],
-        //     },
-        //   },
-          `gatsby-plugin-sass`
+        {
+            resolve: 'gatsby-source-rest-api',
+            
+            options: {
+                name: 'cineworld-api',
+                endpoints: [
+                    "https://www.cineworld.co.uk/uk/data-api-service/v1/quickbook/10108/film-events/in-cinema/8045/at-date/2021-08-21"
+                ],
+            },
+        },
+        `gatsby-plugin-sass`
     ]
 }

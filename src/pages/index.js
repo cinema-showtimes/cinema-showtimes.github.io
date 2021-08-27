@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 import "/src/styles/main.scss"
 import Heading from "/src/components/heading"
 import MovieCard from "/src/components/movie-card"
-//import 'react-tabs/style/react-tabs.scss';
 
 // markup
 const IndexPage = ({ data }) => {

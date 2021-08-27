@@ -1,0 +1,10 @@
+@import "breakpoints.scss";
+
+.film-poster {
+    border-radius: 16px;
+    height: 192px;
+
+    @include for-tablet-portrait-up {
+      height: 384px;
+    }
+  }

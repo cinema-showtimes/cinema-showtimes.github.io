@@ -1,8 +1,9 @@
 import * as React  from "react"
+import "/src/styles/film-poster.scss"
 
 const FilmPoster = (props) => {
     return (
-        <img alt={props.alt} src={props.src} />
+        <img className="film-poster" alt={props.alt} src={props.src} />
     )
   }
 
