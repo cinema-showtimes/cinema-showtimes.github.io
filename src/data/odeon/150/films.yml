@@ -1,259 +1,263 @@
-- title : "Shang-Chi and the Legend of the Ten Rings"
-  id : HO00001472
-  synopsis : "Stars Simu Liu as Shang-Chi, who must
-confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings
-organization. "
-  length : 2h 12m
-  rating : 12A
-  genres :
-     - id : "0000000001"
-       genre : Action
-     - id : "0000000003"
-       genre : Adventure
-     - id : "0000000011"
-       genre : Fantasy
-  showtimes :
-   - date : "2021-09-03"
-     times :
-     - time : "11:00"
-       bookingid : 150-770
-     - time : "14:20"
-       bookingid : 150-771
-     - time : "17:40"
-       bookingid : 150-772
-     - time : "21:00"
-       bookingid : 150-773
-   - date : "2021-09-04"
-     times :
-     - time : "11:00"
-       bookingid : 150-774
-     - time : "14:20"
-       bookingid : 150-780
-     - time : "17:40"
-       bookingid : 150-786
-     - time : "21:00"
-       bookingid : 150-792
-   - date : "2021-09-05"
-     times :
-     - time : "10:00"
-       bookingid : 150-775
-     - time : "13:20"
-       bookingid : 150-781
-     - time : "16:40"
-       bookingid : 150-787
-     - time : "20:00"
-       bookingid : 150-793
-   - date : "2021-09-06"
-     times :
-     - time : "11:00"
-       bookingid : 150-776
-     - time : "14:20"
-       bookingid : 150-782
-     - time : "17:40"
-       bookingid : 150-788
-     - time : "21:00"
-       bookingid : 150-794
-   - date : "2021-09-07"
-     times :
-     - time : "11:00"
-       bookingid : 150-777
-     - time : "14:20"
-       bookingid : 150-783
-     - time : "17:40"
-       bookingid : 150-789
-     - time : "21:00"
-       bookingid : 150-795
-   - date : "2021-09-08"
-     times :
-     - time : "15:30"
-       bookingid : 150-784
-     - time : "18:50"
-       bookingid : 150-790
-     - time : "22:10"
-       bookingid : 150-796
-- title : "Apollo 11: First Steps Edition"
-  id : HO00001974
-  synopsis : "Timed to the 50th anniversary of NASA's celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-  length : 0h 47m
-  rating : TBC
-  genres :
-     - id : "0000000008"
-       genre : Documentary
-     - id : "0000000013"
-       genre : History
-  showtimes :
-   - date : "2021-08-21"
-     times :
-     - time : "10:40"
-       bookingid : 150-732
-   - date : "2021-08-23"
-     times :
-     - time : "10:40"
-       bookingid : 150-734
-   - date : "2021-08-25"
-     times :
-     - time : "10:40"
-       bookingid : 150-735
-- title : "Reminiscence"
-  id : HO00001466
-  synopsis : "Nick Bannister (Jackman), a private investigator of the mind, navigates the darkly alluring world of the past by helping his clients access lost memories."
-  length : 1h 56m
-  rating : 12A
-  genres :
-     - id : "0000000016"
-       genre : Mystery
-     - id : "0000000018"
-       genre : Romance
-     - id : "0000000020"
-       genre : Thriller
-  showtimes :
-   - date : "2021-08-21"
-     times :
-     - time : "21:00"
-       bookingid : 150-758
-   - date : "2021-08-22"
-     times :
-     - time : "21:00"
-       bookingid : 150-759
-   - date : "2021-08-23"
-     times :
-     - time : "21:00"
-       bookingid : 150-760
-   - date : "2021-08-24"
-     times :
-     - time : "21:00"
-       bookingid : 150-761
-   - date : "2021-08-25"
-     times :
-     - time : "21:00"
-       bookingid : 150-762
-   - date : "2021-08-26"
-     times :
-     - time : "10:00"
-       bookingid : 150-799
-- title : "Snake Eyes"
-  id : HO00000393
-  synopsis : "Snake Eyes: G.I. Joe Origins stars Henry Golding as Snake Eyes, a tenacious loner who is welcomed into an ancient Japanese clan called the Arashikage."
-  length : 2h 1m
-  rating : 12A
-  genres :
-     - id : "0000000001"
-       genre : Action
-     - id : "0000000003"
-       genre : Adventure
-     - id : "0000000011"
-       genre : Fantasy
-  showtimes :
-   - date : "2021-08-21"
-     times :
-     - time : "18:00"
-       bookingid : 150-747
-   - date : "2021-08-22"
-     times :
-     - time : "18:00"
-       bookingid : 150-748
-   - date : "2021-08-23"
-     times :
-     - time : "18:00"
-       bookingid : 150-749
-   - date : "2021-08-24"
-     times :
-     - time : "18:00"
-       bookingid : 150-750
-   - date : "2021-08-25"
-     times :
-     - time : "18:00"
-       bookingid : 150-751
-   - date : "2021-08-26"
-     times :
-     - time : "12:40"
-       bookingid : 150-731
-- title : "Free Guy"
-  id : HO00000367
-  synopsis : "A bank teller discovers he is a background character in an open world video game called Free City that will soon go offline."
-  length : 1h 55m
-  rating : 12A
-  genres :
-     - id : "0000000001"
-       genre : Action
-     - id : "0000000003"
-       genre : Adventure
-     - id : "0000000006"
-       genre : Comedy
-  showtimes :
-   - date : "2021-08-21"
-     times :
-     - time : "12:20"
-       bookingid : 150-768
-     - time : "15:10"
-       bookingid : 150-742
-   - date : "2021-08-22"
-     times :
-     - time : "12:20"
-       bookingid : 150-767
-     - time : "15:10"
-       bookingid : 150-743
-   - date : "2021-08-23"
-     times :
-     - time : "12:20"
-       bookingid : 150-766
-     - time : "15:10"
-       bookingid : 150-744
-   - date : "2021-08-24"
-     times :
-     - time : "12:20"
-       bookingid : 150-765
-     - time : "15:10"
-       bookingid : 150-745
-   - date : "2021-08-25"
-     times :
-     - time : "12:20"
-       bookingid : 150-764
-     - time : "15:10"
-       bookingid : 150-746
-   - date : "2021-08-26"
-     times :
-     - time : "15:20"
-       bookingid : 150-769
-- title : "Superpower Dogs"
-  id : HO00001045
-  synopsis : "Join an immersive IMAX adventure to experience the life-saving superpowers and extraordinary bravery of some of the world's most amazing dogs. "
-  length : 0h 47m
-  rating : U
-  genres :
-     - id : "0000000008"
-       genre : Documentary
-  showtimes :
-   - date : "2021-08-22"
-     times :
-     - time : "10:40"
-       bookingid : 150-738
-   - date : "2021-08-24"
-     times :
-     - time : "10:40"
-       bookingid : 150-740
-- title : "IMAX Exclusive: Halsey presents If I Can't Have"
-  id : HO00001975
-  synopsis : "If I Can't Have Love, I Want Power, an hour-long film experience set to the music of Halsey's upcoming album."
-  length : 0h 53m
-  rating : TBC
-  genres :
-     - id : "0000000011"
-       genre : Fantasy
-     - id : "0000000014"
-       genre : Horror
-     - id : "0000000015"
-       genre : Musical
-  showtimes :
-   - date : "2021-08-26"
-     times :
-     - time : "18:15"
-       bookingid : 150-798
-     - time : "20:00"
-       bookingid : 150-678
-     - time : "21:45"
-       bookingid : 150-685
-   - date : "2021-08-28"
-     times :
-     - time : "19:00"
-       bookingid : 150-686
+- id: "150"
+  title: "BFI IMAX"
+  slug: "bfi-imax"
+  movies:
+  - title : "Shang-Chi and the Legend of the Ten Rings"
+    id : HO00001472
+    synopsis : "Stars Simu Liu as Shang-Chi, who must
+  confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings
+  organization. "
+    length : 2h 12m
+    rating : 12A
+    genres :
+      - id : "0000000001"
+        genre : Action
+      - id : "0000000003"
+        genre : Adventure
+      - id : "0000000011"
+        genre : Fantasy
+    showtimes :
+    - date : "2021-09-03"
+      times :
+      - time : "11:00"
+        bookingid : 150-770
+      - time : "14:20"
+        bookingid : 150-771
+      - time : "17:40"
+        bookingid : 150-772
+      - time : "21:00"
+        bookingid : 150-773
+    - date : "2021-09-04"
+      times :
+      - time : "11:00"
+        bookingid : 150-774
+      - time : "14:20"
+        bookingid : 150-780
+      - time : "17:40"
+        bookingid : 150-786
+      - time : "21:00"
+        bookingid : 150-792
+    - date : "2021-09-05"
+      times :
+      - time : "10:00"
+        bookingid : 150-775
+      - time : "13:20"
+        bookingid : 150-781
+      - time : "16:40"
+        bookingid : 150-787
+      - time : "20:00"
+        bookingid : 150-793
+    - date : "2021-09-06"
+      times :
+      - time : "11:00"
+        bookingid : 150-776
+      - time : "14:20"
+        bookingid : 150-782
+      - time : "17:40"
+        bookingid : 150-788
+      - time : "21:00"
+        bookingid : 150-794
+    - date : "2021-09-07"
+      times :
+      - time : "11:00"
+        bookingid : 150-777
+      - time : "14:20"
+        bookingid : 150-783
+      - time : "17:40"
+        bookingid : 150-789
+      - time : "21:00"
+        bookingid : 150-795
+    - date : "2021-09-08"
+      times :
+      - time : "15:30"
+        bookingid : 150-784
+      - time : "18:50"
+        bookingid : 150-790
+      - time : "22:10"
+        bookingid : 150-796
+  - title : "Apollo 11: First Steps Edition"
+    id : HO00001974
+    synopsis : "Timed to the 50th anniversary of NASA's celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+    length : 0h 47m
+    rating : TBC
+    genres :
+      - id : "0000000008"
+        genre : Documentary
+      - id : "0000000013"
+        genre : History
+    showtimes :
+    - date : "2021-08-21"
+      times :
+      - time : "10:40"
+        bookingid : 150-732
+    - date : "2021-08-23"
+      times :
+      - time : "10:40"
+        bookingid : 150-734
+    - date : "2021-08-25"
+      times :
+      - time : "10:40"
+        bookingid : 150-735
+  - title : "Reminiscence"
+    id : HO00001466
+    synopsis : "Nick Bannister (Jackman), a private investigator of the mind, navigates the darkly alluring world of the past by helping his clients access lost memories."
+    length : 1h 56m
+    rating : 12A
+    genres :
+      - id : "0000000016"
+        genre : Mystery
+      - id : "0000000018"
+        genre : Romance
+      - id : "0000000020"
+        genre : Thriller
+    showtimes :
+    - date : "2021-08-21"
+      times :
+      - time : "21:00"
+        bookingid : 150-758
+    - date : "2021-08-22"
+      times :
+      - time : "21:00"
+        bookingid : 150-759
+    - date : "2021-08-23"
+      times :
+      - time : "21:00"
+        bookingid : 150-760
+    - date : "2021-08-24"
+      times :
+      - time : "21:00"
+        bookingid : 150-761
+    - date : "2021-08-25"
+      times :
+      - time : "21:00"
+        bookingid : 150-762
+    - date : "2021-08-26"
+      times :
+      - time : "10:00"
+        bookingid : 150-799
+  - title : "Snake Eyes"
+    id : HO00000393
+    synopsis : "Snake Eyes: G.I. Joe Origins stars Henry Golding as Snake Eyes, a tenacious loner who is welcomed into an ancient Japanese clan called the Arashikage."
+    length : 2h 1m
+    rating : 12A
+    genres :
+      - id : "0000000001"
+        genre : Action
+      - id : "0000000003"
+        genre : Adventure
+      - id : "0000000011"
+        genre : Fantasy
+    showtimes :
+    - date : "2021-08-21"
+      times :
+      - time : "18:00"
+        bookingid : 150-747
+    - date : "2021-08-22"
+      times :
+      - time : "18:00"
+        bookingid : 150-748
+    - date : "2021-08-23"
+      times :
+      - time : "18:00"
+        bookingid : 150-749
+    - date : "2021-08-24"
+      times :
+      - time : "18:00"
+        bookingid : 150-750
+    - date : "2021-08-25"
+      times :
+      - time : "18:00"
+        bookingid : 150-751
+    - date : "2021-08-26"
+      times :
+      - time : "12:40"
+        bookingid : 150-731
+  - title : "Free Guy"
+    id : HO00000367
+    synopsis : "A bank teller discovers he is a background character in an open world video game called Free City that will soon go offline."
+    length : 1h 55m
+    rating : 12A
+    genres :
+      - id : "0000000001"
+        genre : Action
+      - id : "0000000003"
+        genre : Adventure
+      - id : "0000000006"
+        genre : Comedy
+    showtimes :
+    - date : "2021-08-21"
+      times :
+      - time : "12:20"
+        bookingid : 150-768
+      - time : "15:10"
+        bookingid : 150-742
+    - date : "2021-08-22"
+      times :
+      - time : "12:20"
+        bookingid : 150-767
+      - time : "15:10"
+        bookingid : 150-743
+    - date : "2021-08-23"
+      times :
+      - time : "12:20"
+        bookingid : 150-766
+      - time : "15:10"
+        bookingid : 150-744
+    - date : "2021-08-24"
+      times :
+      - time : "12:20"
+        bookingid : 150-765
+      - time : "15:10"
+        bookingid : 150-745
+    - date : "2021-08-25"
+      times :
+      - time : "12:20"
+        bookingid : 150-764
+      - time : "15:10"
+        bookingid : 150-746
+    - date : "2021-08-26"
+      times :
+      - time : "15:20"
+        bookingid : 150-769
+  - title : "Superpower Dogs"
+    id : HO00001045
+    synopsis : "Join an immersive IMAX adventure to experience the life-saving superpowers and extraordinary bravery of some of the world's most amazing dogs. "
+    length : 0h 47m
+    rating : U
+    genres :
+      - id : "0000000008"
+        genre : Documentary
+    showtimes :
+    - date : "2021-08-22"
+      times :
+      - time : "10:40"
+        bookingid : 150-738
+    - date : "2021-08-24"
+      times :
+      - time : "10:40"
+        bookingid : 150-740
+  - title : "IMAX Exclusive: Halsey presents If I Can't Have"
+    id : HO00001975
+    synopsis : "If I Can't Have Love, I Want Power, an hour-long film experience set to the music of Halsey's upcoming album."
+    length : 0h 53m
+    rating : TBC
+    genres :
+      - id : "0000000011"
+        genre : Fantasy
+      - id : "0000000014"
+        genre : Horror
+      - id : "0000000015"
+        genre : Musical
+    showtimes :
+    - date : "2021-08-26"
+      times :
+      - time : "18:15"
+        bookingid : 150-798
+      - time : "20:00"
+        bookingid : 150-678
+      - time : "21:45"
+        bookingid : 150-685
+    - date : "2021-08-28"
+      times :
+      - time : "19:00"
+        bookingid : 150-686

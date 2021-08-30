@@ -5,41 +5,30 @@ import Heading from "/src/components/heading"
 import MovieCard from "/src/components/movie-card"
 
 // markup
-const IndexPage = ({ data }) => {
-console.log(data);
+const CinemaPage = ({ data }) => {
+console.log(data)
+const item = data;
   return (
     <main>
       <Heading title="BFI IMAX Films" />
-      {data.allFilmsYaml.edges.map(item => (
-
-
-        item.node.movies.map(movie=>(
-
-          <MovieCard 
-            id={movie.id}
-            title={movie.title} 
-            length={movie.length} 
-            props={movie}
-            synopsis={movie.synopsis}
-            genres={movie.genres}
-            showtimes={movie.showtimes} 
-            rating={movie.rating}
-          />
-
-        ))
-
-        
-      ))
+        <MovieCard 
+          id={item.id}
+          title={item.title} 
+          length={item.length} 
+          //props={item}
+          synopsis={item.synopsis}
+          genres={item.genres}
+          showtimes={item.showtimes} 
+          rating={item.rating}
+        />
       }
     </main>
   )
 }
 
 export const query = graphql`
-query MovieQuery {
-  allFilmsYaml {
-    edges {
-      node {
+query MyQuery($id: String) {
+  filmsYaml(id: {eq: $id}) {
         id
         title
         slug
@@ -57,12 +46,11 @@ query MovieQuery {
             times {
               time
               bookingid
-            }          
+            }
           }
+        }
       }
-      }
-    }
-  }
 }
+
 `
-export default IndexPage
+export default CinemaPage
