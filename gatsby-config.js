@@ -26,12 +26,6 @@ module.exports = {
             },
         },
         {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                path: `./src/pages/films/`,
-            },
-        },
-        {
             resolve: 'gatsby-source-rest-api',
             
             options: {
