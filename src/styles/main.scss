@@ -94,10 +94,12 @@ main {
   a {
     color: #dbdafb;
     margin-right: 10px;
+    margin-bottom: 10px;
     border-radius: 32px;
     padding: 4px 12px;
     text-decoration: none;
     border: 2px solid $secondary-color;
+    display: inline-block;
 
     &:active,
     &:hover {
@@ -140,8 +142,10 @@ main {
 .react-tabs__tab-list {
   list-style-type: none;
   margin-top: 28px;
+  overflow-x: auto;
+  white-space: nowrap;
   li {
-    display: inline-block;
+    display: table-cell;
     padding: 0px 15px 5px 15px;
   }
 }
