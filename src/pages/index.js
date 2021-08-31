@@ -11,10 +11,7 @@ console.log(data);
     <main>
       <Heading title="BFI IMAX Films" />
       {data.allFilmsYaml.edges.map(item => (
-
-
         item.node.movies.map(movie=>(
-
           <MovieCard 
             id={movie.id}
             title={movie.title} 
@@ -25,10 +22,7 @@ console.log(data);
             showtimes={movie.showtimes} 
             rating={movie.rating}
           />
-
         ))
-
-        
       ))
       }
     </main>

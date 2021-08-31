@@ -17,7 +17,8 @@ const MovieCard = (props) => {
           <span className="length">{props.length}</span>
         </div>
         <ul className="categories">
-          {props.genres.map(genre => (
+          
+          {props.genres && props.genres.map(genre => (
             <li key={genre.genre.id}>{genre.genre}</li>
           ))}
         </ul>
@@ -26,7 +27,7 @@ const MovieCard = (props) => {
         </div>
         <Tabs>
           <TabList>
-            {props.showtimes.map(showtime => (
+            {props.showtimes && props.showtimes.map(showtime => (
               <Tab key={showtime.id}>
                 <Moment format="ddd DD MMM">
                 {showtime.date}
@@ -35,7 +36,7 @@ const MovieCard = (props) => {
             ))}
           </TabList>
 
-          {props.showtimes.map(showtime => (
+          {props.showtimes && props.showtimes.map(showtime => (
             <TabPanel key={showtime.id}>
               {showtime.times.map(time => (
                 <a key={time.bookingid} target="_blank" href={"https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId=" + time.bookingid}>{time.time}</a>

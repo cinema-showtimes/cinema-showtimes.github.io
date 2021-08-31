@@ -6,21 +6,22 @@ import MovieCard from "/src/components/movie-card"
 
 // markup
 const CinemaPage = ({ data }) => {
-console.log(data)
-const item = data;
+
   return (
     <main>
       <Heading title="BFI IMAX Films" />
+
+      {data.filmsYaml.movies.map(movie=>(
         <MovieCard 
-          id={item.id}
-          title={item.title} 
-          length={item.length} 
-          //props={item}
-          synopsis={item.synopsis}
-          genres={item.genres}
-          showtimes={item.showtimes} 
-          rating={item.rating}
+          id={movie.id}
+          title={movie.title} 
+          length={movie.length} 
+          synopsis={movie.synopsis}
+          genres={movie.genres}
+          showtimes={movie.showtimes} 
+          rating={movie.rating}
         />
+      ))
       }
     </main>
   )
