@@ -22,13 +22,13 @@ const MovieCard = (props) => {
             <li key={genre.genre.id}>{genre.genre}</li>
           ))}
         </ul>
-        <div class="synopsis">
+        <div className="synopsis">
           {props.synopsis}
         </div>
         <Tabs>
           <TabList>
             {props.showtimes && props.showtimes.map(showtime => (
-              <Tab key={showtime.id}>
+              <Tab key={showtime.date}>
                 <Moment format="ddd DD MMM">
                 {showtime.date}
                 </Moment>

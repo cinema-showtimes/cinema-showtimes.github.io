@@ -6,23 +6,28 @@ import MovieCard from "/src/components/movie-card"
 
 // markup
 const IndexPage = ({ data }) => {
-console.log(data);
+  console.log(data);
   return (
     <main>
-      <Heading title="BFI IMAX Films" />
+
       {data.allFilmsYaml.edges.map(item => (
-        item.node.movies.map(movie=>(
-          <MovieCard 
-            id={movie.id}
-            title={movie.title} 
-            length={movie.length} 
-            props={movie}
-            synopsis={movie.synopsis}
-            genres={movie.genres}
-            showtimes={movie.showtimes} 
-            rating={movie.rating}
-          />
-        ))
+        <div>
+          <Heading title={item.node.title}></Heading>
+          {item.node.movies.map(movie => (
+            <MovieCard
+              key={movie.id}
+              id={movie.id}
+              title={movie.title}
+              length={movie.length}
+              props={movie}
+              synopsis={movie.synopsis}
+              genres={movie.genres}
+              showtimes={movie.showtimes}
+              rating={movie.rating}
+            />
+          ))
+          }
+        </div>
       ))
       }
     </main>

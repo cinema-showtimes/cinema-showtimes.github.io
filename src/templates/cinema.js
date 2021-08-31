@@ -12,7 +12,8 @@ const CinemaPage = ({ data }) => {
       <Heading title={data.filmsYaml.title} />
 
       {data.filmsYaml.movies.map(movie=>(
-        <MovieCard 
+        <MovieCard
+          key ={movie.id} 
           id={movie.id}
           title={movie.title} 
           length={movie.length} 
