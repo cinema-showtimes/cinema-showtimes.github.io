@@ -9,7 +9,7 @@ const CinemaPage = ({ data }) => {
 
   return (
     <main>
-      <Heading title="BFI IMAX Films" />
+      <Heading title={data.filmsYaml.title} />
 
       {data.filmsYaml.movies.map(movie=>(
         <MovieCard 
