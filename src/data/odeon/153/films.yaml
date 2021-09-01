@@ -192,7 +192,7 @@
     id : HO00001379
     synopsis : "From writer/director James Gunn comes Warner Bros. Pictures' superhero action adventure \"The Suicide Squad,\" featuring a collection of the most degenerate delinquents in "
     length : 2h 12m
-    rating : 15A
+    rating : "15"
     genres :
       - id : "0000000001"
         genre : Action

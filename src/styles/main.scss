@@ -3,6 +3,7 @@
 @import "headings.scss";
 @import "variables.scss";
 
+
 body {
   font: 100% $font-stack;
   color: $primary-color;
@@ -45,45 +46,63 @@ main {
 
       .length {
         margin-left: 10px;
-        vertical-align: bottom;
+        vertical-align: super;
       }
 
       .rating {
-        height: 30px;
-        width: 30px;
-        border-radius: 50%;
+        height: 38px;
+        width: 38px;
         display: inline-block;
-        padding: 2px 3px 2px 0px;
-        border: 2px solid #fff;
-        font-size: 18px;
-        text-align: center;
-        line-height: 28px;
-        letter-spacing: -0.1em;
-        color: #fff;
 
         &.rU {
-          background-color: rgb(10, 199, 0);
+          background: url(/u.svg) no-repeat;
+          background-size: 38px;
+        }
+
+        &.rPG {
+          background: url(/pg.svg) no-repeat;
+          background-size: 38px;
         }
 
         &.r12A {
-          background-color: rgb(255, 125, 19);
-          line-height: 31px;
+          background: url(/12A.svg) no-repeat;
+          background-size: 38px;
         }
 
         &.r12 {
-          background-color: #EE7817;
+          background: url(/12.svg) no-repeat;
+          background-size: 38px;
         }
 
         &.r15 {
-          background-color: rgb(251, 79, 147);        
+          background: url(/15.svg) no-repeat;
+          background-size: 38px;       
         }
 
         &.r18 {
-          background-color: rgb(220, 10, 10);      
+          background: url(/18.svg) no-repeat;
+          background-size: 38px;     
         }
 
         &.rTBC {
-          background-color: #000;     
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          display: inline-block;
+          padding: 2px 3px 2px 0px;
+          border: 2px solid #fff;
+          font-size: 18px;
+          text-align: center;
+          line-height: 28px;
+          letter-spacing: -0.1em;
+          color: #fff;
+          background-color: #000; 
+          content: "TBC";
+          
+          &::after {
+            content: "TBC";
+        }
+          
         }
        
       }

@@ -13,7 +13,7 @@ const MovieCard = (props) => {
       <div className="right-panel">
         <h2 className="title">{props.title}</h2>
         <div className="classification">
-          <span className={"rating r"+ props.rating}>{props.rating}</span>
+          <span className={"rating r"+ props.rating}></span>
           <span className="length">{props.length}</span>
         </div>
         <ul className="categories">
