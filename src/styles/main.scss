@@ -22,19 +22,22 @@ main {
   height: 100%;
   @include for-tablet-portrait-up {
     min-height: 380px;
-    padding: 48px;
+    margin: 64px;
   }
 
 
-  div {
+  .right-panel {
     font-weight: 600;
     line-height: 24px;
     @include for-tablet-portrait-up {
-      margin: 28px 10px 0px 10px;
+      margin: 0px 10px 0px 10px;
     }
 
     .title {
       margin-top: 16px;
+      @include for-tablet-portrait-up {
+      margin-top:0px;
+      }
     }
 
     .classification {
@@ -135,6 +138,7 @@ main {
   .left-panel {
     @include for-tablet-portrait-up {
       float: left;
+      margin-right:32px;
     }
   }
 
