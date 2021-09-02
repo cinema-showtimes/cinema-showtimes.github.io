@@ -36,7 +36,9 @@ main {
     .title {
       margin-top: 16px;
       @include for-tablet-portrait-up {
-      margin-top:0px;
+        margin-top:0px;
+        float:left;
+        padding-right: 10px;
       }
     }
 
@@ -45,17 +47,28 @@ main {
       font-weight: normal;
       color: #dbdafb;
       margin-top: 15px;
+      @include for-tablet-portrait-up {
+        margin-top: 0px;
+      }
 
 
       .length {
         margin-left: 10px;
         vertical-align: super;
+        @include for-tablet-portrait-up {
+          margin-left: 0px;
+        }
       }
 
       .rating {
         height: 38px;
         width: 38px;
         display: inline-block;
+
+        @include for-tablet-portrait-up {
+          margin-top: 12px;
+          margin-right: 10px;
+        }
 
         &.rU {
           background: url(/u.svg) no-repeat;
@@ -101,6 +114,10 @@ main {
           color: #fff;
           background-color: #000; 
           content: "TBC";
+
+          @include for-tablet-portrait-up {
+            margin-right: 10px;
+          }
           
           &::after {
             content: "TBC";

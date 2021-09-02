@@ -2,7 +2,6 @@ h1 {
     font-size: 2em;
     line-height: 40px;
     margin: 0 0 5px 0;
-    max-width: 320;
 }
 
 h2 {
@@ -10,7 +9,7 @@ h2 {
     line-height: 40px;
     margin: 0;
     @include for-tablet-portrait-up {
-      margin: 0px 0px 0px 10px;
       font-size: 40px;
+      padding-top: 10px;
     }
 }
