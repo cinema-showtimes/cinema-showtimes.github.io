@@ -3,12 +3,16 @@ import { graphql } from "gatsby"
 import "/src/styles/main.scss"
 import Heading from "/src/components/heading"
 import MovieCard from "/src/components/movie-card"
+import { Helmet } from "react-helmet"
 
 // markup
 const IndexPage = ({ data }) => {
   console.log(data);
   return (
     <main>
+      <Helmet>
+          <title>All Films</title>
+      </Helmet>
 
       {data.allFilmsYaml.edges.map(item => (
         <div>

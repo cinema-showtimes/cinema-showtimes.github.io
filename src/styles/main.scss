@@ -101,6 +101,12 @@ main {
           
           &::after {
             content: "TBC";
+
+            
+        }
+        
+        &+.length {
+          vertical-align: bottom;
         }
           
         }
