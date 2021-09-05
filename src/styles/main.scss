@@ -55,7 +55,6 @@ main {
 
       .length {
         margin-left: 10px;
-        vertical-align: super;
         @include for-tablet-portrait-up {
           margin-left: 0px;
         }
@@ -74,37 +73,46 @@ main {
         &.rU {
           background: url(/u.svg) no-repeat;
           background-size: 38px;
+          background-position-y: 4px;
         }
 
         &.rPG {
           background: url(/pg.svg) no-repeat;
           background-size: 38px;
+          background-position-y: 4px;
         }
 
         &.r12A {
           background: url(/12A.svg) no-repeat;
           background-size: 38px;
+          background-position-y: 4px;
         }
 
         &.r12 {
           background: url(/12.svg) no-repeat;
           background-size: 38px;
+          background-position-y: 4px;
         }
 
         &.r15 {
           background: url(/15.svg) no-repeat;
-          background-size: 38px;       
+          background-size: 38px; 
+          background-position-y: 4px;     
         }
 
         &.r18 {
           background: url(/18.svg) no-repeat;
-          background-size: 38px;     
+          background-size: 38px;
+          background-position-y: 4px;    
         }
 
         &.rTBC {
           background: url(/TBC.svg) no-repeat;
-          background-size: 38px;               
+          background-size: 38px;   
+          background-position-y: 4px;            
         }
+
+
        
       }
 
