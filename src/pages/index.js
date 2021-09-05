@@ -20,6 +20,7 @@ const IndexPage = ({ data }) => {
             <MovieCard
               key={movie.id}
               id={movie.id}
+              poster={movie.poster}
               title={movie.title}
               length={movie.length}
               props={movie}
@@ -49,6 +50,7 @@ query MovieQuery {
           id
           title
           length
+          poster
           synopsis
           rating
           genres {

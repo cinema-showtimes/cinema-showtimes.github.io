@@ -8,7 +8,7 @@ const MovieCard = (props) => {
   return (
     <div key={props.id} className="movie-card">
       <div className="left-panel">
-        <FilmPoster src="https://via.placeholder.com/256x384" alt={props.title} />
+        <FilmPoster src={props.poster} alt={props.title} />
       </div>
       <div className="right-panel">
         <h2 className="title">{props.title}</h2>

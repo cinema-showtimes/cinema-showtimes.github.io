@@ -26,12 +26,11 @@ module.exports = {
             },
         },
         {
-            resolve: 'gatsby-source-rest-api',
-            
+            resolve: 'gatsby-source-rest-api',            
             options: {
                 name: 'cineworld-api',
                 endpoints: [
-                    "https://www.cineworld.co.uk/uk/data-api-service/v1/quickbook/10108/film-events/in-cinema/8045/at-date/2021-08-21"
+                    "https://www.cineworld.co.uk/uk/data-api-service/v1/quickbook/10108/film-events/in-cinema/8045/at-date/2021-09-21"
                 ],
             },
         },
