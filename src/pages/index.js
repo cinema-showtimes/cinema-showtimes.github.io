@@ -7,11 +7,10 @@ import { Helmet } from "react-helmet"
 
 // markup
 const IndexPage = ({ data }) => {
-  console.log(data);
   return (
     <main>
       <Helmet>
-          <title>All Films</title>
+          <title>Cinema showtimes | All Films</title>
       </Helmet>
 
       {data.allFilmsYaml.edges.map(item => (
