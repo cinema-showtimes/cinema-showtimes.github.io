@@ -37,7 +37,7 @@ main {
       margin-top: 16px;
       @include for-tablet-portrait-up {
         margin-top:0px;
-        float:left;
+        display: inline;
         padding-right: 10px;
       }
     }
@@ -49,6 +49,7 @@ main {
       margin-top: 15px;
       @include for-tablet-portrait-up {
         margin-top: 0px;
+        display: inline;
       }
 
 
