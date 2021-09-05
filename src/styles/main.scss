@@ -101,34 +101,8 @@ main {
         }
 
         &.rTBC {
-          height: 30px;
-          width: 30px;
-          border-radius: 50%;
-          display: inline-block;
-          padding: 2px 3px 2px 0px;
-          border: 2px solid #fff;
-          font-size: 18px;
-          text-align: center;
-          line-height: 28px;
-          letter-spacing: -0.1em;
-          color: #fff;
-          background-color: #000; 
-          content: "TBC";
-
-          @include for-tablet-portrait-up {
-            margin-right: 10px;
-          }
-          
-          &::after {
-            content: "TBC";
-
-            
-        }
-        
-        &+.length {
-          vertical-align: bottom;
-        }
-          
+          background: url(/TBC.svg) no-repeat;
+          background-size: 38px;               
         }
        
       }
