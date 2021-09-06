@@ -1,0 +1,116 @@
+- id: "150"
+  title: "BFI IMAX"
+  slug: "bfi-imax"
+  movies: 
+  - title : "Shang-Chi and the Legend of the Ten Rings"
+    id : HO00001472
+    synopsis : "Stars Simu Liu as Shang-Chi, who must
+confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings
+organization. "
+    poster : "https://image.tmdb.org/t/p/original//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
+    length : 2h 12m
+    rating : "12A"
+    genres :
+       - id : "0000000001"
+         genre : Action
+       - id : "0000000003"
+         genre : Adventure
+       - id : "0000000011"
+         genre : Fantasy
+    showtimes :
+     - date : "2021-09-07"
+       times :
+       - time : "11:00"
+         bookingid : 150-777
+       - time : "14:20"
+         bookingid : 150-783
+       - time : "17:40"
+         bookingid : 150-789
+       - time : "21:00"
+         bookingid : 150-795
+     - date : "2021-09-08"
+       times :
+       - time : "15:30"
+         bookingid : 150-784
+       - time : "18:50"
+         bookingid : 150-790
+       - time : "22:10"
+         bookingid : 150-796
+     - date : "2021-09-09"
+       times :
+       - time : "11:00"
+         bookingid : 150-779
+       - time : "14:20"
+         bookingid : 150-785
+       - time : "17:40"
+         bookingid : 150-791
+       - time : "21:00"
+         bookingid : 150-797
+     - date : "2021-09-10"
+       times :
+       - time : "11:00"
+         bookingid : 150-916
+       - time : "14:10"
+         bookingid : 150-840
+       - time : "17:20"
+         bookingid : 150-839
+       - time : "20:30"
+         bookingid : 150-838
+     - date : "2021-09-11"
+       times :
+       - time : "11:00"
+         bookingid : 150-917
+       - time : "14:10"
+         bookingid : 150-841
+       - time : "17:20"
+         bookingid : 150-842
+       - time : "20:30"
+         bookingid : 150-843
+     - date : "2021-09-12"
+       times :
+       - time : "11:00"
+         bookingid : 150-918
+       - time : "14:10"
+         bookingid : 150-844
+       - time : "17:20"
+         bookingid : 150-845
+       - time : "20:30"
+         bookingid : 150-846
+     - date : "2021-09-13"
+       times :
+       - time : "11:00"
+         bookingid : 150-919
+       - time : "14:10"
+         bookingid : 150-923
+       - time : "17:20"
+         bookingid : 150-927
+       - time : "20:30"
+         bookingid : 150-930
+     - date : "2021-09-14"
+       times :
+       - time : "11:00"
+         bookingid : 150-920
+       - time : "14:10"
+         bookingid : 150-924
+       - time : "17:20"
+         bookingid : 150-928
+       - time : "20:30"
+         bookingid : 150-931
+     - date : "2021-09-15"
+       times :
+       - time : "11:00"
+         bookingid : 150-921
+       - time : "14:10"
+         bookingid : 150-925
+       - time : "17:20"
+         bookingid : 150-929
+       - time : "20:30"
+         bookingid : 150-932
+     - date : "2021-09-16"
+       times :
+       - time : "12:20"
+         bookingid : 150-922
+       - time : "15:20"
+         bookingid : 150-926
+       - time : "22:00"
+         bookingid : 150-933
