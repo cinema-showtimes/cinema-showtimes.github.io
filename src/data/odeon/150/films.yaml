@@ -2,50 +2,12 @@
   title: "BFI IMAX"
   slug: "bfi-imax"
   movies: 
-  - title : "Candyman"
-    id : HO00001912
-    synopsis : "A 'spiritual sequel' to the 1992 horror film 'Candyman' that returns to the now-gentrified Chicago neighborhood where the legend began."
-    poster : "https://image.tmdb.org/t/p/original/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"
-    length : 1h 31m
-    rating : "15"
-    genres :
-       - id : "0000000009"
-         genre : Drama
-       - id : "0000000014"
-         genre : Horror
-       - id : "0000000016"
-         genre : Mystery
-    showtimes :
-     - date : "2021-09-06"
-       times :
-       - time : "18:30"
-         bookingid : 153-3014
-       - time : "21:15"
-         bookingid : 153-3015
-     - date : "2021-09-07"
-       times :
-       - time : "18:30"
-         bookingid : 153-3023
-       - time : "21:15"
-         bookingid : 153-3022
-     - date : "2021-09-08"
-       times :
-       - time : "18:30"
-         bookingid : 153-3048
-       - time : "21:00"
-         bookingid : 153-3050
-     - date : "2021-09-09"
-       times :
-       - time : "18:30"
-         bookingid : 153-3064
-       - time : "21:15"
-         bookingid : 153-3065
   - title : "Shang-Chi and the Legend of the Ten Rings"
     id : HO00001472
     synopsis : "Stars Simu Liu as Shang-Chi, who must
 confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings
 organization. "
-    poster : "https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
+    poster : "https://image.tmdb.org/t/p/original//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"
     length : 2h 12m
     rating : "12A"
     genres :
@@ -56,183 +18,99 @@ organization. "
        - id : "0000000011"
          genre : Fantasy
     showtimes :
-     - date : "2021-09-06"
-       times :
-       - time : "13:45"
-         bookingid : 153-2805
-       - time : "15:45"
-         bookingid : 153-3067
-       - time : "17:00"
-         bookingid : 153-2801
-       - time : "19:00"
-         bookingid : 153-3008
-       - time : "20:15"
-         bookingid : 153-2800
      - date : "2021-09-07"
        times :
-       - time : "13:45"
-         bookingid : 153-2804
-       - time : "15:45"
-         bookingid : 153-3069
-       - time : "17:00"
-         bookingid : 153-2802
-       - time : "19:00"
-         bookingid : 153-3028
-       - time : "20:15"
-         bookingid : 153-2803
-     - date : "2021-09-08"
-       times :
-       - time : "15:00"
-         bookingid : 153-3070
-       - time : "16:30"
-         bookingid : 153-3041
-       - time : "18:45"
-         bookingid : 153-3043
-       - time : "20:00"
-         bookingid : 153-3040
-     - date : "2021-09-09"
-       times :
-       - time : "13:45"
-         bookingid : 153-2806
-       - time : "15:45"
-         bookingid : 153-3072
-       - time : "17:00"
-         bookingid : 153-2808
-       - time : "19:00"
-         bookingid : 153-3059
-       - time : "20:15"
-         bookingid : 153-2807
-  - title : "The Suicide Squad"
-    id : HO00001379
-    synopsis : "From writer/director James Gunn comes Warner Bros. Pictures’ superhero action adventure 'The Suicide Squad,' featuring a collection of the most degenerate delinquents in "
-    poster : "https://image.tmdb.org/t/p/original/iXbWpCkIauBMStSTUT9v4GXvdgH.jpg"
-    length : 2h 12m
-    rating : "15"
-    genres :
-       - id : "0000000001"
-         genre : Action
-       - id : "0000000003"
-         genre : Adventure
-       - id : "0000000011"
-         genre : Fantasy
-    showtimes :
-     - date : "2021-09-06"
-       times :
-       - time : "18:00"
-         bookingid : 153-3038
-       - time : "20:45"
-         bookingid : 153-3039
-     - date : "2021-09-07"
-       times :
-       - time : "18:00"
-         bookingid : 153-3030
-       - time : "20:45"
-         bookingid : 153-3026
+       - time : "11:00"
+         bookingid : 150-777
+       - time : "14:20"
+         bookingid : 150-783
+       - time : "17:40"
+         bookingid : 150-789
+       - time : "21:00"
+         bookingid : 150-795
      - date : "2021-09-08"
        times :
        - time : "15:30"
-         bookingid : 153-3071
+         bookingid : 150-784
+       - time : "18:50"
+         bookingid : 150-790
+       - time : "22:10"
+         bookingid : 150-796
      - date : "2021-09-09"
        times :
-       - time : "18:00"
-         bookingid : 153-3057
-       - time : "20:45"
-         bookingid : 153-3061
-  - title : "Free Guy"
-    id : HO00000367
-    synopsis : "A bank teller discovers he is a background character in an open world video game called Free City that will soon go offline."
-    poster : "https://image.tmdb.org/t/p/original/acCS12FVUQ7blkC8qEbuXbsWEs2.jpg"
-    length : 1h 55m
-    rating : "12A"
-    genres :
-       - id : "0000000001"
-         genre : Action
-       - id : "0000000003"
-         genre : Adventure
-       - id : "0000000006"
-         genre : Comedy
-    showtimes :
-     - date : "2021-09-06"
+       - time : "11:00"
+         bookingid : 150-779
+       - time : "14:20"
+         bookingid : 150-785
+       - time : "17:40"
+         bookingid : 150-791
+       - time : "21:00"
+         bookingid : 150-797
+     - date : "2021-09-10"
        times :
-       - time : "14:30"
-         bookingid : 153-3005
-       - time : "17:30"
-         bookingid : 153-3006
+       - time : "11:00"
+         bookingid : 150-916
+       - time : "14:10"
+         bookingid : 150-840
+       - time : "17:20"
+         bookingid : 150-839
        - time : "20:30"
-         bookingid : 153-3003
-     - date : "2021-09-07"
+         bookingid : 150-838
+     - date : "2021-09-11"
        times :
-       - time : "14:30"
-         bookingid : 153-3018
-       - time : "17:30"
-         bookingid : 153-3017
+       - time : "11:00"
+         bookingid : 150-917
+       - time : "14:10"
+         bookingid : 150-841
+       - time : "17:20"
+         bookingid : 150-842
        - time : "20:30"
-         bookingid : 153-3020
-     - date : "2021-09-08"
+         bookingid : 150-843
+     - date : "2021-09-12"
        times :
-       - time : "14:30"
-         bookingid : 153-3045
-       - time : "17:30"
-         bookingid : 153-3046
+       - time : "11:00"
+         bookingid : 150-918
+       - time : "14:10"
+         bookingid : 150-844
+       - time : "17:20"
+         bookingid : 150-845
        - time : "20:30"
-         bookingid : 153-3044
-     - date : "2021-09-09"
+         bookingid : 150-846
+     - date : "2021-09-13"
        times :
-       - time : "14:30"
-         bookingid : 153-3055
-       - time : "17:30"
-         bookingid : 153-3056
+       - time : "11:00"
+         bookingid : 150-919
+       - time : "14:10"
+         bookingid : 150-923
+       - time : "17:20"
+         bookingid : 150-927
        - time : "20:30"
-         bookingid : 153-3053
-  - title : "Snake Eyes"
-    id : HO00000393
-    synopsis : "Snake Eyes: G.I. Joe Origins stars Henry Golding as Snake Eyes, a tenacious loner who is welcomed into an ancient Japanese clan called the Arashikage."
-    poster : "https://image.tmdb.org/t/p/original/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg"
-    length : 2h 1m
-    rating : "12A"
-    genres :
-       - id : "0000000001"
-         genre : Action
-       - id : "0000000003"
-         genre : Adventure
-       - id : "0000000011"
-         genre : Fantasy
-    showtimes :
-     - date : "2021-09-06"
+         bookingid : 150-930
+     - date : "2021-09-14"
        times :
-       - time : "15:30"
-         bookingid : 153-3066
-     - date : "2021-09-07"
+       - time : "11:00"
+         bookingid : 150-920
+       - time : "14:10"
+         bookingid : 150-924
+       - time : "17:20"
+         bookingid : 150-928
+       - time : "20:30"
+         bookingid : 150-931
+     - date : "2021-09-15"
        times :
-       - time : "15:30"
-         bookingid : 153-3068
-     - date : "2021-09-09"
+       - time : "11:00"
+         bookingid : 150-921
+       - time : "14:10"
+         bookingid : 150-925
+       - time : "17:20"
+         bookingid : 150-929
+       - time : "20:30"
+         bookingid : 150-932
+     - date : "2021-09-16"
        times :
-       - time : "15:30"
-         bookingid : 153-3058
-  - title : "Jungle Cruise"
-    id : HO00000369
-    synopsis : "A small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles, but with a supernatural element."
-    poster : "https://image.tmdb.org/t/p/original/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg"
-    length : 2h 7m
-    rating : "12A"
-    genres :
-       - id : "0000000001"
-         genre : Action
-       - id : "0000000003"
-         genre : Adventure
-       - id : "0000000006"
-         genre : Comedy
-    showtimes :
-     - date : "2021-09-06"
-       times :
-       - time : "15:00"
-         bookingid : 153-3012
-     - date : "2021-09-07"
-       times :
-       - time : "15:00"
-         bookingid : 153-3025
-     - date : "2021-09-09"
-       times :
-       - time : "15:00"
-         bookingid : 153-3062
+       - time : "12:20"
+         bookingid : 150-922
+       - time : "15:20"
+         bookingid : 150-926
+       - time : "22:00"
+         bookingid : 150-933
