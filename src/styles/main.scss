@@ -6,7 +6,7 @@
 @mixin rating-svg($svgPath) {
   background: url($svgPath) no-repeat;
   background-size: 38px;
-  background-position-y: 4px;
+  background-position-y: 3px;
 }
 
 body {
