@@ -11,10 +11,10 @@ Default.args = {
   key:"123456",
   id: "123456",
   poster:"https://image.tmdb.org/t/p/w500//ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
-  title:"John Wick 3",
+  title:"John Wick: Chapter 3 - Parabellum",
   length:"2h 20m",
   synopsis:"Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail.",
   genres:[{id:1, genre: "Action"}],
-  //showtimes={movie.showtimes},
+  showtimes:[{date: "2021-09-10", times:[{time:"12:10", bookingid:"150-840"},{time:"14:10", bookingid:"150-840"},{time:"16:10", bookingid:"150-840"}]},{date: "2021-09-10", times:[{time:"12:10", bookingid:"150-840"},{time:"14:10", bookingid:"150-840"},{time:"16:10", bookingid:"150-840"}]}],
   rating:"18"
 }
