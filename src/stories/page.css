@@ -8,6 +8,10 @@ section {
   color: #333;
 }
 
+body {
+  background-color: #2d2c3e;
+}
+
 
 p {
   margin: 1em 0;
