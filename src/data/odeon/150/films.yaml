@@ -8,7 +8,7 @@
       synopsis: "Stars Simu Liu as Shang-Chi, who must
 confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings
 organization. "
-      poster: https://image.tmdb.org/t/p/w500//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg
+      poster: undefined
       length: "2h 12m"
       rating: "12A"
       genres:
@@ -114,7 +114,7 @@ organization. "
     - title: "Ghost in the Shell (1995) - IMAX Exclusive"
       id: "HO00002071"     
       synopsis: "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master."
-      poster: https://image.tmdb.org/t/p/w500//9gC88zYUBARRSThcG93MvW14sqx.jpg
+      poster: undefined
       length: "1h 23m"
       rating: "15"
       genres:
