@@ -36,7 +36,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Install dependencies
-        run: yarn
+        run: npm install
         # 👇 Runs yarn in ./frontend
         working-directory: frontend
       - name: Publish to Chromatic
