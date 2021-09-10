@@ -1,4 +1,5 @@
 import * as React  from "react"
+import "/src/styles/headings.scss"
 
 const Heading = (props) => {
     return (
