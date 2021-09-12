@@ -125,12 +125,18 @@ organization. "
         - id: "0000000020"
           genre: "Thriller"
       showtimes:
-        - date: "2021-09-29"
+        - date: "2021-09-30"
           times: 
-            - time: "00:01"
-              bookingid: 150-847
-            - time: "03:50"
-              bookingid: 150-848
+            - time: "08:00"
+              bookingid: 150-849
+            - time: "11:50"
+              bookingid: 150-850
+            - time: "15:40"
+              bookingid: 150-851
+            - time: "20:00"
+              bookingid: 150-852
+            - time: "23:50"
+              bookingid: 150-853
             
         - date: "2021-10-01"
           times: 
@@ -212,19 +218,6 @@ organization. "
               bookingid: 150-875
             - time: "20:40"
               bookingid: 150-877
-            
-        - date: "2021-10-09"
-          times: 
-            - time: "07:40"
-              bookingid: 150-884
-            - time: "11:30"
-              bookingid: 150-885
-            - time: "15:20"
-              bookingid: 150-886
-            - time: "19:10"
-              bookingid: 150-887
-            - time: "23:00"
-              bookingid: 150-888
             
         - date: "2021-10-10"
           times: 
