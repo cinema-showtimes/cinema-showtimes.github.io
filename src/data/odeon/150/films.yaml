@@ -125,25 +125,78 @@ organization. "
         - id: "0000000020"
           genre: "Thriller"
       showtimes:
-        - date: "2021-10-03"
+        - date: "2021-09-29"
+          times: 
+            - time: "00:01"
+              bookingid: 150-847
+            - time: "03:50"
+              bookingid: 150-848
+            
+        - date: "2021-10-04"
+          times: 
+            - time: "09:40"
+              bookingid: 150-872
+            - time: "13:20"
+              bookingid: 150-871
+            - time: "17:00"
+              bookingid: 150-869
+            - time: "20:40"
+              bookingid: 150-870
+            
+        - date: "2021-10-05"
+          times: 
+            - time: "09:00"
+              bookingid: 150-881
+            - time: "12:40"
+              bookingid: 150-878
+            - time: "16:20"
+              bookingid: 150-873
+            
+        - date: "2021-10-06"
+          times: 
+            - time: "09:40"
+              bookingid: 150-882
+            - time: "13:20"
+              bookingid: 150-879
+            - time: "17:00"
+              bookingid: 150-874
+            - time: "20:40"
+              bookingid: 150-876
+            
+        - date: "2021-10-09"
           times: 
             - time: "07:40"
-              bookingid: 150-868
+              bookingid: 150-884
             - time: "11:30"
-              bookingid: 150-867
+              bookingid: 150-885
             - time: "15:20"
-              bookingid: 150-866
+              bookingid: 150-886
             - time: "19:10"
-              bookingid: 150-865
+              bookingid: 150-887
             - time: "23:00"
-              bookingid: 150-864
+              bookingid: 150-888
             
-        - date: "2021-10-11"
+        - date: "2021-10-10"
           times: 
+            - time: "07:40"
+              bookingid: 150-893
+            - time: "11:30"
+              bookingid: 150-892
+            - time: "15:20"
+              bookingid: 150-891
+            - time: "19:10"
+              bookingid: 150-890
+            - time: "23:00"
+              bookingid: 150-889
+            
+        - date: "2021-10-12"
+          times: 
+            - time: "09:40"
+              bookingid: 150-912
             - time: "13:20"
-              bookingid: 150-896
+              bookingid: 150-909
             - time: "17:00"
-              bookingid: 150-894
+              bookingid: 150-903
             - time: "20:40"
-              bookingid: 150-895
+              bookingid: 150-906
             
