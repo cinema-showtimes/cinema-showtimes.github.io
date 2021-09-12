@@ -171,19 +171,6 @@ organization. "
             - time: "23:00"
               bookingid: 150-863
             
-        - date: "2021-10-03"
-          times: 
-            - time: "07:40"
-              bookingid: 150-868
-            - time: "11:30"
-              bookingid: 150-867
-            - time: "15:20"
-              bookingid: 150-866
-            - time: "19:10"
-              bookingid: 150-865
-            - time: "23:00"
-              bookingid: 150-864
-            
         - date: "2021-10-05"
           times: 
             - time: "09:00"
@@ -192,6 +179,17 @@ organization. "
               bookingid: 150-878
             - time: "16:20"
               bookingid: 150-873
+            
+        - date: "2021-10-06"
+          times: 
+            - time: "09:40"
+              bookingid: 150-882
+            - time: "13:20"
+              bookingid: 150-879
+            - time: "17:00"
+              bookingid: 150-874
+            - time: "20:40"
+              bookingid: 150-876
             
         - date: "2021-10-07"
           times: 
@@ -217,6 +215,19 @@ organization. "
             - time: "01:10"
               bookingid: 150-902
             
+        - date: "2021-10-09"
+          times: 
+            - time: "07:40"
+              bookingid: 150-884
+            - time: "11:30"
+              bookingid: 150-885
+            - time: "15:20"
+              bookingid: 150-886
+            - time: "19:10"
+              bookingid: 150-887
+            - time: "23:00"
+              bookingid: 150-888
+            
         - date: "2021-10-10"
           times: 
             - time: "07:40"
@@ -229,15 +240,6 @@ organization. "
               bookingid: 150-890
             - time: "23:00"
               bookingid: 150-889
-            
-        - date: "2021-10-11"
-          times: 
-            - time: "13:20"
-              bookingid: 150-896
-            - time: "17:00"
-              bookingid: 150-894
-            - time: "20:40"
-              bookingid: 150-895
             
         - date: "2021-10-12"
           times: 
