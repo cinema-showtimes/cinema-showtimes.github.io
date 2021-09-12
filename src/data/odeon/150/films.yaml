@@ -21,8 +21,6 @@ organization. "
       showtimes:
         - date: "2021-09-12"
           times: 
-            - time: "17:20"
-              bookingid: 150-845
             - time: "20:30"
               bookingid: 150-846
             
