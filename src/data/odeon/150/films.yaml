@@ -204,6 +204,17 @@ organization. "
             - time: "16:20"
               bookingid: 150-873
             
+        - date: "2021-10-06"
+          times: 
+            - time: "09:40"
+              bookingid: 150-882
+            - time: "13:20"
+              bookingid: 150-879
+            - time: "17:00"
+              bookingid: 150-874
+            - time: "20:40"
+              bookingid: 150-876
+            
         - date: "2021-10-07"
           times: 
             - time: "09:40"
@@ -253,15 +264,6 @@ organization. "
               bookingid: 150-890
             - time: "23:00"
               bookingid: 150-889
-            
-        - date: "2021-10-11"
-          times: 
-            - time: "13:20"
-              bookingid: 150-896
-            - time: "17:00"
-              bookingid: 150-894
-            - time: "20:40"
-              bookingid: 150-895
             
         - date: "2021-10-12"
           times: 
