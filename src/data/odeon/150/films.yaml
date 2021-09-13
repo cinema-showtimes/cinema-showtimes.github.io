@@ -248,8 +248,6 @@ organization. "
             
         - date: "2021-09-17"
           times: 
-            - time: "12:00"
-              bookingid: 150-948
             - time: "15:00"
               bookingid: 150-915
             - time: "20:20"
@@ -266,21 +264,10 @@ organization. "
             
         - date: "2021-09-19"
           times: 
-            - time: "11:20"
-              bookingid: 150-949
             - time: "14:20"
               bookingid: 150-942
             - time: "19:40"
               bookingid: 150-943
-            
-        - date: "2021-09-20"
-          times: 
-            - time: "12:00"
-              bookingid: 150-950
-            - time: "15:00"
-              bookingid: 150-954
-            - time: "20:20"
-              bookingid: 150-962
             
         - date: "2021-09-21"
           times: 
@@ -290,6 +277,15 @@ organization. "
               bookingid: 150-955
             - time: "20:20"
               bookingid: 150-963
+            
+        - date: "2021-09-22"
+          times: 
+            - time: "12:00"
+              bookingid: 150-952
+            - time: "15:00"
+              bookingid: 150-956
+            - time: "20:20"
+              bookingid: 150-964
             
         - date: "2021-09-23"
           times: 
@@ -329,15 +325,15 @@ organization. "
             - time: "17:20"
               bookingid: 150-941
             
-        - date: "2021-09-20"
-          times: 
-            - time: "18:00"
-              bookingid: 150-958
-            
         - date: "2021-09-21"
           times: 
             - time: "18:00"
               bookingid: 150-959
+            
+        - date: "2021-09-22"
+          times: 
+            - time: "18:00"
+              bookingid: 150-960
             
         - date: "2021-09-23"
           times: 
