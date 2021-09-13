@@ -204,11 +204,6 @@ organization. "
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-09-13"
-          times: 
-            - time: "20:30"
-              bookingid: 150-930
-            
         - date: "2021-09-14"
           times: 
             - time: "11:00"
