@@ -257,6 +257,8 @@ organization. "
             
         - date: "2021-09-18"
           times: 
+            - time: "12:00"
+              bookingid: 150-947
             - time: "15:00"
               bookingid: 150-938
             - time: "20:20"
