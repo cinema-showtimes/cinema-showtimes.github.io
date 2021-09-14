@@ -1,6 +1,7 @@
 # Cinema Showtimes
 
 ![example workflow](https://github.com/cinema-showtimes/cinema-showtimes.github.io/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/cinema-showtimes/cinema-showtimes.github.io/actions/workflows/chromatic.yml/badge.svg)
 
 This site shows all the films you can currently book for Odeon BFI IMAX.
 
