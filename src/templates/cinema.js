@@ -3,12 +3,16 @@ import { graphql } from "gatsby"
 import "/src/styles/main.scss"
 import Heading from "/src/components/heading"
 import MovieCard from "/src/components/movie-card"
+import { Helmet } from "react-helmet"
 
 // markup
 const CinemaPage = ({ data }) => {
 
   return (
     <main>
+      <Helmet>
+          <title>BFI IMAX showtimes | All Films</title>
+      </Helmet>
       <Heading title={data.filmsYaml.title} />
 
       {data.filmsYaml.movies.map(movie=>(
@@ -16,6 +20,7 @@ const CinemaPage = ({ data }) => {
           key ={movie.id} 
           id={movie.id}
           title={movie.title} 
+          poster={movie.poster}
           length={movie.length} 
           synopsis={movie.synopsis}
           genres={movie.genres}
@@ -38,6 +43,7 @@ query MyQuery($id: String) {
           id
           title
           length
+          poster
           synopsis
           rating
           genres {

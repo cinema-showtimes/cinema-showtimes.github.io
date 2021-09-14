@@ -27,22 +27,3 @@ jobs:
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: ${{ secrets.secret }}
-
-  # chromatic-deployment:
-  #   runs-on: ubuntu-latest
-  #   defaults:
-  #     run:
-  #       working-directory: frontend
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - name: Install dependencies
-  #       run: npm install
-  #       # 👇 Runs yarn in ./frontend
-  #       working-directory: frontend
-  #     - name: Publish to Chromatic
-  #       uses: chromaui/action@v1
-  #       with:
-  #         # 👇 Runs Chromatic CLI in ./frontend
-  #         workingDir: frontend
-  #         token: ${{ secrets.secret }}
-  #         projectToken: ${{ secrets.chromatic }}
