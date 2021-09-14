@@ -188,6 +188,15 @@
             - time: "20:40"
               bookingid: 150-907
             
+        - date: "2021-10-14"
+          times: 
+            - time: "13:20"
+              bookingid: 150-911
+            - time: "17:00"
+              bookingid: 150-905
+            - time: "20:40"
+              bookingid: 150-908
+            
     - title: "Shang-Chi and the Legend of the Ten Rings"
       id: "HO00001472"     
       synopsis: "Stars Simu Liu as Shang-Chi, who must
