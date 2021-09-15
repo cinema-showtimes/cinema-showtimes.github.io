@@ -215,10 +215,6 @@ organization. "
       showtimes:
         - date: "2021-09-15"
           times: 
-            - time: "14:10"
-              bookingid: 150-925
-            - time: "17:20"
-              bookingid: 150-929
             - time: "20:30"
               bookingid: 150-932
             
@@ -342,4 +338,19 @@ organization. "
           times: 
             - time: "18:00"
               bookingid: 150-961
+            
+    - title: "Lord of the Rings: IMAX Marathon"
+      id: "HO00002068"     
+      synopsis: ""
+      poster: https://image.tmdb.org/t/p/w500//5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
+      length: "10h 18m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+      showtimes:
+        - date: "2021-09-26"
+          times: 
+            - time: "12:00"
+              bookingid: 150-968
             
