@@ -6,7 +6,7 @@
     - title: "No Time To Die "
       id: "HO00000986"     
       synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
-      poster: https://image.tmdb.org/t/p/w500//iOPXG7q6ZqxSFp2iSY2CvgeRXyC.jpg
+      poster: https://image.tmdb.org/t/p/w500//eqWaeh21e4ZgHjwpULZVHCGIq9X.jpg
       length: "2h 43m"
       rating: "12A TBC"
       genres:
@@ -213,29 +213,6 @@ organization. "
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-09-18"
-          times: 
-            - time: "20:20"
-              bookingid: 150-939
-            
-        - date: "2021-09-19"
-          times: 
-            - time: "11:20"
-              bookingid: 150-949
-            - time: "14:20"
-              bookingid: 150-942
-            - time: "19:40"
-              bookingid: 150-943
-            
-        - date: "2021-09-20"
-          times: 
-            - time: "12:00"
-              bookingid: 150-950
-            - time: "15:00"
-              bookingid: 150-954
-            - time: "20:20"
-              bookingid: 150-962
-            
         - date: "2021-09-21"
           times: 
             - time: "12:00"
@@ -263,6 +240,61 @@ organization. "
             - time: "20:20"
               bookingid: 150-965
             
+        - date: "2021-09-24"
+          times: 
+            - time: "11:30"
+              bookingid: 150-974
+            - time: "14:30"
+              bookingid: 150-973
+            - time: "17:30"
+              bookingid: 150-972
+            - time: "20:30"
+              bookingid: 150-971
+            
+        - date: "2021-09-25"
+          times: 
+            - time: "11:00"
+              bookingid: 150-975
+            - time: "14:10"
+              bookingid: 150-978
+            - time: "17:20"
+              bookingid: 150-982
+            - time: "20:30"
+              bookingid: 150-986
+            
+        - date: "2021-09-27"
+          times: 
+            - time: "11:30"
+              bookingid: 150-976
+            - time: "14:30"
+              bookingid: 150-979
+            - time: "17:30"
+              bookingid: 150-983
+            - time: "20:30"
+              bookingid: 150-987
+            
+        - date: "2021-09-28"
+          times: 
+            - time: "11:30"
+              bookingid: 150-977
+            - time: "14:30"
+              bookingid: 150-980
+            - time: "17:30"
+              bookingid: 150-984
+            - time: "20:30"
+              bookingid: 150-988
+            
+        - date: "2021-09-29"
+          times: 
+            - time: "11:00"
+              bookingid: 150-990
+            - time: "14:00"
+              bookingid: 150-981
+            - time: "17:00"
+              bookingid: 150-985
+            - time: "20:00"
+              bookingid: 150-989
+            
     - title: "Ghost in the Shell (1995) - IMAX Exclusive"
       id: "HO00002071"     
       synopsis: "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master."
@@ -277,16 +309,6 @@ organization. "
         - id: "0000000007"
           genre: "Crime"
       showtimes:
-        - date: "2021-09-19"
-          times: 
-            - time: "17:20"
-              bookingid: 150-941
-            
-        - date: "2021-09-20"
-          times: 
-            - time: "18:00"
-              bookingid: 150-958
-            
         - date: "2021-09-21"
           times: 
             - time: "18:00"
@@ -306,7 +328,7 @@ organization. "
       id: "HO00002068"     
       synopsis: ""
       poster: https://image.tmdb.org/t/p/w500//5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
-      length: "10h 18m"
+      length: "9h 21m"
       rating: "12A"
       genres:
         - id: "0000000003"
