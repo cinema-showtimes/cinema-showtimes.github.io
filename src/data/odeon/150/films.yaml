@@ -210,6 +210,11 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
+        - date: "2021-09-23"
+          times: 
+            - time: "20:20"
+              bookingid: 150-965
+            
         - date: "2021-09-24"
           times: 
             - time: "11:30"
