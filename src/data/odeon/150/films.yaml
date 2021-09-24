@@ -268,7 +268,7 @@
     - title: "Lord of the Rings: IMAX Marathon"
       id: "HO00002068"     
       synopsis: ""
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
       length: "9h 21m"
       rating: "12A"
       genres:
