@@ -212,8 +212,6 @@
       showtimes:
         - date: "2021-09-25"
           times: 
-            - time: "11:00"
-              bookingid: 150-975
             - time: "14:10"
               bookingid: 150-978
             - time: "17:20"
