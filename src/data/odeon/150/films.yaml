@@ -3,12 +3,12 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "No Time To Die "
+    - title: "No Time To Die"
       id: "HO00000986"     
       synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
       poster: https://image.tmdb.org/t/p/w500//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
       length: "2h 43m"
-      rating: "12A TBC"
+      rating: "12A"
       genres:
         - id: "0000000001"
           genre: "Action"
