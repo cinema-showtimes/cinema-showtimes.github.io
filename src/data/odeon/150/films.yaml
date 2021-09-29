@@ -195,23 +195,3 @@
             - time: "20:40"
               bookingid: 150-908
             
-    - title: "Shang-Chi and the Legend of the Ten Rings"
-      id: "HO00001472"     
-      synopsis: "Stars Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into 
- the web of the mysterious Ten Rings organization. "
-      poster: https://image.tmdb.org/t/p/w500//xeItgLK9qcafxbd8kYgv7XnMEog.jpg
-      length: "2h 12m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000011"
-          genre: "Fantasy"
-      showtimes:
-        - date: "2021-09-29"
-          times: 
-            - time: "20:00"
-              bookingid: 150-989
-            
