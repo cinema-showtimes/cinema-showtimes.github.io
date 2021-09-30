@@ -207,6 +207,21 @@
             - time: "03:30"
               bookingid: 150-995
             
+        - date: "2021-10-21"
+          times: 
+            - time: "07:00"
+              bookingid: 150-994
+            - time: "10:30"
+              bookingid: 150-993
+            - time: "14:00"
+              bookingid: 150-1056
+            - time: "17:30"
+              bookingid: 150-991
+            - time: "21:00"
+              bookingid: 150-992
+            - time: "00:30"
+              bookingid: 150-1057
+            
         - date: "2021-10-22"
           times: 
             - time: "08:30"
@@ -232,6 +247,30 @@
               bookingid: 150-1005
             - time: "22:30"
               bookingid: 150-1004
+            
+        - date: "2021-10-24"
+          times: 
+            - time: "08:30"
+              bookingid: 150-1006
+            - time: "12:00"
+              bookingid: 150-1007
+            - time: "15:30"
+              bookingid: 150-1008
+            - time: "19:00"
+              bookingid: 150-1010
+            - time: "22:30"
+              bookingid: 150-1009
+            
+        - date: "2021-10-25"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1011
+            - time: "13:40"
+              bookingid: 150-1012
+            - time: "17:10"
+              bookingid: 150-1013
+            - time: "20:40"
+              bookingid: 150-1014
             
         - date: "2021-10-26"
           times: 
