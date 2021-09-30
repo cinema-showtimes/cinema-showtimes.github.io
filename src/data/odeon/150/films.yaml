@@ -200,6 +200,28 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
+        - date: "2021-10-20"
+          times: 
+            - time: "00:01"
+              bookingid: 150-1055
+            - time: "03:30"
+              bookingid: 150-995
+            
+        - date: "2021-10-21"
+          times: 
+            - time: "07:00"
+              bookingid: 150-994
+            - time: "10:30"
+              bookingid: 150-993
+            - time: "14:00"
+              bookingid: 150-1056
+            - time: "17:30"
+              bookingid: 150-991
+            - time: "21:00"
+              bookingid: 150-992
+            - time: "00:30"
+              bookingid: 150-1057
+            
         - date: "2021-10-22"
           times: 
             - time: "08:30"
@@ -213,14 +235,18 @@
             - time: "22:30"
               bookingid: 150-997
             
-        - date: "2021-10-26"
+        - date: "2021-10-23"
           times: 
-            - time: "10:10"
-              bookingid: 150-1015
-            - time: "13:40"
-              bookingid: 150-1016
-            - time: "21:15"
-              bookingid: 150-1017
+            - time: "08:30"
+              bookingid: 150-1001
+            - time: "12:00"
+              bookingid: 150-1002
+            - time: "15:30"
+              bookingid: 150-1003
+            - time: "19:00"
+              bookingid: 150-1005
+            - time: "22:30"
+              bookingid: 150-1004
             
         - date: "2021-10-28"
           times: 
