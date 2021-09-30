@@ -200,18 +200,46 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-10-22"
+        - date: "2021-10-21"
+          times: 
+            - time: "07:00"
+              bookingid: 150-994
+            - time: "10:30"
+              bookingid: 150-993
+            - time: "14:00"
+              bookingid: 150-1056
+            - time: "17:30"
+              bookingid: 150-991
+            - time: "21:00"
+              bookingid: 150-992
+            - time: "00:30"
+              bookingid: 150-1057
+            
+        - date: "2021-10-23"
           times: 
             - time: "08:30"
-              bookingid: 150-1000
+              bookingid: 150-1001
             - time: "12:00"
-              bookingid: 150-999
+              bookingid: 150-1002
             - time: "15:30"
-              bookingid: 150-998
+              bookingid: 150-1003
             - time: "19:00"
-              bookingid: 150-996
+              bookingid: 150-1005
             - time: "22:30"
-              bookingid: 150-997
+              bookingid: 150-1004
+            
+        - date: "2021-10-24"
+          times: 
+            - time: "08:30"
+              bookingid: 150-1006
+            - time: "12:00"
+              bookingid: 150-1007
+            - time: "15:30"
+              bookingid: 150-1008
+            - time: "19:00"
+              bookingid: 150-1010
+            - time: "22:30"
+              bookingid: 150-1009
             
         - date: "2021-10-28"
           times: 
@@ -224,16 +252,12 @@
             - time: "20:40"
               bookingid: 150-1051
             
-        - date: "2021-10-30"
+        - date: "2021-10-29"
           times: 
-            - time: "08:30"
-              bookingid: 150-1029
-            - time: "12:00"
-              bookingid: 150-1028
-            - time: "15:30"
-              bookingid: 150-1027
-            - time: "19:00"
-              bookingid: 150-1026
-            - time: "22:30"
-              bookingid: 150-1025
+            - time: "16:30"
+              bookingid: 150-1022
+            - time: "20:00"
+              bookingid: 150-1023
+            - time: "23:30"
+              bookingid: 150-1024
             
