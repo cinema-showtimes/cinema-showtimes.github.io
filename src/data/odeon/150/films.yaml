@@ -65,8 +65,6 @@
               bookingid: 150-899
             - time: "21:20"
               bookingid: 150-898
-            - time: "01:10"
-              bookingid: 150-902
             
         - date: "2021-10-09"
           times: 
