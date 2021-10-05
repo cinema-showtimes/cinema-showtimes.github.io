@@ -142,6 +142,11 @@
             - time: "20:40"
               bookingid: 150-1066
             
+        - date: "2021-10-19"
+          times: 
+            - time: "20:40"
+              bookingid: 150-1067
+            
         - date: "2021-10-20"
           times: 
             - time: "20:00"
