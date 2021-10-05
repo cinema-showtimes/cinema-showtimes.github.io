@@ -132,10 +132,10 @@
             - time: "20:30"
               bookingid: 150-1060
             
-        - date: "2021-10-19"
+        - date: "2021-10-18"
           times: 
             - time: "20:40"
-              bookingid: 150-1067
+              bookingid: 150-1066
             
         - date: "2021-10-20"
           times: 
