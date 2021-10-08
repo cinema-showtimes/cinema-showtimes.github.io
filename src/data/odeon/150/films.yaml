@@ -6,7 +6,7 @@
     - title: "No Time To Die"
       id: "HO00000986"     
       synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
-      poster: https://image.tmdb.org/t/p/w500//iOPXG7q6ZqxSFp2iSY2CvgeRXyC.jpg
+      poster: https://image.tmdb.org/t/p/w500//eqWaeh21e4ZgHjwpULZVHCGIq9X.jpg
       length: "2h 43m"
       rating: "12A"
       genres:
@@ -17,32 +17,8 @@
         - id: "0000000020"
           genre: "Thriller"
       showtimes:
-        - date: "2021-10-06"
-          times: 
-            - time: "17:00"
-              bookingid: 150-874
-            - time: "20:40"
-              bookingid: 150-876
-            
-        - date: "2021-10-07"
-          times: 
-            - time: "09:40"
-              bookingid: 150-883
-            - time: "13:20"
-              bookingid: 150-880
-            - time: "17:00"
-              bookingid: 150-875
-            - time: "20:40"
-              bookingid: 150-877
-            
         - date: "2021-10-08"
           times: 
-            - time: "10:00"
-              bookingid: 150-901
-            - time: "13:50"
-              bookingid: 150-900
-            - time: "17:30"
-              bookingid: 150-899
             - time: "21:20"
               bookingid: 150-898
             - time: "01:10"
@@ -153,7 +129,7 @@
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
       poster: https://image.tmdb.org/t/p/w500//s1FhMAr91WL8D5DeHOcuBELtiHJ.jpg
       length: "2h 35m"
-      rating: "TBC"
+      rating: "12A"
       genres:
         - id: "0000000003"
           genre: "Adventure"
