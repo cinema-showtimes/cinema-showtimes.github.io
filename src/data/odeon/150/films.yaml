@@ -225,6 +225,10 @@
             
         - date: "2021-10-29"
           times: 
+            - time: "09:30"
+              bookingid: 150-1120
+            - time: "13:00"
+              bookingid: 150-1119
             - time: "16:30"
               bookingid: 150-1022
             - time: "20:00"
