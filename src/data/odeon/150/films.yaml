@@ -70,6 +70,12 @@
             
         - date: "2021-10-16"
           times: 
+            - time: "09:30"
+              bookingid: 150-1106
+            - time: "13:10"
+              bookingid: 150-1104
+            - time: "16:50"
+              bookingid: 150-1105
             - time: "20:30"
               bookingid: 150-1061
             
@@ -106,12 +112,6 @@
             
         - date: "2021-10-20"
           times: 
-            - time: "09:00"
-              bookingid: 150-1118
-            - time: "12:40"
-              bookingid: 150-1116
-            - time: "16:20"
-              bookingid: 150-1117
             - time: "20:00"
               bookingid: 150-1068
             
