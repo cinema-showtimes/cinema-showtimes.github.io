@@ -279,3 +279,28 @@
             - time: "20:40"
               bookingid: 150-1050
             
+    - title: "Eternals"
+      id: "HO00000396"     
+      synopsis: "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
+      poster: https://image.tmdb.org/t/p/w500//6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg
+      length: "2h 40m"
+      rating: "TBC"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2021-11-10"
+          times: 
+            - time: "09:40"
+              bookingid: 150-1095
+            - time: "13:20"
+              bookingid: 150-1094
+            - time: "17:00"
+              bookingid: 150-1092
+            - time: "20:40"
+              bookingid: 150-1093
+            
