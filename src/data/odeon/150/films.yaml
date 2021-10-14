@@ -6,7 +6,7 @@
     - title: "No Time To Die"
       id: "HO00000986"     
       synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
       length: "2h 43m"
       rating: "12A"
       genres:
@@ -95,7 +95,7 @@
     - title: "Dune"
       id: "HO00000406"     
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//s1FhMAr91WL8D5DeHOcuBELtiHJ.jpg
       length: "2h 35m"
       rating: "12A"
       genres:
