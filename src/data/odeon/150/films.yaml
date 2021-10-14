@@ -293,6 +293,19 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
+        - date: "2021-11-05"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1073
+            - time: "11:40"
+              bookingid: 150-1072
+            - time: "15:20"
+              bookingid: 150-1071
+            - time: "19:00"
+              bookingid: 150-1069
+            - time: "22:40"
+              bookingid: 150-1070
+            
         - date: "2021-11-07"
           times: 
             - time: "09:00"
@@ -304,16 +317,16 @@
             - time: "20:00"
               bookingid: 150-1083
             
-        - date: "2021-11-08"
+        - date: "2021-11-10"
           times: 
             - time: "09:40"
-              bookingid: 150-1084
+              bookingid: 150-1095
             - time: "13:20"
-              bookingid: 150-1085
+              bookingid: 150-1094
             - time: "17:00"
-              bookingid: 150-1087
+              bookingid: 150-1092
             - time: "20:40"
-              bookingid: 150-1086
+              bookingid: 150-1093
             
         - date: "2021-11-11"
           times: 
@@ -336,4 +349,15 @@
               bookingid: 150-1123
             - time: "22:40"
               bookingid: 150-1124
+            
+        - date: "2021-11-13"
+          times: 
+            - time: "11:40"
+              bookingid: 150-1125
+            - time: "15:20"
+              bookingid: 150-1126
+            - time: "19:00"
+              bookingid: 150-1127
+            - time: "22:40"
+              bookingid: 150-1128
             
