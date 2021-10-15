@@ -17,11 +17,6 @@
         - id: "0000000020"
           genre: "Thriller"
       showtimes:
-        - date: "2021-10-15"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1060
-            
         - date: "2021-10-16"
           times: 
             - time: "09:30"
