@@ -169,19 +169,6 @@
             - time: "22:30"
               bookingid: 150-1025
             
-        - date: "2021-10-31"
-          times: 
-            - time: "08:30"
-              bookingid: 150-1030
-            - time: "12:00"
-              bookingid: 150-1031
-            - time: "15:30"
-              bookingid: 150-1032
-            - time: "19:00"
-              bookingid: 150-1033
-            - time: "22:30"
-              bookingid: 150-1034
-            
         - date: "2021-11-01"
           times: 
             - time: "10:10"
