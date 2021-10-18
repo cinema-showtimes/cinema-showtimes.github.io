@@ -136,6 +136,8 @@
             
         - date: "2021-10-26"
           times: 
+            - time: "10:10"
+              bookingid: 150-1015
             - time: "13:40"
               bookingid: 150-1016
             - time: "21:15"
