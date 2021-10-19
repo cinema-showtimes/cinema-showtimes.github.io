@@ -3,42 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "No Time To Die"
-      id: "HO00000986"     
-      synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
-      poster: https://image.tmdb.org/t/p/w500//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
-      length: "2h 43m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000020"
-          genre: "Thriller"
-      showtimes:
-        - date: "2021-10-19"
-          times: 
-            - time: "09:40"
-              bookingid: 150-1115
-            - time: "13:20"
-              bookingid: 150-1113
-            - time: "17:00"
-              bookingid: 150-1114
-            - time: "20:40"
-              bookingid: 150-1067
-            
-        - date: "2021-10-20"
-          times: 
-            - time: "09:00"
-              bookingid: 150-1118
-            - time: "12:40"
-              bookingid: 150-1116
-            - time: "16:20"
-              bookingid: 150-1117
-            - time: "20:00"
-              bookingid: 150-1068
-            
     - title: "Dune"
       id: "HO00000406"     
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
@@ -225,6 +189,42 @@
               bookingid: 150-1049
             - time: "20:40"
               bookingid: 150-1050
+            
+    - title: "No Time To Die"
+      id: "HO00000986"     
+      synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
+      poster: https://image.tmdb.org/t/p/w500//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
+      length: "2h 43m"
+      rating: "12A"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000020"
+          genre: "Thriller"
+      showtimes:
+        - date: "2021-10-19"
+          times: 
+            - time: "09:40"
+              bookingid: 150-1115
+            - time: "13:20"
+              bookingid: 150-1113
+            - time: "17:00"
+              bookingid: 150-1114
+            - time: "20:40"
+              bookingid: 150-1067
+            
+        - date: "2021-10-20"
+          times: 
+            - time: "09:00"
+              bookingid: 150-1118
+            - time: "12:40"
+              bookingid: 150-1116
+            - time: "16:20"
+              bookingid: 150-1117
+            - time: "20:00"
+              bookingid: 150-1068
             
     - title: "Eternals"
       id: "HO00000396"     
