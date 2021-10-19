@@ -6,7 +6,7 @@
     - title: "Dune"
       id: "HO00000406"     
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//lr3cYNDlJcpT1EWzFH42aSIvkab.jpg
       length: "2h 35m"
       rating: "12A"
       genres:
@@ -223,7 +223,7 @@
     - title: "Eternals"
       id: "HO00000396"     
       synopsis: "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg
       length: "2h 40m"
       rating: "TBC"
       genres:
