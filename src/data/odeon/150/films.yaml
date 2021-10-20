@@ -190,25 +190,6 @@
             - time: "20:40"
               bookingid: 150-1050
             
-    - title: "No Time To Die"
-      id: "HO00000986"     
-      synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
-      poster: https://image.tmdb.org/t/p/w500//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
-      length: "2h 43m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000020"
-          genre: "Thriller"
-      showtimes:
-        - date: "2021-10-20"
-          times: 
-            - time: "20:00"
-              bookingid: 150-1068
-            
     - title: "Eternals"
       id: "HO00000396"     
       synopsis: "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
