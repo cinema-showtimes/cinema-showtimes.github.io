@@ -17,11 +17,6 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-10-22"
-          times: 
-            - time: "22:30"
-              bookingid: 150-997
-            
         - date: "2021-10-23"
           times: 
             - time: "08:30"
