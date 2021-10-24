@@ -3,108 +3,10 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "No Time To Die"
-      id: "HO00000986"     
-      synopsis: "Bond has left active service and is enjoying a tranquil life in Jamaica.  His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help."
-      poster: https://image.tmdb.org/t/p/w500//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg
-      length: "2h 43m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000020"
-          genre: "Thriller"
-      showtimes:
-        - date: "2021-10-13"
-          times: 
-            - time: "13:20"
-              bookingid: 150-910
-            - time: "17:00"
-              bookingid: 150-904
-            - time: "20:40"
-              bookingid: 150-907
-            
-        - date: "2021-10-14"
-          times: 
-            - time: "09:40"
-              bookingid: 150-1059
-            - time: "13:20"
-              bookingid: 150-911
-            - time: "17:00"
-              bookingid: 150-905
-            - time: "20:40"
-              bookingid: 150-908
-            
-        - date: "2021-10-15"
-          times: 
-            - time: "09:30"
-              bookingid: 150-1103
-            - time: "13:10"
-              bookingid: 150-1102
-            - time: "16:50"
-              bookingid: 150-1101
-            - time: "20:30"
-              bookingid: 150-1060
-            
-        - date: "2021-10-16"
-          times: 
-            - time: "09:30"
-              bookingid: 150-1106
-            - time: "13:10"
-              bookingid: 150-1104
-            - time: "16:50"
-              bookingid: 150-1105
-            - time: "20:30"
-              bookingid: 150-1061
-            
-        - date: "2021-10-17"
-          times: 
-            - time: "09:00"
-              bookingid: 150-1109
-            - time: "12:40"
-              bookingid: 150-1107
-            - time: "16:20"
-              bookingid: 150-1108
-            - time: "20:00"
-              bookingid: 150-1062
-            
-        - date: "2021-10-18"
-          times: 
-            - time: "13:20"
-              bookingid: 150-1110
-            - time: "17:00"
-              bookingid: 150-1111
-            - time: "20:40"
-              bookingid: 150-1066
-            
-        - date: "2021-10-19"
-          times: 
-            - time: "09:40"
-              bookingid: 150-1115
-            - time: "13:20"
-              bookingid: 150-1113
-            - time: "17:00"
-              bookingid: 150-1114
-            - time: "20:40"
-              bookingid: 150-1067
-            
-        - date: "2021-10-20"
-          times: 
-            - time: "09:00"
-              bookingid: 150-1118
-            - time: "12:40"
-              bookingid: 150-1116
-            - time: "16:20"
-              bookingid: 150-1117
-            - time: "20:00"
-              bookingid: 150-1068
-            
     - title: "Dune"
       id: "HO00000406"     
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: https://image.tmdb.org/t/p/w500//s1FhMAr91WL8D5DeHOcuBELtiHJ.jpg
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
       length: "2h 35m"
       rating: "12A"
       genres:
@@ -115,64 +17,8 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-10-20"
-          times: 
-            - time: "00:01"
-              bookingid: 150-1055
-            - time: "03:30"
-              bookingid: 150-995
-            
-        - date: "2021-10-21"
-          times: 
-            - time: "07:00"
-              bookingid: 150-994
-            - time: "10:30"
-              bookingid: 150-993
-            - time: "14:00"
-              bookingid: 150-1056
-            - time: "17:30"
-              bookingid: 150-991
-            - time: "21:00"
-              bookingid: 150-992
-            - time: "00:30"
-              bookingid: 150-1057
-            
-        - date: "2021-10-22"
-          times: 
-            - time: "08:30"
-              bookingid: 150-1000
-            - time: "12:00"
-              bookingid: 150-999
-            - time: "15:30"
-              bookingid: 150-998
-            - time: "19:00"
-              bookingid: 150-996
-            - time: "22:30"
-              bookingid: 150-997
-            
-        - date: "2021-10-23"
-          times: 
-            - time: "08:30"
-              bookingid: 150-1001
-            - time: "12:00"
-              bookingid: 150-1002
-            - time: "15:30"
-              bookingid: 150-1003
-            - time: "19:00"
-              bookingid: 150-1005
-            - time: "22:30"
-              bookingid: 150-1004
-            
         - date: "2021-10-24"
           times: 
-            - time: "08:30"
-              bookingid: 150-1006
-            - time: "12:00"
-              bookingid: 150-1007
-            - time: "15:30"
-              bookingid: 150-1008
-            - time: "19:00"
-              bookingid: 150-1010
             - time: "22:30"
               bookingid: 150-1009
             
@@ -243,4 +89,176 @@
               bookingid: 150-1033
             - time: "22:30"
               bookingid: 150-1034
+            
+        - date: "2021-11-01"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1035
+            - time: "13:40"
+              bookingid: 150-1036
+            - time: "17:10"
+              bookingid: 150-1037
+            - time: "20:40"
+              bookingid: 150-1038
+            
+        - date: "2021-11-02"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1039
+            - time: "13:40"
+              bookingid: 150-1040
+            - time: "17:10"
+              bookingid: 150-1041
+            - time: "20:40"
+              bookingid: 150-1042
+            
+        - date: "2021-11-03"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1043
+            - time: "13:40"
+              bookingid: 150-1044
+            - time: "17:10"
+              bookingid: 150-1045
+            - time: "20:40"
+              bookingid: 150-1046
+            
+        - date: "2021-11-04"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1047
+            - time: "13:40"
+              bookingid: 150-1048
+            - time: "17:10"
+              bookingid: 150-1049
+            - time: "20:40"
+              bookingid: 150-1050
+            
+    - title: "Eternals"
+      id: "HO00000396"     
+      synopsis: "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
+      poster: https://image.tmdb.org/t/p/w500//6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg
+      length: "2h 40m"
+      rating: "TBC"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2021-11-05"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1073
+            - time: "11:40"
+              bookingid: 150-1072
+            - time: "15:20"
+              bookingid: 150-1071
+            - time: "19:00"
+              bookingid: 150-1069
+            - time: "22:40"
+              bookingid: 150-1070
+            
+        - date: "2021-11-06"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1074
+            - time: "11:40"
+              bookingid: 150-1075
+            - time: "15:20"
+              bookingid: 150-1076
+            - time: "19:00"
+              bookingid: 150-1078
+            - time: "22:40"
+              bookingid: 150-1077
+            
+        - date: "2021-11-07"
+          times: 
+            - time: "09:00"
+              bookingid: 150-1079
+            - time: "12:40"
+              bookingid: 150-1080
+            - time: "16:20"
+              bookingid: 150-1081
+            - time: "20:00"
+              bookingid: 150-1083
+            
+        - date: "2021-11-08"
+          times: 
+            - time: "09:40"
+              bookingid: 150-1084
+            - time: "13:20"
+              bookingid: 150-1085
+            - time: "17:00"
+              bookingid: 150-1087
+            - time: "20:40"
+              bookingid: 150-1086
+            
+        - date: "2021-11-09"
+          times: 
+            - time: "09:40"
+              bookingid: 150-1091
+            - time: "13:20"
+              bookingid: 150-1090
+            - time: "17:00"
+              bookingid: 150-1088
+            - time: "20:40"
+              bookingid: 150-1089
+            
+        - date: "2021-11-10"
+          times: 
+            - time: "09:40"
+              bookingid: 150-1095
+            - time: "13:20"
+              bookingid: 150-1094
+            - time: "17:00"
+              bookingid: 150-1092
+            - time: "20:40"
+              bookingid: 150-1093
+            
+        - date: "2021-11-11"
+          times: 
+            - time: "09:40"
+              bookingid: 150-1099
+            - time: "13:20"
+              bookingid: 150-1098
+            - time: "17:00"
+              bookingid: 150-1096
+            - time: "20:40"
+              bookingid: 150-1097
+            
+        - date: "2021-11-12"
+          times: 
+            - time: "11:40"
+              bookingid: 150-1121
+            - time: "15:20"
+              bookingid: 150-1122
+            - time: "19:00"
+              bookingid: 150-1123
+            - time: "22:40"
+              bookingid: 150-1124
+            
+        - date: "2021-11-13"
+          times: 
+            - time: "11:40"
+              bookingid: 150-1125
+            - time: "15:20"
+              bookingid: 150-1126
+            - time: "19:00"
+              bookingid: 150-1127
+            - time: "22:40"
+              bookingid: 150-1128
+            
+        - date: "2021-11-14"
+          times: 
+            - time: "09:10"
+              bookingid: 150-1148
+            - time: "12:40"
+              bookingid: 150-1129
+            - time: "16:20"
+              bookingid: 150-1130
+            - time: "20:00"
+              bookingid: 150-1131
             
