@@ -17,6 +17,7 @@ const IndexPage = ({ data }) => {
           <meta property="og:locale" content="en_GB" />
           <meta name="robots" content="index,follow" />
           <meta http-equiv="content-language" content="en-gb" />
+          <html lang="en" />
       </Helmet>
 
       {data.allFilmsYaml.edges.map(item => (
