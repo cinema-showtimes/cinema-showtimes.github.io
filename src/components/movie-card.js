@@ -2,7 +2,8 @@ import * as React from "react"
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'
 import FilmPoster from "/src/components/film-poster"
 import Moment from 'react-moment';
-import "/src/styles/movie-card.scss"
+import "/src/styles/movie-card.scss";
+import SchemaOrg from "/src/components/schema-org";
 
 
 const MovieCard = (props) => {
@@ -46,6 +47,7 @@ const MovieCard = (props) => {
           ))}
         </Tabs>
       </div>
+      <SchemaOrg title={props.title} synopsis={props.synopsis} />
     </div>
 
   )
