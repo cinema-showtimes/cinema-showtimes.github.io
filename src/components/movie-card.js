@@ -47,7 +47,7 @@ const MovieCard = (props) => {
           ))}
         </Tabs>
       </div>
-      <SchemaOrg title={props.title} synopsis={props.synopsis} />
+      <SchemaOrg title={props.title} synopsis={props.synopsis} poster={props.poster} />
     </div>
 
   )

@@ -9,7 +9,8 @@ const SchemaOrg = (movie) => {
     "@context": "https://schema.org",
     "@type": "Movie",
     "description": "${movie.synopsis}",
-    "name": "${movie.title}"
+    "name": "${movie.title}",
+    "image": "${movie.poster}"
     }`
 }
 </script>
