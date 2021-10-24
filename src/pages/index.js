@@ -10,12 +10,18 @@ const IndexPage = ({ data }) => {
   return (
     <main>
       <Helmet>
-          <title>Cinema showtimes | All Films</title>
+          <title>ODEON BFI IMAX Cinema showtimes | All Films</title>
+          <meta property="og:title" content="ODEON BFI IMAX Cinema showtimes | All Films" />
+          <meta name="description" content="Book all films directly available for the Odeon BFI IMAX Cinema. Choose the film and showing of your choice." />
+          <meta property="og:description" content="Book all films directly available for the Odeon BFI IMAX Cinema. Choose the film and showing of your choice." />
+          <meta property="og:locale" content="en_GB" />
+          <meta name="robots" content="index,follow" />
+          <meta http-equiv="content-language" content="en-gb" />
       </Helmet>
 
       {data.allFilmsYaml.edges.map(item => (
         <div>
-          <Heading title={item.node.title}></Heading>
+          <Heading title="ODEON BFI IMAX"></Heading>
           {item.node.movies.map(movie => (
             <MovieCard
               key={movie.id}
