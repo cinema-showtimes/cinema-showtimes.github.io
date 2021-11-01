@@ -27,7 +27,7 @@ module.exports = {
             },
         },
         `gatsby-plugin-sass`,
-        `gatsby-plugin-sitemap`
+        `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         {
             resolve: `gatsby-plugin-google-gtag`,
