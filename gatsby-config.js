@@ -1,14 +1,6 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: `https://www.yourdomain.tld`,
-        cinemas: {
-            odeon: {
-                bookingUrl: "https://www.odeon.co.uk/ticketing/seat-picker/?showtimeId="
-            },
-            cineworld: {
-                bookingUrl: ""
-            }
-        }
+        siteUrl: `https://cinema-showtimes.github.io`,
     },
     plugins: [
         {
@@ -35,6 +27,7 @@ module.exports = {
             },
         },
         `gatsby-plugin-sass`,
+        `gatsby-plugin-sitemap`
         `gatsby-plugin-react-helmet`,
         {
             resolve: `gatsby-plugin-google-gtag`,
