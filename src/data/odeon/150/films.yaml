@@ -3,51 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "Dune"
-      id: "HO00000406"     
-      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
-      length: "2h 35m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000011"
-          genre: "Fantasy"
-      showtimes:
-        - date: "2021-11-02"
-          times: 
-            - time: "13:40"
-              bookingid: 150-1040
-            - time: "17:10"
-              bookingid: 150-1041
-            - time: "20:40"
-              bookingid: 150-1042
-            
-        - date: "2021-11-03"
-          times: 
-            - time: "10:10"
-              bookingid: 150-1043
-            - time: "13:40"
-              bookingid: 150-1044
-            - time: "17:10"
-              bookingid: 150-1045
-            - time: "20:40"
-              bookingid: 150-1046
-            
-        - date: "2021-11-04"
-          times: 
-            - time: "10:10"
-              bookingid: 150-1047
-            - time: "13:40"
-              bookingid: 150-1048
-            - time: "17:10"
-              bookingid: 150-1049
-            - time: "20:40"
-              bookingid: 150-1050
-            
     - title: "Eternals"
       id: "HO00000396"     
       synopsis: "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations."
@@ -175,6 +130,51 @@
               bookingid: 150-1130
             - time: "20:00"
               bookingid: 150-1131
+            
+    - title: "Dune"
+      id: "HO00000406"     
+      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+      length: "2h 35m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000011"
+          genre: "Fantasy"
+      showtimes:
+        - date: "2021-11-02"
+          times: 
+            - time: "13:40"
+              bookingid: 150-1040
+            - time: "17:10"
+              bookingid: 150-1041
+            - time: "20:40"
+              bookingid: 150-1042
+            
+        - date: "2021-11-03"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1043
+            - time: "13:40"
+              bookingid: 150-1044
+            - time: "17:10"
+              bookingid: 150-1045
+            - time: "20:40"
+              bookingid: 150-1046
+            
+        - date: "2021-11-04"
+          times: 
+            - time: "10:10"
+              bookingid: 150-1047
+            - time: "13:40"
+              bookingid: 150-1048
+            - time: "17:10"
+              bookingid: 150-1049
+            - time: "20:40"
+              bookingid: 150-1050
             
     - title: "Ghostbusters: Afterlife"
       id: "HO00001348"     
