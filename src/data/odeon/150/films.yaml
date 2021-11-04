@@ -117,8 +117,6 @@
               bookingid: 150-1126
             - time: "19:00"
               bookingid: 150-1127
-            - time: "22:40"
-              bookingid: 150-1128
             
         - date: "2021-11-14"
           times: 
