@@ -159,7 +159,7 @@
     - title: "Ghostbusters: Afterlife"
       id: "HO00001348"     
       synopsis: "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe."
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//kHNWm8YDl1Pf6tyzluLagbtkU94.jpg
       length: "2h 3m"
       rating: "12A"
       genres:
