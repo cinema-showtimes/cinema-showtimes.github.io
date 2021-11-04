@@ -127,25 +127,6 @@
             - time: "20:00"
               bookingid: 150-1131
             
-    - title: "Dune"
-      id: "HO00000406"     
-      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
-      length: "2h 35m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000011"
-          genre: "Fantasy"
-      showtimes:
-        - date: "2021-11-04"
-          times: 
-            - time: "20:40"
-              bookingid: 150-1050
-            
     - title: "Ghostbusters: Afterlife"
       id: "HO00001348"     
       synopsis: "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe."
