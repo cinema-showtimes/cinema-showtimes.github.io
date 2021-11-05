@@ -19,6 +19,8 @@
       showtimes:
         - date: "2021-11-05"
           times: 
+            - time: "08:00"
+              bookingid: 150-1073
             - time: "11:40"
               bookingid: 150-1072
             - time: "15:20"
