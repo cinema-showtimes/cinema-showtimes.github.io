@@ -17,11 +17,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2021-11-06"
-          times: 
-            - time: "22:40"
-              bookingid: 150-1077
-            
         - date: "2021-11-07"
           times: 
             - time: "09:00"
