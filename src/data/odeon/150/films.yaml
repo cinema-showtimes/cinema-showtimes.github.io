@@ -17,24 +17,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2021-11-07"
-          times: 
-            - time: "16:20"
-              bookingid: 150-1081
-            - time: "20:00"
-              bookingid: 150-1083
-            
-        - date: "2021-11-08"
-          times: 
-            - time: "09:40"
-              bookingid: 150-1084
-            - time: "13:20"
-              bookingid: 150-1085
-            - time: "17:00"
-              bookingid: 150-1087
-            - time: "20:40"
-              bookingid: 150-1086
-            
         - date: "2021-11-09"
           times: 
             - time: "09:40"
@@ -76,6 +58,8 @@
               bookingid: 150-1122
             - time: "19:00"
               bookingid: 150-1123
+            - time: "22:40"
+              bookingid: 150-1124
             
         - date: "2021-11-13"
           times: 
@@ -85,6 +69,8 @@
               bookingid: 150-1126
             - time: "19:00"
               bookingid: 150-1127
+            - time: "22:40"
+              bookingid: 150-1128
             
         - date: "2021-11-14"
           times: 
@@ -96,6 +82,24 @@
               bookingid: 150-1130
             - time: "20:00"
               bookingid: 150-1131
+            
+        - date: "2021-11-16"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1193
+            - time: "17:00"
+              bookingid: 150-1194
+            - time: "20:30"
+              bookingid: 150-1195
+            
+        - date: "2021-11-17"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1200
+            - time: "17:00"
+              bookingid: 150-1199
+            - time: "20:30"
+              bookingid: 150-1198
             
     - title: "Ghostbusters: Afterlife"
       id: "HO00001348"     
@@ -154,4 +158,26 @@
               bookingid: 150-1169
             - time: "20:00"
               bookingid: 150-1170
+            
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 47m"
+      rating: "TBC"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
+      showtimes:
+        - date: "2021-11-16"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1196
+            
+        - date: "2021-11-17"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1197
             
