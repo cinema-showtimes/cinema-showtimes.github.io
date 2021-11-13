@@ -6,7 +6,7 @@
     - title: "Eternals"
       id: "HO00000396"     
       synopsis: "Marvel Studios’ Eternals features an exciting new team of superheroes in the MCU, ancient aliens who have been living on Earth in secret for thousands of years."
-      poster: https://image.tmdb.org/t/p/w500//4DiJQ1mBp4ztoznZADIrPg69v46.jpg
+      poster: https://image.tmdb.org/t/p/w500//6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg
       length: "2h 36m"
       rating: "12A"
       genres:
@@ -17,48 +17,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2021-11-10"
-          times: 
-            - time: "13:20"
-              bookingid: 150-1094
-            - time: "17:00"
-              bookingid: 150-1092
-            - time: "20:40"
-              bookingid: 150-1093
-            
-        - date: "2021-11-11"
-          times: 
-            - time: "09:40"
-              bookingid: 150-1099
-            - time: "13:20"
-              bookingid: 150-1098
-            - time: "17:00"
-              bookingid: 150-1096
-            - time: "20:40"
-              bookingid: 150-1097
-            
-        - date: "2021-11-12"
-          times: 
-            - time: "11:40"
-              bookingid: 150-1121
-            - time: "15:20"
-              bookingid: 150-1122
-            - time: "19:00"
-              bookingid: 150-1123
-            - time: "22:40"
-              bookingid: 150-1124
-            
-        - date: "2021-11-13"
-          times: 
-            - time: "11:40"
-              bookingid: 150-1125
-            - time: "15:20"
-              bookingid: 150-1126
-            - time: "19:00"
-              bookingid: 150-1127
-            - time: "22:40"
-              bookingid: 150-1128
-            
         - date: "2021-11-14"
           times: 
             - time: "09:10"
@@ -145,6 +103,21 @@
               bookingid: 150-1169
             - time: "20:00"
               bookingid: 150-1170
+            
+    - title: "America Wild: National Parks Adventure"
+      id: "HO00000426"     
+      synopsis: ""
+      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
+      length: "0h 45m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2021-11-18"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1149
             
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
