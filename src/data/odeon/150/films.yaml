@@ -137,6 +137,55 @@
             - time: "20:30"
               bookingid: 150-1189
             
+    - title: "Dune"
+      id: "HO00000406"     
+      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+      length: "2h 35m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000011"
+          genre: "Fantasy"
+      showtimes:
+        - date: "2021-11-26"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1202
+            
+        - date: "2021-11-27"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1203
+            
+        - date: "2021-11-28"
+          times: 
+            - time: "20:00"
+              bookingid: 150-1204
+            
+        - date: "2021-11-29"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1205
+            
+        - date: "2021-11-30"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1206
+            
+        - date: "2021-12-01"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1207
+            
+        - date: "2021-12-02"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1208
+            
     - title: "America Wild: National Parks Adventure"
       id: "HO00000426"     
       synopsis: ""
