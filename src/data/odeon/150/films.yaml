@@ -3,6 +3,34 @@
   slug: "bfi-imax"
   movies:
     
+    - title: "Eternals"
+      id: "HO00000396"     
+      synopsis: "Marvel Studios’ Eternals features an exciting new team of superheroes in the MCU, ancient aliens who have been living on Earth in secret for thousands of years."
+      poster: https://image.tmdb.org/t/p/w500//6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg
+      length: "2h 36m"
+      rating: "12A"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2021-11-16"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1195
+            
+        - date: "2021-11-17"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1200
+            - time: "17:00"
+              bookingid: 150-1199
+            - time: "20:30"
+              bookingid: 150-1198
+            
     - title: "Ghostbusters: Afterlife"
       id: "HO00001348"     
       synopsis: "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe."
@@ -104,34 +132,6 @@
               bookingid: 150-1190
             - time: "20:30"
               bookingid: 150-1189
-            
-    - title: "Eternals"
-      id: "HO00000396"     
-      synopsis: "Marvel Studios’ Eternals features an exciting new team of superheroes in the MCU, ancient aliens who have been living on Earth in secret for thousands of years."
-      poster: https://image.tmdb.org/t/p/w500//6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg
-      length: "2h 36m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000009"
-          genre: "Drama"
-      showtimes:
-        - date: "2021-11-16"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1195
-            
-        - date: "2021-11-17"
-          times: 
-            - time: "13:30"
-              bookingid: 150-1200
-            - time: "17:00"
-              bookingid: 150-1199
-            - time: "20:30"
-              bookingid: 150-1198
             
     - title: "Dune"
       id: "HO00000406"     
