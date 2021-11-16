@@ -119,11 +119,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2021-11-16"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1195
-            
         - date: "2021-11-17"
           times: 
             - time: "13:30"
