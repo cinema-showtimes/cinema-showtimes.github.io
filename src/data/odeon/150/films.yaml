@@ -213,11 +213,6 @@
         - id: "0000000013"
           genre: "History"
       showtimes:
-        - date: "2021-11-16"
-          times: 
-            - time: "12:00"
-              bookingid: 150-1196
-            
         - date: "2021-11-17"
           times: 
             - time: "12:00"
