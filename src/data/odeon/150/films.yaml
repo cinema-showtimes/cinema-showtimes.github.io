@@ -154,18 +154,3 @@
             - time: "20:20"
               bookingid: 150-1208
             
-    - title: "America Wild: National Parks Adventure"
-      id: "HO00000426"     
-      synopsis: ""
-      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
-      length: "0h 45m"
-      rating: "U"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2021-11-18"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1149
-            
