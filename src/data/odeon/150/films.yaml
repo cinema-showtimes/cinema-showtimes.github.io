@@ -17,11 +17,6 @@
         - id: "0000000007"
           genre: "Crime"
       showtimes:
-        - date: "2021-11-20"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1166
-            
         - date: "2021-11-21"
           times: 
             - time: "11:00"
