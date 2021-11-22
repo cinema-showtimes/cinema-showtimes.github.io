@@ -76,13 +76,6 @@
             - time: "17:30"
               bookingid: 150-1228
             
-        - date: "2021-11-30"
-          times: 
-            - time: "11:10"
-              bookingid: 150-1241
-            - time: "17:30"
-              bookingid: 150-1229
-            
         - date: "2021-12-01"
           times: 
             - time: "11:10"
@@ -137,8 +130,6 @@
             
         - date: "2021-11-30"
           times: 
-            - time: "14:00"
-              bookingid: 150-1240
             - time: "20:20"
               bookingid: 150-1206
             
