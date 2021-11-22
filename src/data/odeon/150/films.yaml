@@ -55,13 +55,6 @@
             - time: "20:30"
               bookingid: 150-1189
             
-        - date: "2021-11-26"
-          times: 
-            - time: "11:10"
-              bookingid: 150-1233
-            - time: "17:30"
-              bookingid: 150-1225
-            
         - date: "2021-11-27"
           times: 
             - time: "11:00"
@@ -111,8 +104,6 @@
       showtimes:
         - date: "2021-11-26"
           times: 
-            - time: "14:10"
-              bookingid: 150-1232
             - time: "20:20"
               bookingid: 150-1202
             
