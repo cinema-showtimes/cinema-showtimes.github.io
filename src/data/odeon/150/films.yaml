@@ -55,19 +55,19 @@
             - time: "20:30"
               bookingid: 150-1189
             
-        - date: "2021-11-28"
+        - date: "2021-11-27"
           times: 
-            - time: "10:30"
-              bookingid: 150-1227
-            - time: "13:30"
-              bookingid: 150-1236
+            - time: "11:00"
+              bookingid: 150-1226
+            - time: "14:00"
+              bookingid: 150-1235
             
-        - date: "2021-11-29"
+        - date: "2021-11-30"
           times: 
             - time: "11:10"
-              bookingid: 150-1239
+              bookingid: 150-1241
             - time: "17:30"
-              bookingid: 150-1228
+              bookingid: 150-1229
             
     - title: "Dune"
       id: "HO00000406"     
@@ -90,25 +90,25 @@
             
         - date: "2021-11-27"
           times: 
+            - time: "17:00"
+              bookingid: 150-1234
             - time: "20:30"
               bookingid: 150-1203
             
         - date: "2021-11-28"
           times: 
-            - time: "16:30"
-              bookingid: 150-1237
             - time: "20:00"
               bookingid: 150-1204
             
         - date: "2021-11-29"
           times: 
-            - time: "14:00"
-              bookingid: 150-1238
             - time: "20:20"
               bookingid: 150-1205
             
         - date: "2021-11-30"
           times: 
+            - time: "14:00"
+              bookingid: 150-1240
             - time: "20:20"
               bookingid: 150-1206
             
