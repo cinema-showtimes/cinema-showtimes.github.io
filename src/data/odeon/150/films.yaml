@@ -55,12 +55,12 @@
             - time: "20:30"
               bookingid: 150-1189
             
-        - date: "2021-11-26"
+        - date: "2021-11-27"
           times: 
-            - time: "11:10"
-              bookingid: 150-1233
-            - time: "17:30"
-              bookingid: 150-1225
+            - time: "11:00"
+              bookingid: 150-1226
+            - time: "14:00"
+              bookingid: 150-1235
             
         - date: "2021-11-28"
           times: 
@@ -69,12 +69,31 @@
             - time: "13:30"
               bookingid: 150-1236
             
+        - date: "2021-11-29"
+          times: 
+            - time: "11:10"
+              bookingid: 150-1239
+            - time: "17:30"
+              bookingid: 150-1228
+            
+        - date: "2021-11-30"
+          times: 
+            - time: "11:10"
+              bookingid: 150-1241
+            - time: "17:30"
+              bookingid: 150-1229
+            
         - date: "2021-12-01"
           times: 
             - time: "11:10"
               bookingid: 150-1242
             - time: "17:30"
               bookingid: 150-1230
+            
+        - date: "2021-12-02"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1209
             
     - title: "Dune"
       id: "HO00000406"     
@@ -92,13 +111,13 @@
       showtimes:
         - date: "2021-11-26"
           times: 
-            - time: "14:10"
-              bookingid: 150-1232
             - time: "20:20"
               bookingid: 150-1202
             
         - date: "2021-11-27"
           times: 
+            - time: "17:00"
+              bookingid: 150-1234
             - time: "20:30"
               bookingid: 150-1203
             
@@ -111,11 +130,15 @@
             
         - date: "2021-11-29"
           times: 
+            - time: "14:00"
+              bookingid: 150-1238
             - time: "20:20"
               bookingid: 150-1205
             
         - date: "2021-11-30"
           times: 
+            - time: "14:00"
+              bookingid: 150-1240
             - time: "20:20"
               bookingid: 150-1206
             
@@ -128,6 +151,8 @@
             
         - date: "2021-12-02"
           times: 
+            - time: "14:00"
+              bookingid: 150-1243
             - time: "20:20"
               bookingid: 150-1208
             
