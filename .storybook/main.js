@@ -1,4 +1,5 @@
 const path = require('path');
+//const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   "stories": [
@@ -7,7 +8,8 @@ module.exports = {
   ],
   "addons": [
     "@storybook/addon-links",
-    "@storybook/addon-essentials"
+    "@storybook/addon-essentials",
+    'storybook-addon-designs'
   ],
   "core": {
     "builder": "webpack5"
@@ -23,7 +25,7 @@ module.exports = {
       use: ['style-loader', 'css-loader', 'sass-loader'],
       include: path.resolve(__dirname, '../'),
     });
-
+    //config.plugins = [new HtmlWebpackPlugin()];
     // Return the altered config
     return config;
   },

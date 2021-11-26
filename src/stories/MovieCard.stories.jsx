@@ -1,8 +1,10 @@
 import React from "react"
 import MovieCard from "/src/components/movie-card"
+import { withDesign } from 'storybook-addon-designs'
 export default {
   component: MovieCard,
   title: "Components/MovieCard",
+  decorators: [withDesign],
 }
 const Template = args => <MovieCard {...args} />
 export const Default = Template.bind({})
@@ -17,4 +19,11 @@ Default.args = {
   genres:[{id:1, genre: "Action"}],
   showtimes:[{date: "2021-09-10", times:[{time:"12:10", bookingid:"150-840"},{time:"14:10", bookingid:"150-840"},{time:"16:10", bookingid:"150-840"}]},{date: "2021-09-10", times:[{time:"12:10", bookingid:"150-840"},{time:"14:10", bookingid:"150-840"},{time:"16:10", bookingid:"150-840"}]}],
   rating:"18"
+}
+
+Default.parameters = {
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/G1aaQplpyvNjr2HpkXwxRx/IMAX-Movie-Release?node-id=10%3A393',
+  },
 }
