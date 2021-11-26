@@ -155,3 +155,35 @@
             - time: "20:00"
               bookingid: 150-1213
             
+    - title: "West Side Story"
+      id: "HO00000955"     
+      synopsis: "West Side Story explores young love and tensions between rival gangs the Jets and the Sharks on the streets of 1957 New York. "
+      poster: https://image.tmdb.org/t/p/w500//myAX5qoD6YVLNGiWpk2wcU66Vfq.jpg
+      length: "2h 36m"
+      rating: "TBC"
+      genres:
+        - id: "0000000007"
+          genre: "Crime"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000015"
+          genre: "Musical "
+      showtimes:
+        - date: "2021-12-10"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1250
+            - time: "15:30"
+              bookingid: 150-1251
+            - time: "19:00"
+              bookingid: 150-1252
+            
+        - date: "2021-12-11"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1255
+            - time: "15:30"
+              bookingid: 150-1254
+            - time: "19:00"
+              bookingid: 150-1253
+            
