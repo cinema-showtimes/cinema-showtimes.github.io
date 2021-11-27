@@ -19,8 +19,6 @@
       showtimes:
         - date: "2021-11-27"
           times: 
-            - time: "11:00"
-              bookingid: 150-1226
             - time: "14:00"
               bookingid: 150-1235
             
