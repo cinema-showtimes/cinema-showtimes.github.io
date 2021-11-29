@@ -3,103 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "Ghostbusters: Afterlife"
-      id: "HO00001348"     
-      synopsis: "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe."
-      poster: https://image.tmdb.org/t/p/w500//kHNWm8YDl1Pf6tyzluLagbtkU94.jpg
-      length: "2h 4m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000006"
-          genre: "Comedy"
-        - id: "0000000007"
-          genre: "Crime"
-      showtimes:
-        - date: "2021-11-29"
-          times: 
-            - time: "11:10"
-              bookingid: 150-1239
-            - time: "17:30"
-              bookingid: 150-1228
-            
-        - date: "2021-11-30"
-          times: 
-            - time: "11:10"
-              bookingid: 150-1241
-            - time: "17:30"
-              bookingid: 150-1229
-            
-        - date: "2021-12-01"
-          times: 
-            - time: "11:10"
-              bookingid: 150-1242
-            - time: "17:30"
-              bookingid: 150-1230
-            
-        - date: "2021-12-02"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1209
-            
-    - title: "Dune"
-      id: "HO00000406"     
-      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
-      length: "2h 35m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000011"
-          genre: "Fantasy"
-      showtimes:
-        - date: "2021-11-29"
-          times: 
-            - time: "14:00"
-              bookingid: 150-1238
-            - time: "20:20"
-              bookingid: 150-1205
-            
-        - date: "2021-11-30"
-          times: 
-            - time: "14:00"
-              bookingid: 150-1240
-            - time: "20:20"
-              bookingid: 150-1206
-            
-        - date: "2021-12-01"
-          times: 
-            - time: "14:00"
-              bookingid: 150-1231
-            - time: "20:20"
-              bookingid: 150-1207
-            
-        - date: "2021-12-02"
-          times: 
-            - time: "14:00"
-              bookingid: 150-1243
-            - time: "20:20"
-              bookingid: 150-1208
-            
-    - title: "IMAX: To the Arctic 3D"
-      id: "HO00000427"     
-      synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home. "
-      poster: https://via.placeholder.com/256x384
-      length: "0h 40m"
-      rating: "U"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2021-12-01"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1387
-            
     - title: "Spider-Man: No Way Home"
       id: "HO00002069"     
       synopsis: "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from a Super Hero."
@@ -206,6 +109,103 @@
               bookingid: 150-1312
             - time: "20:00"
               bookingid: 150-1311
+            
+    - title: "Ghostbusters: Afterlife"
+      id: "HO00001348"     
+      synopsis: "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe."
+      poster: https://image.tmdb.org/t/p/w500//kHNWm8YDl1Pf6tyzluLagbtkU94.jpg
+      length: "2h 4m"
+      rating: "12A"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000006"
+          genre: "Comedy"
+        - id: "0000000007"
+          genre: "Crime"
+      showtimes:
+        - date: "2021-11-29"
+          times: 
+            - time: "11:10"
+              bookingid: 150-1239
+            - time: "17:30"
+              bookingid: 150-1228
+            
+        - date: "2021-11-30"
+          times: 
+            - time: "11:10"
+              bookingid: 150-1241
+            - time: "17:30"
+              bookingid: 150-1229
+            
+        - date: "2021-12-01"
+          times: 
+            - time: "11:10"
+              bookingid: 150-1242
+            - time: "17:30"
+              bookingid: 150-1230
+            
+        - date: "2021-12-02"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1209
+            
+    - title: "Dune"
+      id: "HO00000406"     
+      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+      length: "2h 35m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000011"
+          genre: "Fantasy"
+      showtimes:
+        - date: "2021-11-29"
+          times: 
+            - time: "14:00"
+              bookingid: 150-1238
+            - time: "20:20"
+              bookingid: 150-1205
+            
+        - date: "2021-11-30"
+          times: 
+            - time: "14:00"
+              bookingid: 150-1240
+            - time: "20:20"
+              bookingid: 150-1206
+            
+        - date: "2021-12-01"
+          times: 
+            - time: "14:00"
+              bookingid: 150-1231
+            - time: "20:20"
+              bookingid: 150-1207
+            
+        - date: "2021-12-02"
+          times: 
+            - time: "14:00"
+              bookingid: 150-1243
+            - time: "20:20"
+              bookingid: 150-1208
+            
+    - title: "IMAX: To the Arctic 3D"
+      id: "HO00000427"     
+      synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home. "
+      poster: https://via.placeholder.com/256x384
+      length: "0h 40m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2021-12-01"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1387
             
     - title: "The Matrix"
       id: "HO00000753"     
