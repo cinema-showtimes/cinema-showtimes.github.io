@@ -243,6 +243,13 @@
             - time: "20:30"
               bookingid: 150-1220
             
+        - date: "2021-12-05"
+          times: 
+            - time: "15:30"
+              bookingid: 150-1224
+            - time: "19:00"
+              bookingid: 150-1223
+            
         - date: "2021-12-06"
           times: 
             - time: "13:30"
