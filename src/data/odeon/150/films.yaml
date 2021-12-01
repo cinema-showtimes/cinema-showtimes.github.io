@@ -271,18 +271,3 @@
             - time: "11:30"
               bookingid: 150-1292
             
-    - title: "IMAX: To the Arctic 3D"
-      id: "HO00000427"     
-      synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home. "
-      poster: https://via.placeholder.com/256x384
-      length: "0h 40m"
-      rating: "U"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2021-12-01"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1387
-            
