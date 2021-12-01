@@ -156,11 +156,6 @@
         - id: "0000000007"
           genre: "Crime"
       showtimes:
-        - date: "2021-12-01"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1230
-            
         - date: "2021-12-02"
           times: 
             - time: "17:30"
