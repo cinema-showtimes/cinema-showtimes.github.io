@@ -192,11 +192,6 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-12-01"
-          times: 
-            - time: "20:20"
-              bookingid: 150-1207
-            
         - date: "2021-12-02"
           times: 
             - time: "14:00"
