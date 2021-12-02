@@ -142,25 +142,6 @@
             - time: "19:00"
               bookingid: 150-1253
             
-    - title: "Ghostbusters: Afterlife"
-      id: "HO00001348"     
-      synopsis: "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe."
-      poster: https://image.tmdb.org/t/p/w500//kHNWm8YDl1Pf6tyzluLagbtkU94.jpg
-      length: "2h 4m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000006"
-          genre: "Comedy"
-        - id: "0000000007"
-          genre: "Crime"
-      showtimes:
-        - date: "2021-12-02"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1209
-            
     - title: "The Matrix"
       id: "HO00000753"     
       synopsis: "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
