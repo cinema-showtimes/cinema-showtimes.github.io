@@ -240,6 +240,15 @@
             - time: "16:30"
               bookingid: 150-1214
             
+        - date: "2021-12-08"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1413
+            - time: "17:00"
+              bookingid: 150-1414
+            - time: "20:30"
+              bookingid: 150-1415
+            
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
