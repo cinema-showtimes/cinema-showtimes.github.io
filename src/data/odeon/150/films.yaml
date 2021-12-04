@@ -173,11 +173,6 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2021-12-04"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1220
-            
         - date: "2021-12-05"
           times: 
             - time: "15:30"
