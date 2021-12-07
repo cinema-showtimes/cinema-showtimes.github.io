@@ -189,20 +189,3 @@
             - time: "20:30"
               bookingid: 150-1415
             
-    - title: "Apollo 11: First Steps Edition"
-      id: "HO00001974"     
-      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 47m"
-      rating: "TBC"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000013"
-          genre: "History"
-      showtimes:
-        - date: "2021-12-07"
-          times: 
-            - time: "11:30"
-              bookingid: 150-1292
-            
