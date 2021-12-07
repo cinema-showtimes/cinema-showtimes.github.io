@@ -142,6 +142,15 @@
             - time: "19:00"
               bookingid: 150-1253
             
+        - date: "2021-12-14"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1260
+            - time: "15:30"
+              bookingid: 150-1261
+            - time: "19:00"
+              bookingid: 150-1262
+            
     - title: "The Matrix"
       id: "HO00000753"     
       synopsis: "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
