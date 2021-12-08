@@ -169,6 +169,48 @@
             - time: "19:00"
               bookingid: 150-1262
             
+    - title: "The Matrix Resurrections"
+      id: "HO00002126"     
+      synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
+      poster: https://image.tmdb.org/t/p/w500//xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg
+      length: "2h 30m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2021-12-22"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1319
+            - time: "20:30"
+              bookingid: 150-1317
+            - time: "23:55"
+              bookingid: 150-1318
+            
+        - date: "2021-12-23"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1320
+            - time: "20:30"
+              bookingid: 150-1322
+            
+        - date: "2021-12-24"
+          times: 
+            - time: "12:30"
+              bookingid: 150-1327
+            - time: "19:30"
+              bookingid: 150-1325
+            
+        - date: "2021-12-26"
+          times: 
+            - time: "13:30"
+              bookingid: 150-1330
+            - time: "20:30"
+              bookingid: 150-1332
+            
     - title: "Dune"
       id: "HO00000406"     
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
