@@ -253,8 +253,6 @@
       showtimes:
         - date: "2021-12-08"
           times: 
-            - time: "13:30"
-              bookingid: 150-1413
             - time: "17:00"
               bookingid: 150-1414
             - time: "20:30"
