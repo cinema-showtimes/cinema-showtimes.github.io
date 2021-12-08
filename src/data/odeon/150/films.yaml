@@ -110,6 +110,32 @@
             - time: "20:00"
               bookingid: 150-1311
             
+        - date: "2021-12-22"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1315
+            - time: "17:00"
+              bookingid: 150-1316
+            
+        - date: "2021-12-23"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1324
+            - time: "17:00"
+              bookingid: 150-1323
+            
+        - date: "2021-12-24"
+          times: 
+            - time: "09:00"
+              bookingid: 150-1328
+            - time: "16:00"
+              bookingid: 150-1326
+            
+        - date: "2021-12-26"
+          times: 
+            - time: "17:00"
+              bookingid: 150-1331
+            
     - title: "West Side Story"
       id: "HO00000955"     
       synopsis: "West Side Story explores young love and tensions between rival gangs the Jets and the Sharks on the streets of 1957 New York. "
