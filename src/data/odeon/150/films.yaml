@@ -150,11 +150,6 @@
         - id: "0000000015"
           genre: "Musical "
       showtimes:
-        - date: "2021-12-10"
-          times: 
-            - time: "19:00"
-              bookingid: 150-1252
-            
         - date: "2021-12-11"
           times: 
             - time: "12:00"
