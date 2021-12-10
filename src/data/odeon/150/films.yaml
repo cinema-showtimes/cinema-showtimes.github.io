@@ -242,11 +242,6 @@
         - id: "0000000053"
           genre: "Subtitled Foreign Language"
       showtimes:
-        - date: "2021-12-10"
-          times: 
-            - time: "22:30"
-              bookingid: 150-1265
-            
         - date: "2021-12-11"
           times: 
             - time: "22:30"
