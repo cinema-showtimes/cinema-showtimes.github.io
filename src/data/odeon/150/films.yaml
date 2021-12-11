@@ -219,22 +219,3 @@
             - time: "20:30"
               bookingid: 150-1332
             
-    - title: "Sword Art Online The Movie (Subbed)"
-      id: "HO00002333"     
-      synopsis: "Return to the death game where it all began—Sword Art Online. In this new Aincrad Arc by original creator Reki Kawahara, the story is seen through Asuna’s eyes."
-      poster: https://via.placeholder.com/256x384
-      length: "1h 38m"
-      rating: "TBC"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000053"
-          genre: "Subtitled Foreign Language"
-      showtimes:
-        - date: "2021-12-11"
-          times: 
-            - time: "22:30"
-              bookingid: 150-1401
-            
