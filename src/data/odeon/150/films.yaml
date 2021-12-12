@@ -152,8 +152,6 @@
       showtimes:
         - date: "2021-12-12"
           times: 
-            - time: "17:00"
-              bookingid: 150-1257
             - time: "20:30"
               bookingid: 150-1256
             
