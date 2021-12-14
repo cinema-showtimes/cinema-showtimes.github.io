@@ -138,25 +138,6 @@
             - time: "17:00"
               bookingid: 150-1331
             
-    - title: "West Side Story"
-      id: "HO00000955"     
-      synopsis: "West Side Story explores young love and tensions between rival gangs the Jets and the Sharks on the streets of 1957 New York. "
-      poster: https://image.tmdb.org/t/p/w500//zeAZTPxV5xZRNEX3rZotnsp7IVo.jpg
-      length: "2h 36m"
-      rating: "12A"
-      genres:
-        - id: "0000000007"
-          genre: "Crime"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000015"
-          genre: "Musical "
-      showtimes:
-        - date: "2021-12-14"
-          times: 
-            - time: "19:00"
-              bookingid: 150-1262
-            
     - title: "The Matrix Resurrections"
       id: "HO00002126"     
       synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
