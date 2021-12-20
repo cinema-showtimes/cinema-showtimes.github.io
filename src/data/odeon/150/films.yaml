@@ -19,8 +19,6 @@
       showtimes:
         - date: "2021-12-20"
           times: 
-            - time: "09:00"
-              bookingid: 150-1306
             - time: "12:30"
               bookingid: 150-1307
             - time: "16:00"
