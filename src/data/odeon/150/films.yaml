@@ -19,8 +19,6 @@
       showtimes:
         - date: "2021-12-23"
           times: 
-            - time: "10:00"
-              bookingid: 150-1324
             - time: "17:00"
               bookingid: 150-1323
             
@@ -83,7 +81,7 @@
     - title: "The Matrix Resurrections"
       id: "HO00002126"     
       synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
-      poster: https://image.tmdb.org/t/p/w500//8c4a8kE7PizaGQQnditMmI1xbRp.jpg
+      poster: https://image.tmdb.org/t/p/w500//6aNRxxRjLF4xH2m2bLr4aC2rDea.jpg
       length: "2h 28m"
       rating: "15"
       genres:
