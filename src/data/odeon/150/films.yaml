@@ -92,8 +92,6 @@
       showtimes:
         - date: "2021-12-23"
           times: 
-            - time: "13:30"
-              bookingid: 150-1320
             - time: "20:30"
               bookingid: 150-1322
             
