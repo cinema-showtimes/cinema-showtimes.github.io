@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-01-04"
           times: 
-            - time: "17:00"
-              bookingid: 150-1374
             - time: "20:30"
               bookingid: 150-1432
             
@@ -57,6 +55,17 @@
             - time: "20:40"
               bookingid: 150-1479
             
+        - date: "2022-01-08"
+          times: 
+            - time: "10:40"
+              bookingid: 150-1459
+            - time: "14:00"
+              bookingid: 150-1464
+            - time: "17:20"
+              bookingid: 150-1469
+            - time: "20:40"
+              bookingid: 150-1480
+            
         - date: "2022-01-09"
           times: 
             - time: "10:00"
@@ -68,6 +77,15 @@
             - time: "19:45"
               bookingid: 150-1481
             
+        - date: "2022-01-10"
+          times: 
+            - time: "14:00"
+              bookingid: 150-1465
+            - time: "17:15"
+              bookingid: 150-1470
+            - time: "20:30"
+              bookingid: 150-1482
+            
         - date: "2022-01-11"
           times: 
             - time: "14:00"
@@ -76,6 +94,15 @@
               bookingid: 150-1471
             - time: "20:30"
               bookingid: 150-1483
+            
+        - date: "2022-01-12"
+          times: 
+            - time: "14:00"
+              bookingid: 150-1467
+            - time: "17:15"
+              bookingid: 150-1472
+            - time: "20:30"
+              bookingid: 150-1484
             
         - date: "2022-01-13"
           times: 
@@ -98,10 +125,20 @@
         - id: "0000000013"
           genre: "History"
       showtimes:
+        - date: "2022-01-10"
+          times: 
+            - time: "12:30"
+              bookingid: 150-1486
+            
         - date: "2022-01-11"
           times: 
             - time: "12:30"
               bookingid: 150-1487
+            
+        - date: "2022-01-12"
+          times: 
+            - time: "12:30"
+              bookingid: 150-1488
             
         - date: "2022-01-13"
           times: 
