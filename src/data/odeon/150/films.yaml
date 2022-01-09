@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-01-09"
           times: 
-            - time: "13:15"
-              bookingid: 150-1446
             - time: "16:30"
               bookingid: 150-1452
             - time: "19:45"
