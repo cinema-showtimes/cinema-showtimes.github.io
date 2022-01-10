@@ -51,6 +51,95 @@
             - time: "20:30"
               bookingid: 150-1485
             
+        - date: "2022-01-14"
+          times: 
+            - time: "11:00"
+              bookingid: 150-1501
+            - time: "14:15"
+              bookingid: 150-1502
+            - time: "17:30"
+              bookingid: 150-1503
+            
+        - date: "2022-01-15"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1505
+            - time: "13:45"
+              bookingid: 150-1506
+            - time: "17:00"
+              bookingid: 150-1507
+            
+        - date: "2022-01-16"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1512
+            - time: "13:45"
+              bookingid: 150-1511
+            - time: "17:00"
+              bookingid: 150-1510
+            
+        - date: "2022-01-17"
+          times: 
+            - time: "14:20"
+              bookingid: 150-1515
+            - time: "17:40"
+              bookingid: 150-1514
+            
+        - date: "2022-01-18"
+          times: 
+            - time: "16:00"
+              bookingid: 150-1494
+            - time: "19:20"
+              bookingid: 150-1495
+            
+        - date: "2022-01-19"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1498
+            - time: "15:30"
+              bookingid: 150-1499
+            - time: "19:00"
+              bookingid: 150-1500
+            
+        - date: "2022-01-20"
+          times: 
+            - time: "16:00"
+              bookingid: 150-1496
+            - time: "19:20"
+              bookingid: 150-1497
+            
+    - title: "The Matrix Resurrections"
+      id: "HO00002126"     
+      synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
+      poster: https://image.tmdb.org/t/p/w500//gZlZLxJMfnSeS60abFZMh1IvODQ.jpg
+      length: "2h 28m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2022-01-14"
+          times: 
+            - time: "20:45"
+              bookingid: 150-1504
+            
+        - date: "2022-01-15"
+          times: 
+            - time: "20:15"
+              bookingid: 150-1508
+            
+        - date: "2022-01-16"
+          times: 
+            - time: "20:15"
+              bookingid: 150-1509
+            
+        - date: "2022-01-17"
+          times: 
+            - time: "20:45"
+              bookingid: 150-1513
+            
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
@@ -77,6 +166,11 @@
           times: 
             - time: "12:30"
               bookingid: 150-1489
+            
+        - date: "2022-01-17"
+          times: 
+            - time: "12:50"
+              bookingid: 150-1517
             
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
