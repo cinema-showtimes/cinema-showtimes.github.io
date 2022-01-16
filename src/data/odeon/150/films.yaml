@@ -69,6 +69,26 @@
             - time: "20:45"
               bookingid: 150-1513
             
+    - title: "(I) 3D A BEAUTIFUL PLANET (IMAX)"
+      id: "16714     "     
+      synopsis: ""
+      poster: https://via.placeholder.com/256x384
+      length: "0h 40m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-01-19"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1520
+            
+        - date: "2022-01-26"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1418
+            
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
