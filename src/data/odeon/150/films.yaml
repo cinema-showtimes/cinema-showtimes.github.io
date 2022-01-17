@@ -84,23 +84,6 @@
             - time: "10:30"
               bookingid: 150-1418
             
-    - title: "Apollo 11: First Steps Edition"
-      id: "HO00001974"     
-      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 47m"
-      rating: "TBC"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000013"
-          genre: "History"
-      showtimes:
-        - date: "2022-01-17"
-          times: 
-            - time: "12:50"
-              bookingid: 150-1517
-            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
