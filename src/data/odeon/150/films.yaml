@@ -17,11 +17,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-01-17"
-          times: 
-            - time: "17:40"
-              bookingid: 150-1514
-            
         - date: "2022-01-18"
           times: 
             - time: "16:00"
@@ -45,6 +40,37 @@
             - time: "19:20"
               bookingid: 150-1497
             
+        - date: "2022-01-21"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1523
+            
+        - date: "2022-01-22"
+          times: 
+            - time: "13:45"
+              bookingid: 150-1527
+            - time: "17:00"
+              bookingid: 150-1526
+            
+        - date: "2022-01-23"
+          times: 
+            - time: "13:20"
+              bookingid: 150-1532
+            - time: "16:40"
+              bookingid: 150-1531
+            
+        - date: "2022-01-24"
+          times: 
+            - time: "17:15"
+              bookingid: 150-1534
+            
+        - date: "2022-01-25"
+          times: 
+            - time: "16:15"
+              bookingid: 150-1538
+            - time: "19:30"
+              bookingid: 150-1539
+            
     - title: "The Matrix Resurrections"
       id: "HO00002126"     
       synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
@@ -61,6 +87,26 @@
           times: 
             - time: "20:45"
               bookingid: 150-1513
+            
+        - date: "2022-01-21"
+          times: 
+            - time: "20:45"
+              bookingid: 150-1522
+            
+        - date: "2022-01-22"
+          times: 
+            - time: "20:15"
+              bookingid: 150-1528
+            
+        - date: "2022-01-23"
+          times: 
+            - time: "20:00"
+              bookingid: 150-1530
+            
+        - date: "2022-01-24"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1537
             
     - title: "(I) 3D A BEAUTIFUL PLANET (IMAX)"
       id: "16714     "     
@@ -81,6 +127,62 @@
           times: 
             - time: "10:30"
               bookingid: 150-1418
+            
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 47m"
+      rating: "TBC"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
+      showtimes:
+        - date: "2022-01-21"
+          times: 
+            - time: "12:40"
+              bookingid: 150-1525
+            
+        - date: "2022-01-24"
+          times: 
+            - time: "12:20"
+              bookingid: 150-1536
+            
+    - title: "Dune"
+      id: "HO00000406"     
+      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+      length: "2h 35m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000011"
+          genre: "Fantasy"
+      showtimes:
+        - date: "2022-01-21"
+          times: 
+            - time: "14:10"
+              bookingid: 150-1524
+            
+        - date: "2022-01-22"
+          times: 
+            - time: "10:20"
+              bookingid: 150-1529
+            
+        - date: "2022-01-23"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1533
+            
+        - date: "2022-01-24"
+          times: 
+            - time: "13:50"
+              bookingid: 150-1535
             
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
