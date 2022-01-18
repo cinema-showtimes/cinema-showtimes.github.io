@@ -17,11 +17,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-01-18"
-          times: 
-            - time: "19:20"
-              bookingid: 150-1495
-            
         - date: "2022-01-19"
           times: 
             - time: "12:00"
