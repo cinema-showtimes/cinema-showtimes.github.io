@@ -106,11 +106,6 @@
         - id: "0000000008"
           genre: "Documentary"
       showtimes:
-        - date: "2022-01-19"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1520
-            
         - date: "2022-01-26"
           times: 
             - time: "10:30"
