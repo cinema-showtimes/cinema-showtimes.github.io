@@ -165,6 +165,73 @@
             - time: "13:50"
               bookingid: 150-1535
             
+    - title: "Gravity"
+      id: "HO00002055"     
+      synopsis: "Two astronauts work together to survive after an accident leaves them stranded in space."
+      poster: https://image.tmdb.org/t/p/w500//wmUeEacsFZzDndaeOtNNmy26rYJ.jpg
+      length: "1h 31m"
+      rating: "12A"
+      genres:
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000020"
+          genre: "Thriller"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2022-01-31"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1555
+            
+    - title: "Inception"
+      id: "HO00001957"     
+      synopsis: "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+      poster: https://image.tmdb.org/t/p/w500//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg
+      length: "2h 28m"
+      rating: "12A"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2022-01-29"
+          times: 
+            - time: "20:00"
+              bookingid: 150-1551
+            
+    - title: "Interstellar"
+      id: "HO00000870"     
+      synopsis: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+      poster: https://image.tmdb.org/t/p/w500//gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
+      length: "2h 46m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000020"
+          genre: "Thriller"
+      showtimes:
+        - date: "2022-01-28"
+          times: 
+            - time: "20:15"
+              bookingid: 150-1545
+            
+        - date: "2022-01-29"
+          times: 
+            - time: "16:20"
+              bookingid: 150-1552
+            
+        - date: "2022-02-01"
+          times: 
+            - time: "19:20"
+              bookingid: 150-1559
+            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
