@@ -87,6 +87,21 @@
             - time: "20:30"
               bookingid: 150-1537
             
+    - title: "A Beautiful Planet"
+      id: "HO00000412"     
+      synopsis: "A Beautiful Planet is a breathtaking portrait of Earth from space, providing a unique perspective and increased understanding of our planet and galaxy as never seen befor"
+      poster: https://image.tmdb.org/t/p/w500//9naxphfpDgtArLPKnf0dJgGo7bS.jpg
+      length: "0h 47m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-01-26"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1418
+            
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
