@@ -122,6 +122,46 @@
             - time: "12:20"
               bookingid: 150-1536
             
+    - title: "BELLE (Dubbed)"
+      id: "HO00002484"     
+      synopsis: "Suzu, a teenager living with her father in a small town in the mountains. In virtual world called "U", Suzu is Belle, a musical icon.
+
+"
+      poster: https://via.placeholder.com/256x384
+      length: "2h 7m"
+      rating: "TBC"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000004"
+          genre: "Animation"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2022-02-02"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1561
+            
+    - title: "BELLE (Subbed)"
+      id: "HO00002483"     
+      synopsis: "Suzu is a 17-year-old high school student living in a rural village with her father. For years, she has only been a shadow of herself."
+      poster: https://via.placeholder.com/256x384
+      length: "2h 7m"
+      rating: "TBC"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000004"
+          genre: "Animation"
+        - id: "0000000053"
+          genre: "Subtitled Foreign Language"
+      showtimes:
+        - date: "2022-02-01"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1562
+            
     - title: "Dune"
       id: "HO00000406"     
       synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
