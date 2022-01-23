@@ -144,11 +144,6 @@
         - id: "0000000011"
           genre: "Fantasy"
       showtimes:
-        - date: "2022-01-23"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1533
-            
         - date: "2022-01-24"
           times: 
             - time: "13:50"
