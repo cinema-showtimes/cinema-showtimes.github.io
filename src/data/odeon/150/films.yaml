@@ -17,11 +17,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-01-24"
-          times: 
-            - time: "17:15"
-              bookingid: 150-1534
-            
         - date: "2022-01-25"
           times: 
             - time: "16:15"
@@ -29,10 +24,20 @@
             - time: "19:30"
               bookingid: 150-1539
             
+        - date: "2022-01-28"
+          times: 
+            - time: "17:00"
+              bookingid: 150-1546
+            
         - date: "2022-01-29"
           times: 
             - time: "13:00"
               bookingid: 150-1553
+            
+        - date: "2022-01-31"
+          times: 
+            - time: "14:15"
+              bookingid: 150-1556
             
         - date: "2022-02-01"
           times: 
@@ -43,6 +48,11 @@
           times: 
             - time: "20:30"
               bookingid: 150-1567
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "17:15"
+              bookingid: 150-1569
             
     - title: "The Matrix Resurrections"
       id: "HO00002126"     
@@ -61,10 +71,20 @@
             - time: "20:30"
               bookingid: 150-1537
             
+        - date: "2022-01-31"
+          times: 
+            - time: "19:50"
+              bookingid: 150-1564
+            
         - date: "2022-02-02"
           times: 
             - time: "14:15"
               bookingid: 150-1566
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1570
             
     - title: "A Beautiful Planet"
       id: "HO00000412"     
@@ -93,10 +113,20 @@
         - id: "0000000013"
           genre: "History"
       showtimes:
+        - date: "2022-01-28"
+          times: 
+            - time: "12:10"
+              bookingid: 150-1548
+            
         - date: "2022-01-29"
           times: 
             - time: "11:20"
               bookingid: 150-1554
+            
+        - date: "2022-01-31"
+          times: 
+            - time: "12:40"
+              bookingid: 150-1557
             
         - date: "2022-02-01"
           times: 
@@ -107,6 +137,11 @@
           times: 
             - time: "12:45"
               bookingid: 150-1568
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "12:10"
+              bookingid: 150-1572
             
     - title: "BELLE (Dubbed)"
       id: "HO00002484"     
@@ -147,6 +182,30 @@
           times: 
             - time: "17:30"
               bookingid: 150-1562
+            
+    - title: "Dune"
+      id: "HO00000406"     
+      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+      length: "2h 35m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000011"
+          genre: "Fantasy"
+      showtimes:
+        - date: "2022-01-28"
+          times: 
+            - time: "13:40"
+              bookingid: 150-1547
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "13:50"
+              bookingid: 150-1571
             
     - title: "Gravity"
       id: "HO00002055"     
