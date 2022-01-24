@@ -29,6 +29,21 @@
             - time: "19:30"
               bookingid: 150-1539
             
+        - date: "2022-01-29"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1553
+            
+        - date: "2022-02-01"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1565
+            
+        - date: "2022-02-02"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1567
+            
     - title: "The Matrix Resurrections"
       id: "HO00002126"     
       synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
@@ -46,6 +61,11 @@
             - time: "20:30"
               bookingid: 150-1537
             
+        - date: "2022-02-02"
+          times: 
+            - time: "14:15"
+              bookingid: 150-1566
+            
     - title: "A Beautiful Planet"
       id: "HO00000412"     
       synopsis: "A Beautiful Planet is a breathtaking portrait of Earth from space, providing a unique perspective and increased understanding of our planet and galaxy as never seen befor"
@@ -60,6 +80,33 @@
           times: 
             - time: "10:30"
               bookingid: 150-1418
+            
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 47m"
+      rating: "TBC"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
+      showtimes:
+        - date: "2022-01-29"
+          times: 
+            - time: "11:20"
+              bookingid: 150-1554
+            
+        - date: "2022-02-01"
+          times: 
+            - time: "15:50"
+              bookingid: 150-1563
+            
+        - date: "2022-02-02"
+          times: 
+            - time: "12:45"
+              bookingid: 150-1568
             
     - title: "BELLE (Dubbed)"
       id: "HO00002484"     
