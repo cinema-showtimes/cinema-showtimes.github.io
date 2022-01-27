@@ -74,20 +74,20 @@
             - time: "20:30"
               bookingid: 150-1570
             
-    - title: "A Beautiful Planet"
-      id: "HO00000412"     
-      synopsis: "A Beautiful Planet is a breathtaking portrait of Earth from space, providing a unique perspective and increased understanding of our planet and galaxy as never seen befor"
-      poster: https://image.tmdb.org/t/p/w500//9naxphfpDgtArLPKnf0dJgGo7bS.jpg
-      length: "0h 47m"
+    - title: "America Wild: National Parks Adventure"
+      id: "HO00000426"     
+      synopsis: ""
+      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
+      length: "0h 45m"
       rating: "U"
       genres:
         - id: "0000000008"
           genre: "Documentary"
       showtimes:
-        - date: "2022-01-26"
+        - date: "2022-02-09"
           times: 
             - time: "10:30"
-              bookingid: 150-1418
+              bookingid: 150-1573
             
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
@@ -135,7 +135,7 @@
       id: "HO00002484"     
       synopsis: "Suzu, a teenager living with her father in a small town in the mountains. In virtual world called 'U', Suzu is Belle, a musical icon."
       poster: https://via.placeholder.com/256x384
-      length: "2h 7m"
+      length: "2h 1m"
       rating: "TBC"
       genres:
         - id: "0000000003"
@@ -154,7 +154,7 @@
       id: "HO00002483"     
       synopsis: "Suzu is a 17-year-old high school student living in a rural village with her father. For years, she has only been a shadow of herself."
       poster: https://via.placeholder.com/256x384
-      length: "2h 7m"
+      length: "2h 1m"
       rating: "TBC"
       genres:
         - id: "0000000003"
@@ -212,6 +212,21 @@
             - time: "17:30"
               bookingid: 150-1555
             
+    - title: "IMAX: To the Arctic 3D"
+      id: "HO00000427"     
+      synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 40m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-10"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1518
+            
     - title: "Inception"
       id: "HO00001957"     
       synopsis: "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
@@ -259,8 +274,8 @@
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
       poster: https://image.tmdb.org/t/p/w500//6VDCH4reCVjoNyym5tgJFWT7sMB.jpg
-      length: "1h 40m"
-      rating: "12A Live"
+      length: "1h 5m"
+      rating: "12A"
       genres:
         - id: "0000000008"
           genre: "Documentary"
