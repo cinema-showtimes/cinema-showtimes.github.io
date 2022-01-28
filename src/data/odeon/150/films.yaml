@@ -245,11 +245,6 @@
         - id: "0000000020"
           genre: "Thriller"
       showtimes:
-        - date: "2022-01-28"
-          times: 
-            - time: "20:15"
-              bookingid: 150-1545
-            
         - date: "2022-01-29"
           times: 
             - time: "16:20"
