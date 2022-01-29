@@ -202,25 +202,6 @@
             - time: "10:30"
               bookingid: 150-1518
             
-    - title: "Inception"
-      id: "HO00001957"     
-      synopsis: "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
-      poster: https://image.tmdb.org/t/p/w500//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg
-      length: "2h 28m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-01-29"
-          times: 
-            - time: "20:00"
-              bookingid: 150-1551
-            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
