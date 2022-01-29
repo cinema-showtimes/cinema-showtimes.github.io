@@ -96,11 +96,6 @@
         - id: "0000000013"
           genre: "History"
       showtimes:
-        - date: "2022-01-29"
-          times: 
-            - time: "11:20"
-              bookingid: 150-1554
-            
         - date: "2022-01-31"
           times: 
             - time: "12:40"
