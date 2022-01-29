@@ -221,25 +221,6 @@
             - time: "20:00"
               bookingid: 150-1551
             
-    - title: "Interstellar"
-      id: "HO00000870"     
-      synopsis: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
-      poster: https://image.tmdb.org/t/p/w500//gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
-      length: "2h 46m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000020"
-          genre: "Thriller"
-      showtimes:
-        - date: "2022-01-29"
-          times: 
-            - time: "16:20"
-              bookingid: 150-1552
-            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
