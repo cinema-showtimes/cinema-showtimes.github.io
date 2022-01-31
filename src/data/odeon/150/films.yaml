@@ -158,25 +158,6 @@
             - time: "13:50"
               bookingid: 150-1571
             
-    - title: "Gravity"
-      id: "HO00002055"     
-      synopsis: "Two astronauts work together to survive after an accident leaves them stranded in space."
-      poster: https://image.tmdb.org/t/p/w500//wmUeEacsFZzDndaeOtNNmy26rYJ.jpg
-      length: "1h 31m"
-      rating: "12A"
-      genres:
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000020"
-          genre: "Thriller"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-01-31"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1555
-            
     - title: "IMAX: To the Arctic 3D"
       id: "HO00000427"     
       synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home."
