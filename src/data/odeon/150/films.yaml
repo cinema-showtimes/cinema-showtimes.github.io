@@ -202,20 +202,3 @@
             - time: "10:30"
               bookingid: 150-1518
             
-    - title: "The Beatles: Get Back - The Rooftop Concert"
-      id: "HO00001468"     
-      synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
-      poster: https://image.tmdb.org/t/p/w500//6VDCH4reCVjoNyym5tgJFWT7sMB.jpg
-      length: "1h 5m"
-      rating: "12A"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000015"
-          genre: "Musical "
-      showtimes:
-        - date: "2022-01-30"
-          times: 
-            - time: "20:00"
-              bookingid: 150-1490
-            
