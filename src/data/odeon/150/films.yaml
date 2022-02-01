@@ -3,305 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "Spider-Man: No Way Home"
-      id: "HO00002069"     
-      synopsis: "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from a Super Hero."
-      poster: https://image.tmdb.org/t/p/w500//1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
-      length: "2h 28m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-02-01"
-          times: 
-            - time: "20:20"
-              bookingid: 150-1565
-            
-        - date: "2022-02-02"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1567
-            
-        - date: "2022-02-03"
-          times: 
-            - time: "17:15"
-              bookingid: 150-1569
-            
-        - date: "2022-02-05"
-          times: 
-            - time: "11:15"
-              bookingid: 150-1612
-            
-        - date: "2022-02-06"
-          times: 
-            - time: "11:15"
-              bookingid: 150-1613
-            
-    - title: "The Matrix Resurrections"
-      id: "HO00002126"     
-      synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
-      poster: https://image.tmdb.org/t/p/w500//8c4a8kE7PizaGQQnditMmI1xbRp.jpg
-      length: "2h 28m"
-      rating: "15"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-02-02"
-          times: 
-            - time: "14:15"
-              bookingid: 150-1566
-            
-        - date: "2022-02-03"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1570
-            
-    - title: "America Wild: National Parks Adventure"
-      id: "HO00000426"     
-      synopsis: ""
-      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
-      length: "0h 45m"
-      rating: "U"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2022-02-09"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1573
-            
-    - title: "Apollo 11: First Steps Edition"
-      id: "HO00001974"     
-      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 47m"
-      rating: "TBC"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000013"
-          genre: "History"
-      showtimes:
-        - date: "2022-02-01"
-          times: 
-            - time: "15:50"
-              bookingid: 150-1563
-            
-        - date: "2022-02-02"
-          times: 
-            - time: "12:45"
-              bookingid: 150-1568
-            
-        - date: "2022-02-03"
-          times: 
-            - time: "12:10"
-              bookingid: 150-1572
-            
-        - date: "2022-02-04"
-          times: 
-            - time: "13:00"
-              bookingid: 150-1608
-            
-        - date: "2022-02-07"
-          times: 
-            - time: "13:00"
-              bookingid: 150-1617
-            
-        - date: "2022-02-09"
-          times: 
-            - time: "13:00"
-              bookingid: 150-1619
-            
-    - title: "BELLE (Dubbed)"
-      id: "HO00002484"     
-      synopsis: "Suzu, a teenager living with her father in a small town in the mountains. In virtual world called 'U', Suzu is Belle, a musical icon."
-      poster: https://via.placeholder.com/256x384
-      length: "2h 1m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000004"
-          genre: "Animation"
-        - id: "0000000009"
-          genre: "Drama"
-      showtimes:
-        - date: "2022-02-02"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1561
-            
-    - title: "BELLE (Subbed)"
-      id: "HO00002483"     
-      synopsis: "Suzu is a 17-year-old high school student living in a rural village with her father. For years, she has only been a shadow of herself."
-      poster: https://via.placeholder.com/256x384
-      length: "2h 1m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000004"
-          genre: "Animation"
-        - id: "0000000053"
-          genre: "Subtitled Foreign Language"
-      showtimes:
-        - date: "2022-02-01"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1562
-            
-    - title: "Dune"
-      id: "HO00000406"     
-      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
-      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
-      length: "2h 35m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000011"
-          genre: "Fantasy"
-      showtimes:
-        - date: "2022-02-03"
-          times: 
-            - time: "13:50"
-              bookingid: 150-1571
-            
-    - title: "IMAX: To the Arctic 3D"
-      id: "HO00000427"     
-      synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 40m"
-      rating: "U"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2022-02-10"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1518
-            
-    - title: "Moonfall"
-      id: "HO00002471"     
-      synopsis: "A mysterious force knocks the Moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it."
-      poster: https://image.tmdb.org/t/p/w500//odVv1sqVs0KxBXiA8bhIBlPgalx.jpg
-      length: "2h 10m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000011"
-          genre: "Fantasy"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-02-04"
-          times: 
-            - time: "14:30"
-              bookingid: 150-1605
-            - time: "17:30"
-              bookingid: 150-1606
-            - time: "20:30"
-              bookingid: 150-1607
-            
-        - date: "2022-02-05"
-          times: 
-            - time: "14:30"
-              bookingid: 150-1609
-            - time: "17:30"
-              bookingid: 150-1610
-            - time: "20:30"
-              bookingid: 150-1611
-            
-        - date: "2022-02-06"
-          times: 
-            - time: "14:30"
-              bookingid: 150-1616
-            - time: "17:30"
-              bookingid: 150-1615
-            - time: "20:30"
-              bookingid: 150-1614
-            
-        - date: "2022-02-07"
-          times: 
-            - time: "14:30"
-              bookingid: 150-1621
-            - time: "17:30"
-              bookingid: 150-1625
-            - time: "20:30"
-              bookingid: 150-1629
-            
-        - date: "2022-02-08"
-          times: 
-            - time: "15:30"
-              bookingid: 150-1622
-            - time: "18:30"
-              bookingid: 150-1626
-            - time: "21:30"
-              bookingid: 150-1630
-            
-        - date: "2022-02-09"
-          times: 
-            - time: "14:30"
-              bookingid: 150-1623
-            - time: "17:30"
-              bookingid: 150-1627
-            - time: "20:30"
-              bookingid: 150-1631
-            
-        - date: "2022-02-10"
-          times: 
-            - time: "12:00"
-              bookingid: 150-1624
-            - time: "15:00"
-              bookingid: 150-1628
-            - time: "20:00"
-              bookingid: 150-1632
-            
-    - title: "The Beatles: Get Back - The Rooftop Concert"
-      id: "HO00001468"     
-      synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
-      poster: https://image.tmdb.org/t/p/w500//6VDCH4reCVjoNyym5tgJFWT7sMB.jpg
-      length: "1h 5m"
-      rating: "12A"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000015"
-          genre: "Musical "
-      showtimes:
-        - date: "2022-02-10"
-          times: 
-            - time: "18:00"
-              bookingid: 150-1633
-            
-        - date: "2022-02-11"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1574
-            
-        - date: "2022-02-12"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1579
-            
-        - date: "2022-02-13"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1580
-            
     - title: "Uncharted"
       id: "HO00000441"     
       synopsis: "The story is a prequel to the games, starring Holland as a younger Drake, showing us details of how he came to meet and befriend Sully."
@@ -390,4 +91,303 @@
               bookingid: 150-1598
             - time: "20:30"
               bookingid: 150-1604
+            
+    - title: "Moonfall"
+      id: "HO00002471"     
+      synopsis: "A mysterious force knocks the Moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it."
+      poster: https://image.tmdb.org/t/p/w500//odVv1sqVs0KxBXiA8bhIBlPgalx.jpg
+      length: "2h 10m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000011"
+          genre: "Fantasy"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2022-02-04"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1605
+            - time: "17:30"
+              bookingid: 150-1606
+            - time: "20:30"
+              bookingid: 150-1607
+            
+        - date: "2022-02-05"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1609
+            - time: "17:30"
+              bookingid: 150-1610
+            - time: "20:30"
+              bookingid: 150-1611
+            
+        - date: "2022-02-06"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1616
+            - time: "17:30"
+              bookingid: 150-1615
+            - time: "20:30"
+              bookingid: 150-1614
+            
+        - date: "2022-02-07"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1621
+            - time: "17:30"
+              bookingid: 150-1625
+            - time: "20:30"
+              bookingid: 150-1629
+            
+        - date: "2022-02-08"
+          times: 
+            - time: "15:30"
+              bookingid: 150-1622
+            - time: "18:30"
+              bookingid: 150-1626
+            - time: "21:30"
+              bookingid: 150-1630
+            
+        - date: "2022-02-09"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1623
+            - time: "17:30"
+              bookingid: 150-1627
+            - time: "20:30"
+              bookingid: 150-1631
+            
+        - date: "2022-02-10"
+          times: 
+            - time: "12:00"
+              bookingid: 150-1624
+            - time: "15:00"
+              bookingid: 150-1628
+            - time: "20:00"
+              bookingid: 150-1632
+            
+    - title: "Spider-Man: No Way Home"
+      id: "HO00002069"     
+      synopsis: "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from a Super Hero."
+      poster: https://image.tmdb.org/t/p/w500//1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
+      length: "2h 28m"
+      rating: "12A"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2022-02-01"
+          times: 
+            - time: "20:20"
+              bookingid: 150-1565
+            
+        - date: "2022-02-02"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1567
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "17:15"
+              bookingid: 150-1569
+            
+        - date: "2022-02-05"
+          times: 
+            - time: "11:15"
+              bookingid: 150-1612
+            
+        - date: "2022-02-06"
+          times: 
+            - time: "11:15"
+              bookingid: 150-1613
+            
+    - title: "BELLE (Dubbed)"
+      id: "HO00002484"     
+      synopsis: "Suzu, a teenager living with her father in a small town in the mountains. In virtual world called 'U', Suzu is Belle, a musical icon."
+      poster: https://via.placeholder.com/256x384
+      length: "2h 1m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000004"
+          genre: "Animation"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2022-02-02"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1561
+            
+    - title: "BELLE (Subbed)"
+      id: "HO00002483"     
+      synopsis: "Suzu is a 17-year-old high school student living in a rural village with her father. For years, she has only been a shadow of herself."
+      poster: https://via.placeholder.com/256x384
+      length: "2h 1m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000004"
+          genre: "Animation"
+        - id: "0000000053"
+          genre: "Subtitled Foreign Language"
+      showtimes:
+        - date: "2022-02-01"
+          times: 
+            - time: "17:30"
+              bookingid: 150-1562
+            
+    - title: "America Wild: National Parks Adventure"
+      id: "HO00000426"     
+      synopsis: ""
+      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
+      length: "0h 45m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-09"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1573
+            
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 47m"
+      rating: "TBC"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
+      showtimes:
+        - date: "2022-02-01"
+          times: 
+            - time: "15:50"
+              bookingid: 150-1563
+            
+        - date: "2022-02-02"
+          times: 
+            - time: "12:45"
+              bookingid: 150-1568
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "12:10"
+              bookingid: 150-1572
+            
+        - date: "2022-02-04"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1608
+            
+        - date: "2022-02-07"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1617
+            
+        - date: "2022-02-09"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1619
+            
+    - title: "Dune"
+      id: "HO00000406"     
+      synopsis: "A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny."
+      poster: https://image.tmdb.org/t/p/w500//d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+      length: "2h 35m"
+      rating: "12A"
+      genres:
+        - id: "0000000003"
+          genre: "Adventure"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000011"
+          genre: "Fantasy"
+      showtimes:
+        - date: "2022-02-03"
+          times: 
+            - time: "13:50"
+              bookingid: 150-1571
+            
+    - title: "IMAX: To the Arctic 3D"
+      id: "HO00000427"     
+      synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 40m"
+      rating: "U"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-10"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1518
+            
+    - title: "The Beatles: Get Back - The Rooftop Concert"
+      id: "HO00001468"     
+      synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
+      poster: https://image.tmdb.org/t/p/w500//6VDCH4reCVjoNyym5tgJFWT7sMB.jpg
+      length: "1h 5m"
+      rating: "12A"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000015"
+          genre: "Musical "
+      showtimes:
+        - date: "2022-02-10"
+          times: 
+            - time: "18:00"
+              bookingid: 150-1633
+            
+        - date: "2022-02-11"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1574
+            
+        - date: "2022-02-12"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1579
+            
+        - date: "2022-02-13"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1580
+            
+    - title: "The Matrix Resurrections"
+      id: "HO00002126"     
+      synopsis: "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre."
+      poster: https://image.tmdb.org/t/p/w500//8c4a8kE7PizaGQQnditMmI1xbRp.jpg
+      length: "2h 28m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000022"
+          genre: "Sci-Fi"
+      showtimes:
+        - date: "2022-02-02"
+          times: 
+            - time: "14:15"
+              bookingid: 150-1566
+            
+        - date: "2022-02-03"
+          times: 
+            - time: "20:30"
+              bookingid: 150-1570
             
