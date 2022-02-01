@@ -227,25 +227,6 @@
             - time: "17:30"
               bookingid: 150-1561
             
-    - title: "BELLE (Subbed)"
-      id: "HO00002483"     
-      synopsis: "Suzu is a 17-year-old high school student living in a rural village with her father. For years, she has only been a shadow of herself."
-      poster: https://via.placeholder.com/256x384
-      length: "2h 1m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000004"
-          genre: "Animation"
-        - id: "0000000053"
-          genre: "Subtitled Foreign Language"
-      showtimes:
-        - date: "2022-02-01"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1562
-            
     - title: "America Wild: National Parks Adventure"
       id: "HO00000426"     
       synopsis: ""
