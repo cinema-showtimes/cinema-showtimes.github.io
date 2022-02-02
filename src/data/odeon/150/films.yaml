@@ -6,9 +6,9 @@
     - title: "Uncharted"
       id: "HO00000441"     
       synopsis: "The story is a prequel to the games, starring Holland as a younger Drake, showing us details of how he came to meet and befriend Sully."
-      poster: https://image.tmdb.org/t/p/w500//tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg
+      poster: https://image.tmdb.org/t/p/w500//bOcgTLEMgWu0pDhUhxR5xa6tAm5.jpg
       length: "1h 56m"
-      rating: "TBC"
+      rating: "12A"
       genres:
         - id: "0000000001"
           genre: "Action"
@@ -183,11 +183,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-02-02"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1567
-            
         - date: "2022-02-03"
           times: 
             - time: "17:15"
@@ -202,25 +197,6 @@
           times: 
             - time: "11:15"
               bookingid: 150-1613
-            
-    - title: "BELLE (Dubbed)"
-      id: "HO00002484"     
-      synopsis: "Suzu, a teenager living with her father in a small town in the mountains. In virtual world called 'U', Suzu is Belle, a musical icon."
-      poster: https://via.placeholder.com/256x384
-      length: "2h 1m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000004"
-          genre: "Animation"
-        - id: "0000000009"
-          genre: "Drama"
-      showtimes:
-        - date: "2022-02-02"
-          times: 
-            - time: "17:30"
-              bookingid: 150-1561
             
     - title: "America Wild: National Parks Adventure"
       id: "HO00000426"     
@@ -249,11 +225,6 @@
         - id: "0000000013"
           genre: "History"
       showtimes:
-        - date: "2022-02-02"
-          times: 
-            - time: "12:45"
-              bookingid: 150-1568
-            
         - date: "2022-02-03"
           times: 
             - time: "12:10"
@@ -352,11 +323,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-02-02"
-          times: 
-            - time: "14:15"
-              bookingid: 150-1566
-            
         - date: "2022-02-03"
           times: 
             - time: "20:30"
