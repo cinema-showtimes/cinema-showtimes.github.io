@@ -106,11 +106,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-02-04"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1607
-            
         - date: "2022-02-05"
           times: 
             - time: "14:30"
