@@ -151,25 +151,6 @@
             - time: "20:00"
               bookingid: 150-1632
             
-    - title: "Spider-Man: No Way Home"
-      id: "HO00002069"     
-      synopsis: "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero is unmasked and no longer able to separate his normal life from a Super Hero."
-      poster: https://image.tmdb.org/t/p/w500//1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
-      length: "2h 28m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-02-06"
-          times: 
-            - time: "11:15"
-              bookingid: 150-1613
-            
     - title: "America Wild: National Parks Adventure"
       id: "HO00000426"     
       synopsis: ""
