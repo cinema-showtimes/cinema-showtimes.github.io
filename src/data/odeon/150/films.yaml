@@ -108,8 +108,6 @@
       showtimes:
         - date: "2022-02-07"
           times: 
-            - time: "17:30"
-              bookingid: 150-1625
             - time: "20:30"
               bookingid: 150-1629
             
@@ -218,6 +216,16 @@
           times: 
             - time: "10:00"
               bookingid: 150-1580
+            
+        - date: "2022-02-14"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1712
+            
+        - date: "2022-02-15"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1713
             
         - date: "2022-02-16"
           times: 
