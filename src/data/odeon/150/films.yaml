@@ -143,7 +143,7 @@
     - title: "America Wild: National Parks Adventure"
       id: "HO00000426"     
       synopsis: ""
-      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
+      poster: undefined
       length: "0h 45m"
       rating: "U"
       genres:
@@ -158,7 +158,7 @@
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
+      poster: undefined
       length: "0h 47m"
       rating: "TBC"
       genres:
@@ -175,7 +175,7 @@
     - title: "IMAX: To the Arctic 3D"
       id: "HO00000427"     
       synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home."
-      poster: https://via.placeholder.com/256x384
+      poster: undefined
       length: "0h 40m"
       rating: "U"
       genres:
@@ -190,7 +190,7 @@
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
-      poster: https://image.tmdb.org/t/p/w500//6VDCH4reCVjoNyym5tgJFWT7sMB.jpg
+      poster: undefined
       length: "1h 5m"
       rating: "12A"
       genres:
