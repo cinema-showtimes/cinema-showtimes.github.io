@@ -106,11 +106,6 @@
         - id: "0000000022"
           genre: "Sci-Fi"
       showtimes:
-        - date: "2022-02-09"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1631
-            
         - date: "2022-02-10"
           times: 
             - time: "12:00"
