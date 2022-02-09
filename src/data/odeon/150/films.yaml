@@ -124,21 +124,6 @@
             - time: "20:00"
               bookingid: 150-1632
             
-    - title: "America Wild: National Parks Adventure"
-      id: "HO00000426"     
-      synopsis: ""
-      poster: https://image.tmdb.org/t/p/w500//fcFKAXi4sGiN2tge6WL49KZQYfZ.jpg
-      length: "0h 45m"
-      rating: "U"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2022-02-09"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1573
-            
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
