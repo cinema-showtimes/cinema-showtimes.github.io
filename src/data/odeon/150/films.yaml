@@ -124,23 +124,6 @@
             - time: "20:00"
               bookingid: 150-1632
             
-    - title: "Apollo 11: First Steps Edition"
-      id: "HO00001974"     
-      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 47m"
-      rating: "TBC"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000013"
-          genre: "History"
-      showtimes:
-        - date: "2022-02-09"
-          times: 
-            - time: "13:00"
-              bookingid: 150-1619
-            
     - title: "IMAX: To the Arctic 3D"
       id: "HO00000427"     
       synopsis: "A journey into the lives of a mother polar bear and her two seven-month-old cubs as they navigate the changing Arctic wilderness they call home."
