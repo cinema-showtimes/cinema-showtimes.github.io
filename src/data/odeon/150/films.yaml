@@ -119,6 +119,8 @@
           times: 
             - time: "08:00"
               bookingid: 150-1641
+            - time: "12:00"
+              bookingid: 150-1642
             - time: "16:00"
               bookingid: 150-1643
             - time: "20:00"
