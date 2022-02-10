@@ -236,8 +236,6 @@
       showtimes:
         - date: "2022-02-10"
           times: 
-            - time: "15:00"
-              bookingid: 150-1628
             - time: "20:00"
               bookingid: 150-1632
             
