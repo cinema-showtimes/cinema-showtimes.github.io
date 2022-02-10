@@ -220,25 +220,6 @@
             - time: "23:59"
               bookingid: 150-1674
             
-    - title: "Moonfall"
-      id: "HO00002471"     
-      synopsis: "A mysterious force knocks the Moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it."
-      poster: https://image.tmdb.org/t/p/w500//odVv1sqVs0KxBXiA8bhIBlPgalx.jpg
-      length: "2h 10m"
-      rating: "12A"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000011"
-          genre: "Fantasy"
-        - id: "0000000022"
-          genre: "Sci-Fi"
-      showtimes:
-        - date: "2022-02-10"
-          times: 
-            - time: "20:00"
-              bookingid: 150-1632
-            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
