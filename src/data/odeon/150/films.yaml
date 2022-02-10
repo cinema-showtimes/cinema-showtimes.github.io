@@ -92,6 +92,132 @@
             - time: "20:30"
               bookingid: 150-1604
             
+    - title: "The Batman"
+      id: "HO00002129"     
+      synopsis: "From Warner Bros. Pictures comes “The Batman,” with director Matt Reeves at the helm and with Robert Pattinson starring as Gotham City’s vigilante detective, Batman."
+      poster: https://image.tmdb.org/t/p/w500//3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg
+      length: "2h 56m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000007"
+          genre: "Crime"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2022-03-03"
+          times: 
+            - time: "19:00"
+              bookingid: 150-1634
+            - time: "00:01"
+              bookingid: 150-1645
+            - time: "04:00"
+              bookingid: 150-1646
+            
+        - date: "2022-03-04"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1641
+            - time: "16:00"
+              bookingid: 150-1643
+            - time: "20:00"
+              bookingid: 150-1644
+            - time: "23:59"
+              bookingid: 150-1647
+            - time: "04:00"
+              bookingid: 150-1636
+            
+        - date: "2022-03-05"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1637
+            - time: "12:00"
+              bookingid: 150-1638
+            - time: "16:00"
+              bookingid: 150-1639
+            - time: "20:00"
+              bookingid: 150-1640
+            - time: "23:59"
+              bookingid: 150-1635
+            - time: "04:00"
+              bookingid: 150-1648
+            
+        - date: "2022-03-06"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1649
+            - time: "12:00"
+              bookingid: 150-1650
+            - time: "16:00"
+              bookingid: 150-1651
+            - time: "20:00"
+              bookingid: 150-1652
+            - time: "23:59"
+              bookingid: 150-1653
+            
+        - date: "2022-03-07"
+          times: 
+            - time: "12:20"
+              bookingid: 150-1654
+            - time: "16:10"
+              bookingid: 150-1656
+            - time: "20:00"
+              bookingid: 150-1655
+            
+        - date: "2022-03-08"
+          times: 
+            - time: "12:20"
+              bookingid: 150-1659
+            - time: "16:10"
+              bookingid: 150-1665
+            - time: "20:00"
+              bookingid: 150-1662
+            
+        - date: "2022-03-09"
+          times: 
+            - time: "12:20"
+              bookingid: 150-1660
+            - time: "16:10"
+              bookingid: 150-1666
+            - time: "20:00"
+              bookingid: 150-1663
+            
+        - date: "2022-03-10"
+          times: 
+            - time: "12:20"
+              bookingid: 150-1661
+            - time: "16:10"
+              bookingid: 150-1667
+            - time: "20:00"
+              bookingid: 150-1664
+            
+        - date: "2022-03-11"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1680
+            - time: "12:00"
+              bookingid: 150-1681
+            - time: "16:00"
+              bookingid: 150-1682
+            - time: "20:00"
+              bookingid: 150-1683
+            - time: "23:59"
+              bookingid: 150-1684
+            
+        - date: "2022-03-12"
+          times: 
+            - time: "08:00"
+              bookingid: 150-1676
+            - time: "12:00"
+              bookingid: 150-1677
+            - time: "16:00"
+              bookingid: 150-1678
+            - time: "20:00"
+              bookingid: 150-1679
+            - time: "23:59"
+              bookingid: 150-1674
+            
     - title: "Moonfall"
       id: "HO00002471"     
       synopsis: "A mysterious force knocks the Moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it."
