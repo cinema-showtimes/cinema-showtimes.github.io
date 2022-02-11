@@ -243,11 +243,6 @@
         - id: "0000000015"
           genre: "Musical "
       showtimes:
-        - date: "2022-02-11"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1574
-            
         - date: "2022-02-12"
           times: 
             - time: "10:00"
