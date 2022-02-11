@@ -140,8 +140,6 @@
               bookingid: 150-1640
             - time: "23:59"
               bookingid: 150-1635
-            - time: "04:00"
-              bookingid: 150-1648
             
         - date: "2022-03-06"
           times: 
