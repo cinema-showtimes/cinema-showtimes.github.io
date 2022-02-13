@@ -216,6 +216,15 @@
             - time: "20:00"
               bookingid: 150-1692
             
+        - date: "2022-03-15"
+          times: 
+            - time: "12:20"
+              bookingid: 150-1696
+            - time: "16:10"
+              bookingid: 150-1702
+            - time: "20:00"
+              bookingid: 150-1699
+            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
