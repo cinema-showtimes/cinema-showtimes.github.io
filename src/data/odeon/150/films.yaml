@@ -272,6 +272,36 @@
             - time: "20:00"
               bookingid: 150-1700
             
+    - title: "AMAZON ADVENTURE 3D (IMAX)"
+      id: "18475     "     
+      synopsis: ""
+      poster: https://via.placeholder.com/256x384
+      length: "0h 40m"
+      rating: "PG"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-22"
+          times: 
+            - time: "11:00"
+              bookingid: 150-1752
+            
+    - title: "Fly Me to the Moon 3D (IMAX)"
+      id: "HO00000468"     
+      synopsis: ""
+      poster: https://via.placeholder.com/256x384
+      length: "0h 40m"
+      rating: "PG"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-24"
+          times: 
+            - time: "10:00"
+              bookingid: 150-1753
+            
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
