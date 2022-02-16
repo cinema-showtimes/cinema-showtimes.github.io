@@ -15,11 +15,6 @@
         - id: "0000000003"
           genre: "Adventure"
       showtimes:
-        - date: "2022-02-16"
-          times: 
-            - time: "20:30"
-              bookingid: 150-1603
-            
         - date: "2022-02-17"
           times: 
             - time: "12:00"
