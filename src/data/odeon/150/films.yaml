@@ -264,7 +264,7 @@
       showtimes:
         - date: "2022-02-22"
           times: 
-            - time: "10:00"
+            - time: "11:00"
               bookingid: 150-1753
             
     - title: "IMAX: Amazon Adventure"
@@ -281,7 +281,7 @@
       showtimes:
         - date: "2022-02-24"
           times: 
-            - time: "11:00"
+            - time: "10:00"
               bookingid: 150-1752
             
     - title: "The Beatles: Get Back - The Rooftop Concert"
