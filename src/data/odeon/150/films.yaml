@@ -256,21 +256,6 @@
             - time: "20:00"
               bookingid: 150-1700
             
-    - title: "AMAZON ADVENTURE 3D (IMAX)"
-      id: "18475     "     
-      synopsis: ""
-      poster: https://via.placeholder.com/256x384
-      length: "0h 40m"
-      rating: "PG"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2022-02-24"
-          times: 
-            - time: "11:00"
-              bookingid: 150-1752
-            
     - title: "Fly Me to the Moon 3D (IMAX)"
       id: "HO00000468"     
       synopsis: ""
@@ -285,6 +270,23 @@
           times: 
             - time: "10:00"
               bookingid: 150-1753
+            
+    - title: "IMAX: Amazon Adventure"
+      id: "HO00002665"     
+      synopsis: "This film tells the epic, true story of explorer Henry Bates' fascinating 11 year journey through the visually stunning and bio-diverse Amazon rainforest."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 46m"
+      rating: "PG"
+      genres:
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000045"
+          genre: "Science Fiction"
+      showtimes:
+        - date: "2022-02-24"
+          times: 
+            - time: "11:00"
+              bookingid: 150-1752
             
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
