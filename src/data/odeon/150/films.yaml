@@ -267,11 +267,6 @@
         - id: "0000000015"
           genre: "Musical "
       showtimes:
-        - date: "2022-02-20"
-          times: 
-            - time: "10:20"
-              bookingid: 150-1722
-            
         - date: "2022-02-21"
           times: 
             - time: "19:45"
