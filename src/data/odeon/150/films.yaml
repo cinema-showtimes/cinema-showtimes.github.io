@@ -34,8 +34,6 @@
               bookingid: 150-1749
             - time: "19:45"
               bookingid: 150-1748
-            - time: "22:30"
-              bookingid: 150-1747
             
         - date: "2022-02-24"
           times: 
