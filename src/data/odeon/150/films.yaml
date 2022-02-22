@@ -354,3 +354,33 @@
             - time: "11:10"
               bookingid: 150-1774
             
+    - title: "The Rescue + In-Person Q&A"
+      id: "HO00002686"     
+      synopsis: "The Rescue is the edge-of-your-seat account of the rescue of 12 Thai schoolboys and their soccer coach from a flooded cave system in 2018."
+      poster: https://via.placeholder.com/256x384
+      length: "2h 23m"
+      rating: "12A"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-27"
+          times: 
+            - time: "18:30"
+              bookingid: 150-1778
+            
+    - title: "The Rescue + Q&A"
+      id: "HO00002185"     
+      synopsis: "The Rescue is the edge-of-your-seat account of the rescue of 12 Thai schoolboys and their soccer coach from a flooded cave system in 2018."
+      poster: https://image.tmdb.org/t/p/w500//qHcn3PbjVHxBweDZxWpYH3JfugS.jpg
+      length: "2h 23m"
+      rating: "12A"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+      showtimes:
+        - date: "2022-02-28"
+          times: 
+            - time: "20:00"
+              bookingid: 150-1793
+            
