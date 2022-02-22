@@ -199,21 +199,6 @@
             - time: "20:00"
               bookingid: 150-1700
             
-    - title: "Fly Me to the Moon 3D (IMAX)"
-      id: "HO00000468"     
-      synopsis: ""
-      poster: https://via.placeholder.com/256x384
-      length: "0h 40m"
-      rating: "PG"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2022-02-22"
-          times: 
-            - time: "11:00"
-              bookingid: 150-1753
-            
     - title: "IMAX: Amazon Adventure"
       id: "HO00002665"     
       synopsis: "This film tells the epic, true story of explorer Henry Bates' fascinating 11 year journey through the visually stunning and bio-diverse Amazon rainforest."
