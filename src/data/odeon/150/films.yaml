@@ -17,8 +17,6 @@
       showtimes:
         - date: "2022-02-24"
           times: 
-            - time: "15:15"
-              bookingid: 150-1755
             - time: "18:00"
               bookingid: 150-1761
             - time: "20:45"
