@@ -282,23 +282,6 @@
             - time: "13:20"
               bookingid: 150-1787
             
-    - title: "IMAX: Amazon Adventure"
-      id: "HO00002665"     
-      synopsis: "This film tells the epic, true story of explorer Henry Bates' fascinating 11 year journey through the visually stunning and bio-diverse Amazon rainforest."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 46m"
-      rating: "PG"
-      genres:
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-02-24"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1752
-            
     - title: "Interstellar"
       id: "HO00000870"     
       synopsis: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
