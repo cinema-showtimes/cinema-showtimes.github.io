@@ -15,11 +15,6 @@
         - id: "0000000003"
           genre: "Adventure"
       showtimes:
-        - date: "2022-02-25"
-          times: 
-            - time: "17:45"
-              bookingid: 150-1765
-            
         - date: "2022-02-26"
           times: 
             - time: "14:30"
@@ -71,7 +66,7 @@
     - title: "The Batman"
       id: "HO00002129"     
       synopsis: "From Warner Bros. Pictures comes “The Batman,” with director Matt Reeves at the helm and with Robert Pattinson starring as Gotham City’s vigilante detective, Batman."
-      poster: https://image.tmdb.org/t/p/w500//3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg
+      poster: https://image.tmdb.org/t/p/w500//74xTEgt7R36Fpooo50r9T25onhq.jpg
       length: "2h 56m"
       rating: "15"
       genres:
