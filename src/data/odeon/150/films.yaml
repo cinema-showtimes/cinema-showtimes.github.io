@@ -281,7 +281,7 @@
     - title: "The Beatles: Get Back - The Rooftop Concert"
       id: "HO00001468"     
       synopsis: "“The Beatles: Get Back” is a unique cinematic experience that takes audiences back in time to The Beatles’ intimate recording sessions."
-      poster: undefined
+      poster: https://image.tmdb.org/t/p/w500//4MPsj31FTnfXg1NO93lzr3PqNuE.jpg
       length: "1h 5m"
       rating: "12A"
       genres:
