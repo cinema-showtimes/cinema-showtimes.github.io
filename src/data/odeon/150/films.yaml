@@ -230,11 +230,6 @@
         - id: "0000000013"
           genre: "History"
       showtimes:
-        - date: "2022-02-27"
-          times: 
-            - time: "09:50"
-              bookingid: 150-1773
-            
         - date: "2022-02-28"
           times: 
             - time: "13:20"
