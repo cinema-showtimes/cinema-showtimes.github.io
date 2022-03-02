@@ -181,8 +181,6 @@
       showtimes:
         - date: "2022-03-02"
           times: 
-            - time: "14:40"
-              bookingid: 150-1788
             - time: "17:20"
               bookingid: 150-1789
             - time: "20:00"
