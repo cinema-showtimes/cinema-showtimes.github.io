@@ -195,23 +195,6 @@
             - time: "16:00"
               bookingid: 150-1791
             
-    - title: "Apollo 11: First Steps Edition"
-      id: "HO00001974"     
-      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 47m"
-      rating: "TBC"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000013"
-          genre: "History"
-      showtimes:
-        - date: "2022-03-02"
-          times: 
-            - time: "13:20"
-              bookingid: 150-1787
-            
     - title: "RRR (Telugu)"
       id: "HO00002424"     
       synopsis: "It is a fictional story about two Indian revolutionaries, Alluri Sitarama Raju and Komaram Bheem, who fought against the British Raj and Nizam of Hyderabad respectively."
