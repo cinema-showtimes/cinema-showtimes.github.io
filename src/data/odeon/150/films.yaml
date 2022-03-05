@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-03-05"
           times: 
-            - time: "16:00"
-              bookingid: 150-1639
             - time: "20:00"
               bookingid: 150-1640
             - time: "23:59"
