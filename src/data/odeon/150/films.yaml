@@ -134,8 +134,6 @@
           genre: "Action"
         - id: "0000000009"
           genre: "Drama"
-        - id: "0000000053"
-          genre: "Subtitled Foreign Language"
       showtimes:
         - date: "2022-03-24"
           times: 
