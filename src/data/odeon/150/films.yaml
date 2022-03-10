@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-03-10"
           times: 
-            - time: "16:10"
-              bookingid: 150-1667
             - time: "20:00"
               bookingid: 150-1664
             
@@ -113,6 +111,30 @@
           times: 
             - time: "10:30"
               bookingid: 150-1799
+            
+    - title: "Jujutsu Kaisen 0 (Subbed)"
+      id: "HO00002698"     
+      synopsis: "Loved in life, a cursed spirit harms those near Yuta, draining his will to live."
+      poster: https://via.placeholder.com/256x384
+      length: "1h 52m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000004"
+          genre: "Animation"
+        - id: "0000000053"
+          genre: "Subtitled Foreign Language"
+      showtimes:
+        - date: "2022-03-18"
+          times: 
+            - time: "17:40"
+              bookingid: 150-1806
+            
+        - date: "2022-03-22"
+          times: 
+            - time: "17:40"
+              bookingid: 150-1829
             
     - title: "RRR (Telugu)"
       id: "HO00002424"     
