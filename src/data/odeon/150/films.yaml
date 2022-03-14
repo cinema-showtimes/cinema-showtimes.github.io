@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-03-14"
           times: 
-            - time: "12:20"
-              bookingid: 150-1691
             - time: "16:10"
               bookingid: 150-1693
             - time: "20:00"
@@ -55,8 +53,6 @@
             
         - date: "2022-03-18"
           times: 
-            - time: "10:00"
-              bookingid: 150-1798
             - time: "13:50"
               bookingid: 150-1797
             - time: "20:20"
