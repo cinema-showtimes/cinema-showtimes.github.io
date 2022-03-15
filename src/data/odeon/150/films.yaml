@@ -103,23 +103,6 @@
             - time: "15:20"
               bookingid: 150-1820
             
-    - title: "Apollo 11: First Steps Edition"
-      id: "HO00001974"     
-      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
-      poster: https://via.placeholder.com/256x384
-      length: "0h 47m"
-      rating: "TBC"
-      genres:
-        - id: "0000000008"
-          genre: "Documentary"
-        - id: "0000000013"
-          genre: "History"
-      showtimes:
-        - date: "2022-03-21"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1799
-            
     - title: "Jujutsu Kaisen 0 (Subbed)"
       id: "HO00002698"     
       synopsis: "Loved in life, a cursed spirit harms those near Yuta, draining his will to live."
@@ -143,6 +126,23 @@
           times: 
             - time: "17:40"
               bookingid: 150-1829
+            
+    - title: "RRR (Telugu)"
+      id: "HO00002424"     
+      synopsis: "It is a fictional story about two Indian revolutionaries, Alluri Sitarama Raju and Komaram Bheem, who fought against the British Raj and Nizam of Hyderabad respectively."
+      poster: https://via.placeholder.com/256x384
+      length: "3h 0m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2022-03-24"
+          times: 
+            - time: "19:30"
+              bookingid: 150-1800
             
     - title: "Morbius"
       id: "HO00002131"     
@@ -196,20 +196,20 @@
             - time: "20:40"
               bookingid: 150-1834
             
-    - title: "RRR (Telugu)"
-      id: "HO00002424"     
-      synopsis: "It is a fictional story about two Indian revolutionaries, Alluri Sitarama Raju and Komaram Bheem, who fought against the British Raj and Nizam of Hyderabad respectively."
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
       poster: https://via.placeholder.com/256x384
-      length: "3h 0m"
-      rating: "15"
+      length: "0h 47m"
+      rating: "TBC"
       genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000009"
-          genre: "Drama"
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
       showtimes:
-        - date: "2022-03-24"
+        - date: "2022-03-21"
           times: 
-            - time: "19:30"
-              bookingid: 150-1800
+            - time: "10:30"
+              bookingid: 150-1799
             
