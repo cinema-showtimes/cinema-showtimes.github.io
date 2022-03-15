@@ -122,23 +122,6 @@
             - time: "10:30"
               bookingid: 150-1799
             
-    - title: "IMAX: Space Station 3D"
-      id: "HO00000414"     
-      synopsis: "'Space Station 3D' is the story of the unique partnership of 16 nations building a laboratory in outer space."
-      poster: https://image.tmdb.org/t/p/w500//sCpUJvoH6xjOugbrcpZTt0LCTMm.jpg
-      length: "0h 47m"
-      rating: "U"
-      genres:
-        - id: "0000000003"
-          genre: "Adventure"
-        - id: "0000000008"
-          genre: "Documentary"
-      showtimes:
-        - date: "2022-03-15"
-          times: 
-            - time: "10:30"
-              bookingid: 150-1802
-            
     - title: "Jujutsu Kaisen 0 (Subbed)"
       id: "HO00002698"     
       synopsis: "Loved in life, a cursed spirit harms those near Yuta, draining his will to live."
