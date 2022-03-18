@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-03-18"
           times: 
-            - time: "10:00"
-              bookingid: 150-1798
             - time: "13:50"
               bookingid: 150-1797
             - time: "20:20"
@@ -204,6 +202,17 @@
         - id: "0000000045"
           genre: "Science Fiction"
       showtimes:
+        - date: "2022-04-08"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1843
+            - time: "14:00"
+              bookingid: 150-1842
+            - time: "17:15"
+              bookingid: 150-1841
+            - time: "20:30"
+              bookingid: 150-1840
+            
         - date: "2022-04-09"
           times: 
             - time: "10:45"
