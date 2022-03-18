@@ -190,3 +190,83 @@
             - time: "10:30"
               bookingid: 150-1799
             
+    - title: "Fantastic Beasts: The Secrets of Dumbledore"
+      id: "HO00002436"     
+      synopsis: "Professor Albus Dumbledore knows the powerful Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world."
+      poster: https://image.tmdb.org/t/p/w500//8ZbybiGYe8XM4WGmGlhF0ec5R7u.jpg
+      length: "2h 15m"
+      rating: "TBC"
+      genres:
+        - id: "0000000010"
+          genre: "Family"
+        - id: "0000000011"
+          genre: "Fantasy"
+        - id: "0000000045"
+          genre: "Science Fiction"
+      showtimes:
+        - date: "2022-04-09"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1844
+            - time: "14:00"
+              bookingid: 150-1845
+            - time: "17:15"
+              bookingid: 150-1846
+            - time: "20:30"
+              bookingid: 150-1847
+            
+        - date: "2022-04-10"
+          times: 
+            - time: "10:30"
+              bookingid: 150-1848
+            - time: "13:45"
+              bookingid: 150-1849
+            - time: "17:00"
+              bookingid: 150-1850
+            - time: "20:15"
+              bookingid: 150-1851
+            
+        - date: "2022-04-11"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1855
+            - time: "14:00"
+              bookingid: 150-1854
+            - time: "17:15"
+              bookingid: 150-1853
+            - time: "20:30"
+              bookingid: 150-1852
+            
+        - date: "2022-04-12"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1859
+            - time: "14:00"
+              bookingid: 150-1858
+            - time: "17:15"
+              bookingid: 150-1857
+            - time: "20:30"
+              bookingid: 150-1856
+            
+        - date: "2022-04-13"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1863
+            - time: "14:00"
+              bookingid: 150-1862
+            - time: "17:15"
+              bookingid: 150-1861
+            - time: "20:30"
+              bookingid: 150-1860
+            
+        - date: "2022-04-14"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1867
+            - time: "14:00"
+              bookingid: 150-1866
+            - time: "17:15"
+              bookingid: 150-1865
+            - time: "20:30"
+              bookingid: 150-1864
+            
