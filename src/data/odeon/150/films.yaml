@@ -17,11 +17,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2022-03-23"
-          times: 
-            - time: "19:00"
-              bookingid: 150-1830
-            
         - date: "2022-03-24"
           times: 
             - time: "11:20"
