@@ -48,10 +48,6 @@
               bookingid: 150-1896
             - time: "20:50"
               bookingid: 150-1895
-            - time: "17:00"
-              bookingid: 150-1896
-            - time: "20:50"
-              bookingid: 150-1895
             
         - date: "2022-03-28"
           times: 
@@ -288,8 +284,6 @@
           times: 
             - time: "12:50"
               bookingid: 150-1897
-            - time: "12:50"
-              bookingid: 150-1897
             
     - title: "Jujutsu Kaisen 0 (Subbed)"
       id: "HO00002698"     
@@ -312,8 +306,6 @@
             
         - date: "2022-03-27"
           times: 
-            - time: "10:00"
-              bookingid: 150-1898
             - time: "10:00"
               bookingid: 150-1898
             
