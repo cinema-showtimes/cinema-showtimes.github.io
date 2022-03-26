@@ -278,11 +278,6 @@
         - id: "0000000053"
           genre: "Subtitled Foreign Language"
       showtimes:
-        - date: "2022-03-26"
-          times: 
-            - time: "10:00"
-              bookingid: 150-1891
-            
         - date: "2022-03-27"
           times: 
             - time: "10:00"
