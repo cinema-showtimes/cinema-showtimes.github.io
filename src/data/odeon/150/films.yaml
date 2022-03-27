@@ -233,22 +233,3 @@
             - time: "20:15"
               bookingid: 150-1876
             
-    - title: "RRR (Telugu)"
-      id: "HO00002424"     
-      synopsis: "It is a fictional story about two Indian revolutionaries, Alluri Sitarama Raju and Komaram Bheem, who fought against the British Raj and Nizam of Hyderabad respectively."
-      poster: https://via.placeholder.com/256x384
-      length: "3h 0m"
-      rating: "15"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000053"
-          genre: "Subtitled Foreign Language"
-      showtimes:
-        - date: "2022-03-27"
-          times: 
-            - time: "12:50"
-              bookingid: 150-1897
-            
