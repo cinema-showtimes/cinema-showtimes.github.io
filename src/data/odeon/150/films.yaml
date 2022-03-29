@@ -91,6 +91,42 @@
             - time: "20:40"
               bookingid: 150-1834
             
+        - date: "2022-04-04"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1915
+            - time: "17:00"
+              bookingid: 150-1914
+            - time: "19:30"
+              bookingid: 150-1913
+            
+        - date: "2022-04-05"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1920
+            - time: "17:00"
+              bookingid: 150-1923
+            - time: "19:30"
+              bookingid: 150-1926
+            
+        - date: "2022-04-06"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1921
+            - time: "17:00"
+              bookingid: 150-1924
+            - time: "19:30"
+              bookingid: 150-1927
+            
+        - date: "2022-04-07"
+          times: 
+            - time: "14:30"
+              bookingid: 150-1922
+            - time: "17:00"
+              bookingid: 150-1925
+            - time: "19:30"
+              bookingid: 150-1928
+            
     - title: "Fantastic Beasts: The Secrets of Dumbledore"
       id: "HO00002436"     
       synopsis: "Professor Albus Dumbledore knows the powerful Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world."
@@ -214,4 +250,47 @@
               bookingid: 150-1877
             - time: "20:15"
               bookingid: 150-1876
+            
+        - date: "2022-04-18"
+          times: 
+            - time: "10:45"
+              bookingid: 150-1912
+            - time: "14:00"
+              bookingid: 150-1911
+            - time: "17:15"
+              bookingid: 150-1910
+            - time: "20:30"
+              bookingid: 150-1909
+            
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 47m"
+      rating: "TBC"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
+      showtimes:
+        - date: "2022-04-04"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1929
+            
+        - date: "2022-04-05"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1930
+            
+        - date: "2022-04-06"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1931
+            
+        - date: "2022-04-07"
+          times: 
+            - time: "13:00"
+              bookingid: 150-1932
             
