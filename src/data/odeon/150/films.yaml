@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-03-29"
           times: 
-            - time: "13:00"
-              bookingid: 150-1902
             - time: "16:45"
               bookingid: 150-1903
             - time: "20:30"
