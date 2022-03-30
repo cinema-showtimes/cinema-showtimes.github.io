@@ -232,25 +232,6 @@
             - time: "20:30"
               bookingid: 150-1909
             
-    - title: "The Batman"
-      id: "HO00002129"     
-      synopsis: "From Warner Bros. Pictures comes “The Batman,” with director Matt Reeves at the helm and with Robert Pattinson starring as Gotham City’s vigilante detective, Batman."
-      poster: https://image.tmdb.org/t/p/w500//74xTEgt7R36Fpooo50r9T25onhq.jpg
-      length: "2h 56m"
-      rating: "15"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000007"
-          genre: "Crime"
-        - id: "0000000009"
-          genre: "Drama"
-      showtimes:
-        - date: "2022-03-30"
-          times: 
-            - time: "19:00"
-              bookingid: 150-1907
-            
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
       synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
