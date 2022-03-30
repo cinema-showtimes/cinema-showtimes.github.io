@@ -248,8 +248,6 @@
       showtimes:
         - date: "2022-03-30"
           times: 
-            - time: "15:00"
-              bookingid: 150-1906
             - time: "19:00"
               bookingid: 150-1907
             
