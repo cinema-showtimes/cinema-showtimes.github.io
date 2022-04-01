@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-04-01"
           times: 
-            - time: "18:00"
-              bookingid: 150-1827
             - time: "20:40"
               bookingid: 150-1826
             
