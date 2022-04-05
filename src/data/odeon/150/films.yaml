@@ -192,3 +192,33 @@
             - time: "13:00"
               bookingid: 150-1932
             
+    - title: "Doctor Strange in the Multiverse of Madness"
+      id: "HO00002467"     
+      synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
+pushes its boundaries further than ever before."
+      poster: https://image.tmdb.org/t/p/w500//wRnbWt44nKjsFPrqSmwYki5vZtF.jpg
+      length: "2h 10m"
+      rating: "TBC"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000011"
+          genre: "Fantasy"
+        - id: "0000000045"
+          genre: "Science Fiction"
+      showtimes:
+        - date: "2022-05-05"
+          times: 
+            - time: "08:15"
+              bookingid: 150-1886
+            - time: "11:30"
+              bookingid: 150-1885
+            - time: "14:45"
+              bookingid: 150-1884
+            - time: "20:45"
+              bookingid: 150-1882
+            - time: "23:59"
+              bookingid: 150-1883
+            - time: "03:15"
+              bookingid: 150-1933
+            
