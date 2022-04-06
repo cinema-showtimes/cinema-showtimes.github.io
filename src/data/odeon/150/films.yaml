@@ -203,8 +203,6 @@ pushes its boundaries further than ever before."
       showtimes:
         - date: "2022-04-06"
           times: 
-            - time: "14:30"
-              bookingid: 150-1921
             - time: "17:00"
               bookingid: 150-1924
             - time: "19:30"
