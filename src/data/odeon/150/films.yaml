@@ -204,22 +204,3 @@ pushes its boundaries further than ever before."
             - time: "04:00"
               bookingid: 150-1953
             
-    - title: "Morbius"
-      id: "HO00002131"     
-      synopsis: "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead."
-      poster: https://image.tmdb.org/t/p/w500//6nhwr1LCozBiIN47b8oBEomOADm.jpg
-      length: "1h 44m"
-      rating: "15"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-04-07"
-          times: 
-            - time: "19:30"
-              bookingid: 150-1928
-            
