@@ -187,6 +187,23 @@ pushes its boundaries further than ever before."
             - time: "05:15"
               bookingid: 150-1941
             
+        - date: "2022-05-07"
+          times: 
+            - time: "08:30"
+              bookingid: 150-1942
+            - time: "11:45"
+              bookingid: 150-1943
+            - time: "15:00"
+              bookingid: 150-1944
+            - time: "18:15"
+              bookingid: 150-1945
+            - time: "21:30"
+              bookingid: 150-1946
+            - time: "00:45"
+              bookingid: 150-1947
+            - time: "04:00"
+              bookingid: 150-1953
+            
     - title: "Morbius"
       id: "HO00002131"     
       synopsis: "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead."
