@@ -6,7 +6,7 @@
     - title: "Fantastic Beasts: The Secrets of Dumbledore"
       id: "HO00002436"     
       synopsis: "Professor Albus Dumbledore knows the powerful Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world."
-      poster: https://image.tmdb.org/t/p/w500//jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg
+      poster: https://image.tmdb.org/t/p/w500//8ZbybiGYe8XM4WGmGlhF0ec5R7u.jpg
       length: "2h 22m"
       rating: "12A"
       genres:
@@ -203,4 +203,19 @@ pushes its boundaries further than ever before."
               bookingid: 150-1947
             - time: "04:00"
               bookingid: 150-1953
+            
+        - date: "2022-05-08"
+          times: 
+            - time: "07:15"
+              bookingid: 150-1954
+            - time: "10:30"
+              bookingid: 150-1955
+            - time: "13:45"
+              bookingid: 150-1956
+            - time: "17:00"
+              bookingid: 150-1957
+            - time: "20:15"
+              bookingid: 150-1958
+            - time: "23:30"
+              bookingid: 150-1959
             
