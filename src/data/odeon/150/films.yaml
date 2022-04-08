@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-04-08"
           times: 
-            - time: "17:15"
-              bookingid: 150-1841
             - time: "20:30"
               bookingid: 150-1840
             
@@ -138,7 +136,7 @@
       id: "HO00002467"     
       synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
 pushes its boundaries further than ever before."
-      poster: https://image.tmdb.org/t/p/w500//9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg
+      poster: https://image.tmdb.org/t/p/w500//wRnbWt44nKjsFPrqSmwYki5vZtF.jpg
       length: "2h 6m"
       rating: "TBC"
       genres:
