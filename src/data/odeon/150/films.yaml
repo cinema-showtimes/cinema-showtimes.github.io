@@ -46,6 +46,17 @@
             - time: "20:30"
               bookingid: 150-2005
             
+        - date: "2022-04-22"
+          times: 
+            - time: "10:45"
+              bookingid: 150-2016
+            - time: "14:00"
+              bookingid: 150-2017
+            - time: "17:15"
+              bookingid: 150-2018
+            - time: "20:30"
+              bookingid: 150-2019
+            
         - date: "2022-04-23"
           times: 
             - time: "10:45"
@@ -68,6 +79,15 @@
             - time: "20:15"
               bookingid: 150-2027
             
+        - date: "2022-04-26"
+          times: 
+            - time: "14:00"
+              bookingid: 150-2029
+            - time: "17:15"
+              bookingid: 150-2030
+            - time: "20:30"
+              bookingid: 150-2015
+            
         - date: "2022-04-27"
           times: 
             - time: "14:00"
@@ -77,11 +97,20 @@
             - time: "20:30"
               bookingid: 150-2034
             
+        - date: "2022-04-28"
+          times: 
+            - time: "14:00"
+              bookingid: 150-2036
+            - time: "17:15"
+              bookingid: 150-2037
+            - time: "20:30"
+              bookingid: 150-2038
+            
     - title: "Doctor Strange in the Multiverse of Madness"
       id: "HO00002467"     
       synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
 pushes its boundaries further than ever before."
-      poster: https://image.tmdb.org/t/p/w500//uluH4IS17pSlLcndLA94Z6fkjRg.jpg
+      poster: https://image.tmdb.org/t/p/w500//wRnbWt44nKjsFPrqSmwYki5vZtF.jpg
       length: "2h 6m"
       rating: "TBC"
       genres:
@@ -140,8 +169,6 @@ pushes its boundaries further than ever before."
               bookingid: 150-1946
             - time: "00:45"
               bookingid: 150-1947
-            - time: "04:00"
-              bookingid: 150-1953
             
         - date: "2022-05-08"
           times: 
@@ -181,8 +208,6 @@ pushes its boundaries further than ever before."
               bookingid: 150-1966
             - time: "20:30"
               bookingid: 150-1969
-            - time: "23:45"
-              bookingid: 150-1972
             
         - date: "2022-05-11"
           times: 
@@ -194,8 +219,6 @@ pushes its boundaries further than ever before."
               bookingid: 150-1967
             - time: "20:30"
               bookingid: 150-1970
-            - time: "23:45"
-              bookingid: 150-1973
             
         - date: "2022-05-12"
           times: 
@@ -279,8 +302,18 @@ pushes its boundaries further than ever before."
         - id: "0000000013"
           genre: "History"
       showtimes:
+        - date: "2022-04-26"
+          times: 
+            - time: "12:30"
+              bookingid: 150-2041
+            
         - date: "2022-04-27"
           times: 
             - time: "12:30"
               bookingid: 150-2040
+            
+        - date: "2022-04-28"
+          times: 
+            - time: "12:30"
+              bookingid: 150-2039
             
