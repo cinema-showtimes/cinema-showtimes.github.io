@@ -46,6 +46,37 @@
             - time: "20:30"
               bookingid: 150-2005
             
+        - date: "2022-04-23"
+          times: 
+            - time: "10:45"
+              bookingid: 150-2020
+            - time: "14:00"
+              bookingid: 150-2021
+            - time: "17:15"
+              bookingid: 150-2022
+            - time: "20:30"
+              bookingid: 150-2023
+            
+        - date: "2022-04-24"
+          times: 
+            - time: "10:30"
+              bookingid: 150-2024
+            - time: "13:45"
+              bookingid: 150-2025
+            - time: "17:00"
+              bookingid: 150-2026
+            - time: "20:15"
+              bookingid: 150-2027
+            
+        - date: "2022-04-27"
+          times: 
+            - time: "14:00"
+              bookingid: 150-2032
+            - time: "17:15"
+              bookingid: 150-2033
+            - time: "20:30"
+              bookingid: 150-2034
+            
     - title: "Doctor Strange in the Multiverse of Madness"
       id: "HO00002467"     
       synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
@@ -176,8 +207,6 @@ pushes its boundaries further than ever before."
               bookingid: 150-1968
             - time: "20:30"
               bookingid: 150-1971
-            - time: "23:45"
-              bookingid: 150-1974
             
         - date: "2022-05-13"
           times: 
@@ -237,4 +266,21 @@ pushes its boundaries further than ever before."
               bookingid: 150-1994
             - time: "20:30"
               bookingid: 150-1995
+            
+    - title: "Apollo 11: First Steps Edition"
+      id: "HO00001974"     
+      synopsis: "Timed to the 50th anniversary of NASA’s celebrated Apollo 11 mission, Apollo 11: First Steps Edition is a thrilling cinematic experience."
+      poster: https://via.placeholder.com/256x384
+      length: "0h 47m"
+      rating: "TBC"
+      genres:
+        - id: "0000000008"
+          genre: "Documentary"
+        - id: "0000000013"
+          genre: "History"
+      showtimes:
+        - date: "2022-04-27"
+          times: 
+            - time: "12:30"
+              bookingid: 150-2040
             
