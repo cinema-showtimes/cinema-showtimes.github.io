@@ -19,8 +19,6 @@
       showtimes:
         - date: "2022-04-21"
           times: 
-            - time: "10:45"
-              bookingid: 150-2014
             - time: "14:00"
               bookingid: 150-2011
             - time: "17:15"
