@@ -17,11 +17,6 @@
         - id: "0000000045"
           genre: "Science Fiction"
       showtimes:
-        - date: "2022-04-21"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2005
-            
         - date: "2022-04-22"
           times: 
             - time: "10:45"
