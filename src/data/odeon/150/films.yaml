@@ -44,6 +44,13 @@
             - time: "20:30"
               bookingid: 150-2038
             
+        - date: "2022-05-02"
+          times: 
+            - time: "12:50"
+              bookingid: 150-2065
+            - time: "16:00"
+              bookingid: 150-2066
+            
     - title: "Doctor Strange in the Multiverse of Madness"
       id: "HO00002467"     
       synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
@@ -227,6 +234,25 @@ pushes its boundaries further than ever before."
               bookingid: 150-1994
             - time: "20:30"
               bookingid: 150-1995
+            
+    - title: "The Batman"
+      id: "HO00002129"     
+      synopsis: "From Warner Bros. Pictures comes “The Batman,” with director Matt Reeves at the helm and with Robert Pattinson starring as Gotham City’s vigilante detective, Batman."
+      poster: https://image.tmdb.org/t/p/w500//74xTEgt7R36Fpooo50r9T25onhq.jpg
+      length: "2h 56m"
+      rating: "15"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000007"
+          genre: "Crime"
+        - id: "0000000009"
+          genre: "Drama"
+      showtimes:
+        - date: "2022-05-02"
+          times: 
+            - time: "19:00"
+              bookingid: 150-2067
             
     - title: "Apollo 11: First Steps Edition"
       id: "HO00001974"     
