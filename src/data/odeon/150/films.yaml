@@ -290,11 +290,6 @@ pushes its boundaries further than ever before."
         - id: "0000000013"
           genre: "History"
       showtimes:
-        - date: "2022-04-26"
-          times: 
-            - time: "12:30"
-              bookingid: 150-2041
-            
         - date: "2022-04-27"
           times: 
             - time: "12:30"
