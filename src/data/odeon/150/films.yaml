@@ -229,11 +229,6 @@ pushes its boundaries further than ever before."
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2022-04-29"
-          times: 
-            - time: "20:10"
-              bookingid: 150-2060
-            
         - date: "2022-04-30"
           times: 
             - time: "19:30"
