@@ -3,25 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "Fantastic Beasts: The Secrets of Dumbledore"
-      id: "HO00002436"     
-      synopsis: "Professor Albus Dumbledore knows the powerful Dark wizard Gellert Grindelwald is moving to seize control of the wizarding world."
-      poster: https://image.tmdb.org/t/p/w500//jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg
-      length: "2h 22m"
-      rating: "12A"
-      genres:
-        - id: "0000000010"
-          genre: "Family"
-        - id: "0000000011"
-          genre: "Fantasy"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-05-02"
-          times: 
-            - time: "16:00"
-              bookingid: 150-2066
-            
     - title: "Doctor Strange in the Multiverse of Madness"
       id: "HO00002467"     
       synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
