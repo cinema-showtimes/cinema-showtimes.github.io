@@ -18,11 +18,6 @@ pushes its boundaries further than ever before."
         - id: "0000000045"
           genre: "Science Fiction"
       showtimes:
-        - date: "2022-05-08"
-          times: 
-            - time: "23:30"
-              bookingid: 150-1959
-            
         - date: "2022-05-09"
           times: 
             - time: "10:45"
