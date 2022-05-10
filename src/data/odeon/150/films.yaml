@@ -20,8 +20,6 @@ pushes its boundaries further than ever before."
       showtimes:
         - date: "2022-05-10"
           times: 
-            - time: "17:15"
-              bookingid: 150-1966
             - time: "20:30"
               bookingid: 150-1969
             
