@@ -285,3 +285,14 @@ pushes its boundaries further than ever before."
             - time: "23:59"
               bookingid: 150-2074
             
+        - date: "2022-06-12"
+          times: 
+            - time: "09:30"
+              bookingid: 150-2082
+            - time: "13:00"
+              bookingid: 150-2081
+            - time: "16:30"
+              bookingid: 150-2080
+            - time: "20:00"
+              bookingid: 150-2079
+            
