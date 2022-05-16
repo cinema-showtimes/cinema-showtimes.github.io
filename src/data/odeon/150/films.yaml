@@ -91,8 +91,6 @@ pushes its boundaries further than ever before."
               bookingid: 150-2108
             - time: "20:30"
               bookingid: 150-2109
-            - time: "23:45"
-              bookingid: 150-2110
             
         - date: "2022-05-27"
           times: 
