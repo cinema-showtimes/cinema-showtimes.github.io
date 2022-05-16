@@ -47,6 +47,17 @@ pushes its boundaries further than ever before."
             - time: "21:30"
               bookingid: 150-2182
             
+        - date: "2022-05-24"
+          times: 
+            - time: "11:40"
+              bookingid: 150-2186
+            - time: "14:40"
+              bookingid: 150-2185
+            - time: "17:40"
+              bookingid: 150-2184
+            - time: "20:40"
+              bookingid: 150-2183
+            
     - title: "Top Gun: Maverick"
       id: "HO00001347"     
       synopsis: "After more than thirty years of service as one of the Navy’s top aviators, Pete “Maverick” Mitchell (Tom Cruise) is where he belongs."
