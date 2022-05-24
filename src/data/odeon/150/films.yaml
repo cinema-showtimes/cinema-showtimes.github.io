@@ -3,26 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "Doctor Strange in the Multiverse of Madness"
-      id: "HO00002467"     
-      synopsis: "In Marvel Studios’ Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and 
-pushes its boundaries further than ever before."
-      poster: https://image.tmdb.org/t/p/w500//9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg
-      length: "2h 6m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000011"
-          genre: "Fantasy"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-05-24"
-          times: 
-            - time: "20:40"
-              bookingid: 150-2183
-            
     - title: "Top Gun: Maverick"
       id: "HO00001347"     
       synopsis: "After more than thirty years of service as one of the Navy’s top aviators, Pete “Maverick” Mitchell (Tom Cruise) is where he belongs."
