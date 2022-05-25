@@ -248,3 +248,22 @@
             - time: "20:30"
               bookingid: 150-2098
             
+    - title: "Elvis"
+      id: "HO00002769"     
+      synopsis: "The film explores the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker."
+      poster: https://image.tmdb.org/t/p/w500//rva3UhKaMeiB0Vej5A2pm1leX7K.jpg
+      length: "2h 39m"
+      rating: "TBC"
+      genres:
+        - id: "0000000005"
+          genre: "Biography"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000015"
+          genre: "Musical "
+      showtimes:
+        - date: "2022-06-24"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2188
+            
