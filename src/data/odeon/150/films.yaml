@@ -15,11 +15,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2022-05-26"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2109
-            
         - date: "2022-05-27"
           times: 
             - time: "10:45"
