@@ -17,8 +17,6 @@
       showtimes:
         - date: "2022-05-26"
           times: 
-            - time: "14:00"
-              bookingid: 150-2107
             - time: "17:15"
               bookingid: 150-2108
             - time: "20:30"
