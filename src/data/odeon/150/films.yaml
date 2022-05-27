@@ -248,3 +248,8 @@
             - time: "20:30"
               bookingid: 150-2189
             
+        - date: "2022-06-26"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2190
+            
