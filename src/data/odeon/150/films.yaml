@@ -6,7 +6,7 @@
     - title: "Top Gun: Maverick"
       id: "HO00001347"     
       synopsis: "After more than thirty years of service as one of the Navy’s top aviators, Pete “Maverick” Mitchell (Tom Cruise) is where he belongs."
-      poster: https://image.tmdb.org/t/p/w500//puYMnAhpo3EL7y1cbA3ZlOxSeZh.jpg
+      poster: https://image.tmdb.org/t/p/w500//wxP2Mzv9CdjOK6t4dNnFGqIQl0V.jpg
       length: "2h 11m"
       rating: "12A"
       genres:
@@ -17,8 +17,6 @@
       showtimes:
         - date: "2022-05-28"
           times: 
-            - time: "14:00"
-              bookingid: 150-2119
             - time: "17:15"
               bookingid: 150-2118
             - time: "20:30"
@@ -117,7 +115,7 @@
     - title: "Jurassic World: Dominion"
       id: "HO00002745"     
       synopsis: "From Jurassic World architect and director Colin Trevorrow, Dominion takes place four years after Isla Nublar has been destroyed."
-      poster: https://image.tmdb.org/t/p/w500//epVC7A32e62mzu2Srr0Fb3B25i5.jpg
+      poster: https://image.tmdb.org/t/p/w500//blO6k1NsYgPq4sQRZyWvi962FOo.jpg
       length: "2h 27m"
       rating: "TBC"
       genres:
