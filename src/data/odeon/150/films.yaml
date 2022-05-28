@@ -17,8 +17,6 @@
       showtimes:
         - date: "2022-05-28"
           times: 
-            - time: "10:45"
-              bookingid: 150-2120
             - time: "14:00"
               bookingid: 150-2119
             - time: "17:15"
@@ -119,7 +117,7 @@
     - title: "Jurassic World: Dominion"
       id: "HO00002745"     
       synopsis: "From Jurassic World architect and director Colin Trevorrow, Dominion takes place four years after Isla Nublar has been destroyed."
-      poster: https://image.tmdb.org/t/p/w500//epVC7A32e62mzu2Srr0Fb3B25i5.jpg
+      poster: https://image.tmdb.org/t/p/w500//lvBr2AqXbKDsguhcHFEHUs5xrfK.jpg
       length: "2h 27m"
       rating: "TBC"
       genres:
