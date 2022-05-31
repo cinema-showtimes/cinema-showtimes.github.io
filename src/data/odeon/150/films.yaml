@@ -263,55 +263,6 @@
             - time: "20:20"
               bookingid: 150-2227
             
-    - title: "Elvis"
-      id: "HO00002769"     
-      synopsis: "The film explores the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker."
-      poster: https://image.tmdb.org/t/p/w500//rva3UhKaMeiB0Vej5A2pm1leX7K.jpg
-      length: "2h 39m"
-      rating: "12A"
-      genres:
-        - id: "0000000005"
-          genre: "Biography"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000015"
-          genre: "Musical "
-      showtimes:
-        - date: "2022-06-24"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2188
-            
-        - date: "2022-06-25"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2189
-            
-        - date: "2022-06-26"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2190
-            
-        - date: "2022-06-27"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2191
-            
-        - date: "2022-06-28"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2192
-            
-        - date: "2022-06-29"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2193
-            
-        - date: "2022-06-30"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2194
-            
     - title: "Lightyear"
       id: "HO00002277"     
       synopsis: "The sci-fi action-adventure presents the definitive origin story of Buzz Lightyear—the hero who inspired the toy—introducing the legendary Space Ranger."
@@ -360,4 +311,53 @@
           times: 
             - time: "14:20"
               bookingid: 150-2215
+            
+    - title: "Elvis"
+      id: "HO00002769"     
+      synopsis: "The film explores the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker."
+      poster: https://image.tmdb.org/t/p/w500//rva3UhKaMeiB0Vej5A2pm1leX7K.jpg
+      length: "2h 39m"
+      rating: "12A"
+      genres:
+        - id: "0000000005"
+          genre: "Biography"
+        - id: "0000000009"
+          genre: "Drama"
+        - id: "0000000015"
+          genre: "Musical "
+      showtimes:
+        - date: "2022-06-24"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2188
+            
+        - date: "2022-06-25"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2189
+            
+        - date: "2022-06-26"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2190
+            
+        - date: "2022-06-27"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2191
+            
+        - date: "2022-06-28"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2192
+            
+        - date: "2022-06-29"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2193
+            
+        - date: "2022-06-30"
+          times: 
+            - time: "20:30"
+              bookingid: 150-2194
             
