@@ -15,11 +15,6 @@
         - id: "0000000009"
           genre: "Drama"
       showtimes:
-        - date: "2022-06-01"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2139
-            
         - date: "2022-06-02"
           times: 
             - time: "10:45"
@@ -298,7 +293,7 @@
     - title: "Elvis"
       id: "HO00002769"     
       synopsis: "The film explores the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker."
-      poster: https://image.tmdb.org/t/p/w500//2Q5S3Dwrb2QZ4hURq9a7tmSVgku.jpg
+      poster: https://image.tmdb.org/t/p/w500//rva3UhKaMeiB0Vej5A2pm1leX7K.jpg
       length: "2h 39m"
       rating: "12A"
       genres:
