@@ -108,7 +108,7 @@
     - title: "Jurassic World: Dominion"
       id: "HO00002745"     
       synopsis: "From Jurassic World architect and director Colin Trevorrow, Dominion takes place four years after Isla Nublar has been destroyed."
-      poster: https://image.tmdb.org/t/p/w500//kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg
+      poster: https://image.tmdb.org/t/p/w500//u3gZeyYRw5UmoIPXZ5bGqpLMxYJ.jpg
       length: "2h 27m"
       rating: "12A"
       genres:
@@ -245,13 +245,13 @@
       id: "HO00002277"     
       synopsis: "The sci-fi action-adventure presents the definitive origin story of Buzz Lightyear—the hero who inspired the toy—introducing the legendary Space Ranger."
       poster: https://image.tmdb.org/t/p/w500//tbUhPhir8TGDkD8RruiBAJE9Nd3.jpg
-      length: "1h 46m"
-      rating: "TBC"
+      length: "1h 45m"
+      rating: "PG"
       genres:
+        - id: "0000000001"
+          genre: "Action"
         - id: "0000000004"
           genre: "Animation"
-        - id: "0000000010"
-          genre: "Family"
         - id: "0000000045"
           genre: "Science Fiction"
       showtimes:
