@@ -95,6 +95,8 @@
             
         - date: "2022-06-14"
           times: 
+            - time: "10:00"
+              bookingid: 150-2087
             - time: "13:30"
               bookingid: 150-2088
             - time: "17:00"
