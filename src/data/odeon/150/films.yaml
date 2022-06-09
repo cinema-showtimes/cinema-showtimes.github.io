@@ -3,23 +3,6 @@
   slug: "bfi-imax"
   movies:
     
-    - title: "Top Gun: Maverick"
-      id: "HO00001347"     
-      synopsis: "After more than thirty years of service as one of the Navy’s top aviators, Pete “Maverick” Mitchell (Tom Cruise) is where he belongs."
-      poster: https://image.tmdb.org/t/p/w500//wxP2Mzv9CdjOK6t4dNnFGqIQl0V.jpg
-      length: "2h 11m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000009"
-          genre: "Drama"
-      showtimes:
-        - date: "2022-06-09"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2195
-            
     - title: "Jurassic World: Dominion"
       id: "HO00002745"     
       synopsis: "From Jurassic World architect and director Colin Trevorrow, Dominion takes place four years after Isla Nublar has been destroyed."
