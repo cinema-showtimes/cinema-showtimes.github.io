@@ -200,3 +200,95 @@
             - time: "20:30"
               bookingid: 150-2194
             
+    - title: "Thor: Love and Thunder"
+      id: "HO00002753"     
+      synopsis: "The film finds Thor on a journey, unlike anything he’s ever faced – a quest for inner peace. But his retirement is interrupted by a galactic killer."
+      poster: https://image.tmdb.org/t/p/w500//4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg
+      length: "1h 59m"
+      rating: "TBC"
+      genres:
+        - id: "0000000001"
+          genre: "Action"
+        - id: "0000000011"
+          genre: "Fantasy"
+        - id: "0000000045"
+          genre: "Science Fiction"
+      showtimes:
+        - date: "2022-07-07"
+          times: 
+            - time: "06:00"
+              bookingid: 150-2292
+            - time: "09:00"
+              bookingid: 150-2291
+            - time: "12:00"
+              bookingid: 150-2290
+            - time: "15:00"
+              bookingid: 150-2293
+            - time: "18:00"
+              bookingid: 150-2294
+            - time: "21:00"
+              bookingid: 150-2295
+            - time: "23:59"
+              bookingid: 150-2296
+            
+        - date: "2022-07-08"
+          times: 
+            - time: "08:30"
+              bookingid: 150-2301
+            - time: "11:30"
+              bookingid: 150-2300
+            - time: "14:30"
+              bookingid: 150-2299
+            - time: "17:30"
+              bookingid: 150-2298
+            - time: "20:30"
+              bookingid: 150-2297
+            - time: "23:30"
+              bookingid: 150-2302
+            
+        - date: "2022-07-09"
+          times: 
+            - time: "11:30"
+              bookingid: 150-2307
+            - time: "14:30"
+              bookingid: 150-2306
+            - time: "17:30"
+              bookingid: 150-2305
+            - time: "20:30"
+              bookingid: 150-2304
+            - time: "23:30"
+              bookingid: 150-2303
+            
+        - date: "2022-07-10"
+          times: 
+            - time: "11:30"
+              bookingid: 150-2313
+            - time: "14:30"
+              bookingid: 150-2312
+            - time: "17:30"
+              bookingid: 150-2311
+            - time: "20:30"
+              bookingid: 150-2310
+            
+        - date: "2022-07-11"
+          times: 
+            - time: "11:30"
+              bookingid: 150-2315
+            - time: "14:30"
+              bookingid: 150-2316
+            - time: "17:30"
+              bookingid: 150-2317
+            - time: "20:30"
+              bookingid: 150-2318
+            
+        - date: "2022-07-12"
+          times: 
+            - time: "11:30"
+              bookingid: 150-2319
+            - time: "14:30"
+              bookingid: 150-2320
+            - time: "17:30"
+              bookingid: 150-2321
+            - time: "20:30"
+              bookingid: 150-2322
+            
