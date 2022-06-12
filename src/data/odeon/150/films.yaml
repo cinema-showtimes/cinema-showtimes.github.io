@@ -17,11 +17,6 @@
         - id: "0000000045"
           genre: "Science Fiction"
       showtimes:
-        - date: "2022-06-12"
-          times: 
-            - time: "20:00"
-              bookingid: 150-2079
-            
         - date: "2022-06-13"
           times: 
             - time: "10:00"
