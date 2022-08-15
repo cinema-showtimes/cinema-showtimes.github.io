@@ -1,305 +1,262 @@
 - id: "150"
   title: "BFI IMAX"
   slug: "bfi-imax"
-  movies:
-    
-    - title: "Jurassic World: Dominion"
-      id: "HO00002745"     
-      synopsis: "From Jurassic World architect and director Colin Trevorrow, Dominion takes place four years after Isla Nublar has been destroyed."
-      poster: https://image.tmdb.org/t/p/w500//kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg
-      length: "2h 27m"
-      rating: "12A"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000020"
-          genre: "Thriller"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-06-13"
-          times: 
-            - time: "10:00"
-              bookingid: 150-2083
-            - time: "13:30"
-              bookingid: 150-2084
-            - time: "17:00"
-              bookingid: 150-2085
-            - time: "20:30"
-              bookingid: 150-2086
-            
-        - date: "2022-06-14"
-          times: 
-            - time: "10:00"
-              bookingid: 150-2087
-            - time: "13:30"
-              bookingid: 150-2088
-            - time: "17:00"
-              bookingid: 150-2089
-            - time: "20:30"
-              bookingid: 150-2090
-            
-        - date: "2022-06-15"
-          times: 
-            - time: "10:00"
-              bookingid: 150-2091
-            - time: "13:30"
-              bookingid: 150-2092
-            - time: "17:00"
-              bookingid: 150-2093
-            - time: "20:30"
-              bookingid: 150-2094
-            
-        - date: "2022-06-16"
-          times: 
-            - time: "10:00"
-              bookingid: 150-2095
-            - time: "13:30"
-              bookingid: 150-2096
-            - time: "17:00"
-              bookingid: 150-2097
-            - time: "20:30"
-              bookingid: 150-2098
-            
-        - date: "2022-06-17"
-          times: 
-            - time: "11:00"
-              bookingid: 150-2203
-            - time: "20:20"
-              bookingid: 150-2202
-            
-        - date: "2022-06-18"
-          times: 
-            - time: "11:00"
-              bookingid: 150-2204
-            - time: "20:20"
-              bookingid: 150-2222
-            
-        - date: "2022-06-19"
-          times: 
-            - time: "11:00"
-              bookingid: 150-2205
-            - time: "20:20"
-              bookingid: 150-2223
-            
-        - date: "2022-06-20"
-          times: 
-            - time: "20:20"
-              bookingid: 150-2224
-            
-        - date: "2022-06-21"
-          times: 
-            - time: "20:20"
-              bookingid: 150-2225
-            
-        - date: "2022-06-22"
-          times: 
-            - time: "20:20"
-              bookingid: 150-2226
-            
-        - date: "2022-06-23"
-          times: 
-            - time: "20:20"
-              bookingid: 150-2227
-            
-    - title: "Lightyear"
-      id: "HO00002277"     
-      synopsis: "The sci-fi action-adventure presents the definitive origin story of Buzz Lightyear—the hero who inspired the toy—introducing the legendary Space Ranger."
-      poster: https://image.tmdb.org/t/p/w500//tbUhPhir8TGDkD8RruiBAJE9Nd3.jpg
-      length: "1h 47m"
-      rating: "PG"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000004"
-          genre: "Animation"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-06-17"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2200
-            
-        - date: "2022-06-18"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2210
-            
-        - date: "2022-06-19"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2211
-            
-        - date: "2022-06-20"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2212
-            
-        - date: "2022-06-21"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2213
-            
-        - date: "2022-06-22"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2214
-            
-        - date: "2022-06-23"
-          times: 
-            - time: "14:20"
-              bookingid: 150-2215
-            
-    - title: "Elvis"
-      id: "HO00002769"     
-      synopsis: "The film explores the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker."
-      poster: https://image.tmdb.org/t/p/w500//rva3UhKaMeiB0Vej5A2pm1leX7K.jpg
-      length: "2h 39m"
-      rating: "12A"
-      genres:
-        - id: "0000000005"
-          genre: "Biography"
-        - id: "0000000009"
-          genre: "Drama"
-        - id: "0000000015"
-          genre: "Musical "
-      showtimes:
-        - date: "2022-06-24"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2188
-            
-        - date: "2022-06-25"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2189
-            
-        - date: "2022-06-26"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2190
-            
-        - date: "2022-06-27"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2191
-            
-        - date: "2022-06-28"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2192
-            
-        - date: "2022-06-29"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2193
-            
-        - date: "2022-06-30"
-          times: 
-            - time: "20:30"
-              bookingid: 150-2194
-            
-    - title: "Thor: Love and Thunder"
-      id: "HO00002753"     
-      synopsis: "The film finds Thor on a journey, unlike anything he’s ever faced – a quest for inner peace. But his retirement is interrupted by a galactic killer."
-      poster: https://image.tmdb.org/t/p/w500//4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg
-      length: "1h 59m"
-      rating: "TBC"
-      genres:
-        - id: "0000000001"
-          genre: "Action"
-        - id: "0000000011"
-          genre: "Fantasy"
-        - id: "0000000045"
-          genre: "Science Fiction"
-      showtimes:
-        - date: "2022-07-07"
-          times: 
-            - time: "06:00"
-              bookingid: 150-2292
-            - time: "09:00"
-              bookingid: 150-2291
-            - time: "12:00"
-              bookingid: 150-2290
-            - time: "15:00"
-              bookingid: 150-2293
-            - time: "18:00"
-              bookingid: 150-2294
-            - time: "21:00"
-              bookingid: 150-2295
-            - time: "23:59"
-              bookingid: 150-2296
-            
-        - date: "2022-07-08"
-          times: 
-            - time: "08:30"
-              bookingid: 150-2301
-            - time: "11:30"
-              bookingid: 150-2300
-            - time: "14:30"
-              bookingid: 150-2299
-            - time: "17:30"
-              bookingid: 150-2298
-            - time: "20:30"
-              bookingid: 150-2297
-            - time: "23:30"
-              bookingid: 150-2302
-            
-        - date: "2022-07-09"
-          times: 
-            - time: "11:30"
-              bookingid: 150-2307
-            - time: "14:30"
-              bookingid: 150-2306
-            - time: "17:30"
-              bookingid: 150-2305
-            - time: "20:30"
-              bookingid: 150-2304
-            - time: "23:30"
-              bookingid: 150-2303
-            
-        - date: "2022-07-10"
-          times: 
-            - time: "11:30"
-              bookingid: 150-2313
-            - time: "14:30"
-              bookingid: 150-2312
-            - time: "17:30"
-              bookingid: 150-2311
-            - time: "20:30"
-              bookingid: 150-2310
-            
-        - date: "2022-07-11"
-          times: 
-            - time: "11:30"
-              bookingid: 150-2315
-            - time: "14:30"
-              bookingid: 150-2316
-            - time: "17:30"
-              bookingid: 150-2317
-            - time: "20:30"
-              bookingid: 150-2318
-            
-        - date: "2022-07-12"
-          times: 
-            - time: "11:30"
-              bookingid: 150-2319
-            - time: "14:30"
-              bookingid: 150-2320
-            - time: "17:30"
-              bookingid: 150-2321
-            - time: "20:30"
-              bookingid: 150-2322
-            
-        - date: "2022-07-13"
-          times: 
-            - time: "11:30"
-              bookingid: 150-2323
-            - time: "14:30"
-              bookingid: 150-2324
-            - time: "17:30"
-              bookingid: 150-2325
-            - time: "20:30"
-              bookingid: 150-2326
-            
+  movies: 
+  - title : "Nope"
+    id : HO00003054
+    synopsis : "Residents in a lonely gulch of inland California bear witness to an uncanny and chilling discovery. "
+    poster : "https://image.tmdb.org/t/p/original//AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
+    length : 2h 10m
+    rating : "15"
+    genres :
+       - id : "0000000014"
+         genre : Horror
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "13:45"
+         bookingid : 153-9712
+       - time : "17:00"
+         bookingid : 153-9711
+       - time : "20:15"
+         bookingid : 153-9710
+     - date : "2022-08-17"
+       times :
+       - time : "13:45"
+         bookingid : 153-9715
+       - time : "17:00"
+         bookingid : 153-9714
+       - time : "20:15"
+         bookingid : 153-9713
+     - date : "2022-08-18"
+       times :
+       - time : "13:45"
+         bookingid : 153-9718
+       - time : "17:00"
+         bookingid : 153-9717
+       - time : "20:15"
+         bookingid : 153-9716
+  - title : "Bullet Train"
+    id : HO00003052
+    synopsis : "Based on the Japanese novel, Maria Beetle by Kotaro Isaka, five assassins find themselves on a fast-moving bullet train from Tokyo to Morioka with only a few stops."
+    poster : "https://image.tmdb.org/t/p/original//nF1a7P9lUq9kNas9RIvSEQ412qN.jpg"
+    length : 2h 6m
+    rating : "15"
+    genres :
+       - id : "0000000001"
+         genre : Action
+       - id : "0000000020"
+         genre : Thriller
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "11:45"
+         bookingid : 153-9796
+       - time : "14:45"
+         bookingid : 153-9786
+       - time : "17:45"
+         bookingid : 153-9781
+       - time : "20:45"
+         bookingid : 153-9790
+     - date : "2022-08-17"
+       times :
+       - time : "11:45"
+         bookingid : 153-9803
+       - time : "14:45"
+         bookingid : 153-9797
+       - time : "17:45"
+         bookingid : 153-9802
+       - time : "19:15"
+         bookingid : 153-9830
+       - time : "20:45"
+         bookingid : 153-9809
+     - date : "2022-08-18"
+       times :
+       - time : "11:45"
+         bookingid : 153-9819
+       - time : "14:45"
+         bookingid : 153-9813
+       - time : "17:45"
+         bookingid : 153-9818
+       - time : "20:45"
+         bookingid : 153-9825
+  - title : "Elvis"
+    id : HO00002769
+    synopsis : "The film explores the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker."
+    poster : "https://image.tmdb.org/t/p/original//qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+    length : 2h 40m
+    rating : "12A"
+    genres :
+       - id : "0000000005"
+         genre : Biography
+       - id : "0000000009"
+         genre : Drama
+       - id : "0000000015"
+         genre : Musical 
+    showtimes :
+     - date : "2022-08-18"
+       times :
+       - time : "19:00"
+         bookingid : 153-9822
+  - title : "Thor: Love and Thunder"
+    id : HO00002753
+    synopsis : "The film finds Thor on a journey, unlike anything he’s ever faced – a quest for inner peace. But his retirement is interrupted by a galactic killer."
+    poster : "https://image.tmdb.org/t/p/original//pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
+    length : 1h 59m
+    rating : "12A"
+    genres :
+       - id : "0000000001"
+         genre : Action
+       - id : "0000000011"
+         genre : Fantasy
+       - id : "0000000045"
+         genre : Science Fiction
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "14:30"
+         bookingid : 153-9787
+       - time : "17:15"
+         bookingid : 153-9783
+       - time : "20:00"
+         bookingid : 153-9792
+     - date : "2022-08-17"
+       times :
+       - time : "14:30"
+         bookingid : 153-9812
+       - time : "17:15"
+         bookingid : 153-9800
+       - time : "20:00"
+         bookingid : 153-9807
+     - date : "2022-08-18"
+       times :
+       - time : "14:30"
+         bookingid : 153-9828
+       - time : "17:15"
+         bookingid : 153-9816
+       - time : "20:00"
+         bookingid : 153-9823
+  - title : "DC League of Super-Pets"
+    id : HO00002465
+    synopsis : "Krypto the Super-Dog (Johnson) and Superman (Krasinski) are inseparable best friends, sharing the same superpowers and fighting crime in Metropolis side by side. "
+    poster : "https://image.tmdb.org/t/p/original//r7XifzvtezNt31ypvsmb6Oqxw49.jpg"
+    length : 1h 46m
+    rating : "PG"
+    genres :
+       - id : "0000000001"
+         genre : Action
+       - id : "0000000004"
+         genre : Animation
+       - id : "0000000045"
+         genre : Science Fiction
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "12:00"
+         bookingid : 153-9795
+       - time : "13:45"
+         bookingid : 153-9788
+       - time : "16:30"
+         bookingid : 153-9784
+     - date : "2022-08-17"
+       times :
+       - time : "12:00"
+         bookingid : 153-9804
+       - time : "13:45"
+         bookingid : 153-9811
+       - time : "16:30"
+         bookingid : 153-9799
+     - date : "2022-08-18"
+       times :
+       - time : "12:00"
+         bookingid : 153-9820
+       - time : "13:45"
+         bookingid : 153-9827
+       - time : "16:15"
+         bookingid : 153-9815
+  - title : "Minions: The Rise of Gru"
+    id : HO00001350
+    synopsis : "Long before he becomes the master of evil, Gru is just a 12-year-old boy in 1970s suburbia, plotting to take over the world from his basement."
+    poster : "https://image.tmdb.org/t/p/original//wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
+    length : 1h 28m
+    rating : "U"
+    genres :
+       - id : "0000000003"
+         genre : Adventure
+       - id : "0000000004"
+         genre : Animation
+       - id : "0000000006"
+         genre : Comedy
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "11:30"
+         bookingid : 153-9794
+       - time : "13:00"
+         bookingid : 153-9789
+       - time : "15:15"
+         bookingid : 153-9785
+     - date : "2022-08-17"
+       times :
+       - time : "11:30"
+         bookingid : 153-9805
+       - time : "13:00"
+         bookingid : 153-9810
+       - time : "15:15"
+         bookingid : 153-9798
+     - date : "2022-08-18"
+       times :
+       - time : "11:30"
+         bookingid : 153-9821
+       - time : "13:00"
+         bookingid : 153-9826
+       - time : "15:15"
+         bookingid : 153-9814
+  - title : "Top Gun: Maverick"
+    id : HO00001347
+    synopsis : "After more than thirty years of service as one of the Navy’s top aviators, Pete “Maverick” Mitchell (Tom Cruise) is where he belongs. "
+    poster : "https://image.tmdb.org/t/p/original//62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+    length : 2h 11m
+    rating : "12A"
+    genres :
+       - id : "0000000001"
+         genre : Action
+       - id : "0000000009"
+         genre : Drama
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "17:30"
+         bookingid : 153-9782
+       - time : "20:30"
+         bookingid : 153-9791
+     - date : "2022-08-17"
+       times :
+       - time : "17:30"
+         bookingid : 153-9801
+       - time : "20:30"
+         bookingid : 153-9808
+     - date : "2022-08-18"
+       times :
+       - time : "17:30"
+         bookingid : 153-9817
+       - time : "20:30"
+         bookingid : 153-9824
+  - title : "Tomorrow Never Dies"
+    id : HO00001290
+    synopsis : "James Bond heads to stop a media mogul's plan to induce war between China and the UK in order to obtain exclusive global media coverage."
+    poster : "https://image.tmdb.org/t/p/original//yWXNZHE4k4jlQhGhBEiLwYa2rIt.jpg"
+    length : 1h 59m
+    rating : "12A"
+    genres :
+       - id : "0000000001"
+         genre : Action
+       - id : "0000000020"
+         genre : Thriller
+       - id : "0000000045"
+         genre : Science Fiction
+    showtimes :
+     - date : "2022-08-16"
+       times :
+       - time : "19:15"
+         bookingid : 153-9829
