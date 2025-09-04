@@ -41,8 +41,9 @@
   "@storybook/builder-webpack5": "^7.6.0",
   "@storybook/react": "^7.6.0",
     "babel-loader": "^8.2.2",
-    "chromatic": "^5.9.2",
-    "gh-pages": "^3.2.3",
+  "chromatic": "^6.0.0",
+  "gh-pages": "^6.3.0",
+  "axios": "^1.6.0",
     "storybook-addon-designs": "^6.2.0"
   }
 }
