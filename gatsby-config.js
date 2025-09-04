@@ -17,15 +17,15 @@ module.exports = {
                 path: `./src/data/`,
             },
         },
-        {
-            resolve: 'gatsby-source-rest-api',            
-            options: {
-                name: 'cineworld-api',
-                endpoints: [
-                    "https://www.cineworld.co.uk/uk/data-api-service/v1/quickbook/10108/film-events/in-cinema/8045/at-date/2021-09-21"
-                ],
-            },
-        },
+        // {
+        //     resolve: 'gatsby-source-rest-api',            
+        //     options: {
+        //         name: 'cineworld-api',
+        //         endpoints: [
+        //             "https://www.cineworld.co.uk/uk/data-api-service/v1/quickbook/10108/film-events/in-cinema/8045/at-date/2021-09-21"
+        //         ],
+        //     },
+        // },
         `gatsby-plugin-sass`,
         `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
