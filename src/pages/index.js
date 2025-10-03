@@ -1,7 +1,6 @@
 import * as  React from "react"
 import { graphql } from "gatsby"
 import "/src/styles/main.scss"
-import Heading from "/src/components/heading"
 import MovieCard from "/src/components/movie-card"
 import { Helmet } from "react-helmet"
 
@@ -10,10 +9,10 @@ const IndexPage = ({ data }) => {
   return (
     <main>
       <Helmet>
-          <title>ODEON BFI IMAX Cinema showtimes | All Films</title>
-          <meta property="og:title" content="ODEON BFI IMAX Cinema showtimes | All Films" />
-          <meta name="description" content="Book all films directly available for the Odeon BFI IMAX Cinema. Choose the film and showing of your choice." />
-          <meta property="og:description" content="Book all films directly available for the Odeon BFI IMAX Cinema. Choose the film and showing of your choice." />
+          <title>BFI IMAX Cinema showtimes | All Films</title>
+          <meta property="og:title" content="BFI IMAX Cinema showtimes | All Films" />
+          <meta name="description" content="Book all films directly available for the BFI IMAX Cinema. Choose the film and showing of your choice." />
+          <meta property="og:description" content="Book all films directly available for the BFI IMAX Cinema. Choose the film and showing of your choice." />
           <meta property="og:locale" content="en_GB" />
           <meta name="robots" content="index,follow" />
           <meta http-equiv="content-language" content="en-gb" />
@@ -22,7 +21,6 @@ const IndexPage = ({ data }) => {
 
       {data.allFilmsYaml.edges.map(item => (
         <div>
-          <Heading title="ODEON BFI IMAX"></Heading>
           {item.node.movies.map(movie => (
             <MovieCard
               key={movie.id}
