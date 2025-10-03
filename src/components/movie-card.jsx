@@ -8,7 +8,7 @@ import SchemaOrg from "/src/components/schema-org.jsx";
 
 const MovieCard = (props) => {
   return (
-    <div key={props.id} className="movie-card">
+    <div className="movie-card">
       <div className="left-panel">
         <FilmPoster src={props.poster} alt={props.title} />
       </div>

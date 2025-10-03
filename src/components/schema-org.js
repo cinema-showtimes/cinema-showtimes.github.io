@@ -1,19 +1,20 @@
-import * as React  from "react"
+import * as React from "react"
 
 const SchemaOrg = (movie) => {
-    return (
+    const ld = {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        description: movie.synopsis,
+        name: movie.title,
+        image: movie.poster,
+    }
 
-<script type="application/ld+json">
-{
-    `{
-    "@context": "https://schema.org",
-    "@type": "Movie",
-    "description": "${movie.synopsis}",
-    "name": "${movie.title}",
-    "image": "${movie.poster}"
-    }`
-}
-</script>
+    return (
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }}
+        />
     )
 }
+
 export default SchemaOrg

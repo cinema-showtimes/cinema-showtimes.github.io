@@ -1,7 +1,7 @@
 import * as  React from "react"
 import { graphql } from "gatsby"
 import "/src/styles/main.scss"
-import MovieCard from "/src/components/movie-card"
+import MovieCard from "/src/components/movie-card.jsx"
 import { Helmet } from "react-helmet"
 
 // markup

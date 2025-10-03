@@ -1,6 +1,6 @@
 import React from "react"
-import MovieCard from "/src/components/movie-card"
-import { withDesign } from 'storybook-addon-designs'
+import MovieCard from "/src/components/movie-card.jsx"
+// design addon removed for build compatibility
 export default {
   component: MovieCard,
   title: "Components/MovieCard",

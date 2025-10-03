@@ -1,6 +1,6 @@
 import React from "react"
-import FilmPoster from "/src/components/film-poster"
-import { withDesign } from 'storybook-addon-designs'
+import FilmPoster from "/src/components/film-poster.jsx"
+// design addon removed for build compatibility
 export default {
   component: FilmPoster,
   title: "Components/FilmPoster",
